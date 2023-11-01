@@ -1,3 +1,7 @@
+---
+title: Welcome
+---
+
 I'd like to understand the question: **How might humans align on how we define truth?** This question has been living rent-free in my brain for years.
 
 The second reason is to connect with folks who resonate with my thoughts. My door is open - find me to chat, collab, or share thoughts, with my buddy Toto at [@totoandindra](https://twitter.com/totoandindra).
