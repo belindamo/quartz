@@ -1,0 +1,69 @@
+To pursue this, perhaps we must first understand what the purpose of such a language is.
+
+As Wittgenstein mentioned, perhaps the purpose of any language is to elucidate one's thoughts. Language also has the obvious purpose of communication between entities. 
+
+I think this language does its job sufficiently if:
+- it can be used to build airtight arguments. 
+- it can be used as an intermediary language to verify arguments.
+
+---
+
+
+an axiomatic language that is logically coherent, global, and efficient, and therefore a more human and machine understandable language
+
+Question: How might we move up the system of formal languages, post transformer boom? 
+
+3, ie. regular languages, are all language that can be decided by a finite state automaton 
+2, ie. context free languages, are the theoretical basis for most programming languages 
+My sense is there is some way LLMs enable us to move up the hierarchy to 0, a language that is recursively enumerable, thus covering a wider problem space 
+
+Criteria
+- Phonetically based
+- a first order logic language 
+	- Maybe second onwards too?
+- Compatible with a recursively enumerable programming language 
+- 
+![[Pasted image 20230801100034.png]]
+
+-
+Combo of 
+- agent based programming (similar to OOP)
+- Probabilistic
+- Traditional
+
+—
+
+- https://en.wikipedia.org/wiki/Chomsky_hierarchy
+- Languages
+	- Lojban 
+		- While the initial aim of the Loglan project was to investigate [linguistic relativity](https://en.wikipedia.org/api/rest_v1/page/mobile-html/Linguistic_relativity "Linguistic relativity"), the active Lojban community recognizes additional applications for the language, including:
+			- Improved human–human communication, due to the logical and unambiguous structure and greater means of expression (use as a speakable language)
+			- Eliminating syntactic ambiguity in language
+			- Use as an [educational tool](https://en.wikipedia.org/api/rest_v1/page/mobile-html/Education "Education")
+			- Research in [artificial intelligence and machine understanding](https://en.wikipedia.org/api/rest_v1/page/mobile-html/Artificial_intelligence "Artificial intelligence")
+			- Improved human–computer communication, [storage ontologies](https://en.wikipedia.org/api/rest_v1/page/mobile-html/Ontology_(information_science) "Ontology (information science)"), and [computer translation of natural language text](https://en.wikipedia.org/api/rest_v1/page/mobile-html/Machine_translation "Machine translation")
+			- Research in [linguistics](https://en.wikipedia.org/api/rest_v1/page/mobile-html/Linguistics "Linguistics")
+			- Use as an academic language, such as in science or philosophy
+	- Esperanto
+	- Interlingua
+	- Guaspi
+- See a fascinating debate about https://www.quora.com/Lojban-is-a-language-that-nearly-eliminates-ambiguity-in-words-Why-do-so-few-people-speak-it
+
+---
+
+have a secret code that is typing in the American alphabet but switching the keyboard to numbers instead
+
+How might we have language that is consistent? 
+
+- A language that is accessible from both human-human, human-computer, and computer-computer interaction
+
+look at
+- lambda calculus
+- a pattern language, cristopher alexander
+- Regex
+
+I wonder if a comparative difference in speed would be trackable between a human store and computer store. E.g. it is computationally expensive 
+
+Recursion is memory and computationally expensive because you have to add function to stack every iteration, as opposed to an iterator 
+It can do multi plan exploration though that an iterator cannot
+

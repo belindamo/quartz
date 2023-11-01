@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"b9290930a918ce1f","x":-1100,"y":60,"width":1020,"height":700,"type":"text","text":"Research questions\n- Can STEM fields currently be formalized in [ ] systems?\n- Can any field of knowledge be formalized into a set of human understandable formulas relying on a formal system?\n\t- By doing so, can logical inconsistencies be teased out of any system? Or, at least acknowledged\n- Can we rewrite human language to a single language of logic? (like Esperanto)\n\t- For the purpose of having exact, productive conversations\n- How might we represent as much of human knowledge as possible in as reductionist as possible of a form? \n\t- aka How might we create a Principia Mathematica for ALL human knowledge? But more successfully\n\t- With certainty levels. Updateable by a global organization of human experts \n- Hypothesis: Does math remain the most complete formal system to date and therefore the most reductionist of fields?\n\t- (which parts of math?)\n"},
+		{"type":"text","text":"## What is the scope of math as the most complete formal system?\n\nFirst we must explore how math's systems works. \n\nOnce we examine the most reductionist of systems and its limitations, including uncertainties, we may apply similar methods to every other field. \n\nThis application process can be accelerated with the help of AI models, because the formula to apply will be well-defined. \n\n(There may be an offchance that it only can be applied via non-human understandable way...i.e. neural nets.)\n","id":"b67e55b5ad953f3c","x":480,"y":-203,"width":800,"height":643},
+		{"id":"717720b4933523dc","x":480,"y":520,"width":800,"height":600,"type":"text","text":"## Why it is important to formalize all significant bodies of knowledge\n\n- It is a source of truth with uncertainties acknowledged\n\t- Be confident in its source\n- It is as reductionist as possible. \n\t- Can be trained/encoded into any model\n\nThe end result of this is: every person has a unified knowledge base of the world (albeit with versioning)"},
+		{"id":"848dedace05b432a","x":-560,"y":-284,"width":572,"height":163,"type":"text","text":"# Limitations of Formal Systems\naka limitaitons of math, science, technology, engineering"}
+	],
+	"edges":[
+		{"id":"7357dc4be4d92eec","fromNode":"b9290930a918ce1f","fromSide":"right","toNode":"b67e55b5ad953f3c","toSide":"left"},
+		{"id":"1d9d841d88626a09","fromNode":"b9290930a918ce1f","fromSide":"right","toNode":"717720b4933523dc","toSide":"left"}
+	]
+}
