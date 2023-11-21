@@ -1,1 +1,0 @@
-How might we quickly retrieve information without opening up an app?

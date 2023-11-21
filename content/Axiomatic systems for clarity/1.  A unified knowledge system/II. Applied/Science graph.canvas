@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"be0ae3a22271157b","x":-820,"y":-600,"width":880,"height":1080,"type":"text","text":"- [[my opwdri skill tree]]\n- [[my explainable memory]]\n- [[Indra's net]]\n- [[A reductive map of human knowledge.canvas|_A reductive map of human knowledge]]\n- [classes](https://docs.google.com/spreadsheets/d/1b9hkgZutHKRFZ30y8RUK1hbk8VxuvtrXzGqT-3Rmc24/edit#gid=0) \n- khan academy\n\n\n### Topics\n- Meta Science\n\t- formal systems\n- Math\n\t- Zermelo Taenkel set theory\n\t- Peano axioms\n\t- Incompleteness theorem\n\t- \n- Physics\n\t- \n- Probability & Stats\n- Computer Science\n- Neuroscience\n- Biology\n- Psychology\n- Linguistics\n- Economics\n- Philosophy\n\n\n\n\nWhat skills have I acquired during my life?\n- --- In industry ---\n- Startup lifecycle\n- Product discovery\n- Engineering\n- AI\n- DevOps\n- Finance\n- Marketing\n- Sales\n- Decision making\n- --- In school ---\n- Computer science\n- Psychology\n- Philosophy\n- AI\n- Math\n- English\n- History\n- Life sciences\n- Physics\n- Music theory\n- --- In hobbies ---\n- Visual art\n- Piano\n- Singing\n\nHow might I codify these in a human and machine explainable way? "}
+	],
+	"edges":[]
+}
