@@ -8,4 +8,5 @@ It's tough, man. But there are some things I've found that make life easier and 
 - Music
 
 Want to peer into my own experiments and/or insights with these? It's a bit embarrassing but you can see them here:
-- 
+- [[Practice advice to self]]
+- [[Why I'll continue metta-tating]]
