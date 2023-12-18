@@ -1,0 +1,11 @@
+It's tough, man. But there are some things I've found that make life easier and even deeply fun:
+
+- Introspective practices like meditation and writing
+- Aerial arts
+- Intellectually stimulating collaborations with people
+- Connection with family
+- Sex
+- Music
+
+Want to peer into my own experiments and/or insights with these? It's a bit embarrassing but you can see them here:
+- 

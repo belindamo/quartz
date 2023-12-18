@@ -3,12 +3,13 @@ title: Welcome
 ---
 I'd like to understand the question: **How might humans align on how we define truth?** This question has been living rent-free in my brain for years.
 
-The second reason is to connect with folks who resonate with my thoughts. My door is open - find me to chat, collab, or share thoughts. [@totoandindra](https://twitter.com/totoandindra).
+I would love to chat with folks who resonate with my thoughts. My door is open - find me to share thoughts [@totoandindra](https://twitter.com/totoandindra).
 
-## Start here
+## Choose your path
+- [[Navigating being a human]]
 - [[Axiomatic Systems for Clarity]]
 
-Additional points
+Additional entry points
 - [[truth|Entry point to building blocks for my own knowledge system - truth]]
 - [[On practical processes for creating in the 21st century]]
 - [[product|What is a product?]]

@@ -1,5 +1,3 @@
-#internal-c #to-organize 
-
 Product is the happy marriage between [[art|creating art]]  and [[distribute|distributing it]]. 
 
 A good product fulfills desires of people outside of the self.
