@@ -10,16 +10,16 @@ There are more states too, and every person have different experiences in each.
 
 Here's a guide I wrote myself for entering these states. 
 
-### How states have been entered in the past
-- Set 1 intention. Usually something simple like "I want to surrender", "I want to bring pleasure/love to others"
-- Short breath awareness or body scan. Maybe relax tension in body while doing body scan
-- Smile however feels natural
-- Breathe in play/joy, open, breathe out relax, open. This will bring you through the states
-- Awareness to the body's pleasure
-- [6Rs](https://www.dhammasukha.org/the-6rs) when things come up
-- Surrender
+## How states have been entered in the past
+1. Set 1 intention. Usually something simple like "I want to surrender", "I want to bring pleasure/love to others"
+2. Short breath awareness or body scan. Maybe relax tension in body while doing body scan
+3. Smile however feels natural
+4. Breathe in play/joy, open, breathe out relax, open. This will bring you through the states
+5. Awareness to the body's pleasure
+6. [6Rs](https://www.dhammasukha.org/the-6rs) when things come up
+7. Surrender
 
-### How some of these states have felt in the past
+## How some of these states have felt in the past
 - J1 - Tingling, physical, swaying
 - J2 - Clarity, joy with and for others, play as a child
 - J3 - Peace, love, safety
@@ -30,18 +30,18 @@ Here's a guide I wrote myself for entering these states.
 - J2 -> J3 - Love, less swaying, spherical
 - J3 -> J4 - Stillness, white light
 
-### What feels natural for me
+## What feels natural for me
 Every body is different, and mine is particularly in tune with: 
 - Awareness of the body
 - Some physical movement
 - Expansion aspect of expansion, pleasure, and relaxation
 
-### Nice exercises in the past
+## Nice exercises
 - Forgiveness
 - Play with pleasure/expansion/relaxation and breath
 - Ask the body: What would you like to tell me?
 
-### Nice tips
+## Nice tips
 - "For the effort you think it takes, 1/2 it. then 1/2 it again"
 - "Tension is the body's feedback mechanism"
 
