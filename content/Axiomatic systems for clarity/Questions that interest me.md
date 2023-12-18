@@ -13,3 +13,4 @@ Questions that I think about a lot:
 - How might we achieve peace together? 
 	- What might world peace look like? 
 - Knowledge graphs?
+- How might we measure various bodily states of: love, compassion, focus, anger, etc. 

@@ -51,7 +51,7 @@ Here is the current state of the world:
 
 Tech literacy is growing at a much, much faster rate than English literacy. Tech literacy, defined as knowing how to use a smartphone, is at 84% globally. This number increased by almost 50% from 2017 to 2022. 
 
-Nearly everyone is becoming a tech worker. There are approximately 250 million knowledge workers globally and while knowledge workers only make up 10% of the world’s workforce, they account for over 50% of GDP.
+**Tech work has becoming the cornerstone of our global economy.** There are approximately 250 million knowledge workers globally and while knowledge workers only make up 10% of the world’s workforce, they account for over 50% of GDP.
 
 ### Technology & remote worker shortage
 

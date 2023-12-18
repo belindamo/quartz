@@ -1,4 +1,4 @@
- 1. Convert every part of math into a computation using LLMs
+ 1. Convert every part of math into a function using LLMs
 2. Test each part with many test cases, so that it gets to 100% for all test cases.
 3. Run a prompt to find contradictions or novel solutions
 

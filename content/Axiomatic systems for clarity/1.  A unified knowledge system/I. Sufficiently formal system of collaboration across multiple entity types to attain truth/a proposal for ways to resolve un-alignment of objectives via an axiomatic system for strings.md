@@ -1,9 +1,6 @@
-Read first: [[Axiomatic systems for clarity/Theory - knowledge - Unified global knowledge system/Axiomatic language, natural and programming]]
-
+Read first: [[4. Axiomatic language, natural and programmatic, and Pattern languages]]
 
 Here we use [[Godel numbering]] to 
-
-
 
 Logical and whole-bodied inquiry
 

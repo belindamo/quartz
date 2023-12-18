@@ -14,7 +14,7 @@ Additional points
 - [[product|What is a product?]]
 - [[nodes and edges]]
 - Fiction: [[magic]]
-- Thesis: [[Decoupling Language Skills from Job Skills]]
+- Thesis: [[Decoupling Language Fluency from Talent]]
 
 - Building with flow and joy
 - A knowledge base

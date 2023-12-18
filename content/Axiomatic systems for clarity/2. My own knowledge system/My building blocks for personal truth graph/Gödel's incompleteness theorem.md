@@ -2,9 +2,9 @@
 
 Any system that can talk about itself and it’s own consistency is necessarily inconsistent.
 
-**First Incompleteness Theorem**: "Any consistent formal system F within which a certain amount of elementary arithmetic can be carried out is incomplete; i.e., there are statements of the language of F which can neither be proved nor disproved in F." (Raatikainen 2015
+**First Incompleteness Theorem**: "Any consistent formal system F within which a certain amount of elementary arithmetic can be carried out is incomplete; i.e., there are statements of the language of F which can neither be proved nor disproved in F." 
 
-**Second Incompleteness Theorem**: "Assume F is a consistent formalized system which contains elementary arithmetic. Then
+**Second Incompleteness Theorem**: "Assume F is a consistent formalized system which contains elementary arithmetic. Then F does not prove the consistency of F"
 
 -[Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 ([Raatikainen 2015](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems#CITEREFRaatikainen2015))
@@ -41,6 +41,8 @@ Related:
 - Godel's
 - [recursive acronym](https://en.m.wikipedia.org/wiki/Recursive_acronym)
 ref: GEB, Hoefstatder
+
+[[A strange loop is a paradoxical level crossing feedback loop.]]
 
 ### Logical 
 - Gongsun Long, Logicians of ancient Chinese philosophy
