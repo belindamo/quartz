@@ -6,6 +6,6 @@ Reasons
 - I'm more likely to be happy during sitting than not
 - I'm more likely to be happy rest of the day if i sit
 - Being happy (serotonin release) generally seems better than not for all processes involved in being a human. 
-	- for insight
-	- for vibrancy
+	- For insight
+	- For vibrancy
 - I like the people I've met sitting
