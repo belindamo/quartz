@@ -18,8 +18,7 @@ Additional entry points
 - Thesis: [[Decoupling Language Fluency from Talent]]
 
 - Building with flow and joy
-- A knowledge base
-	- (previously.... symsys major)
+- A knowledge base (previously symsys sun)
 - [[A formal system of truth across multiple entities.canvas|A formal system of truth across multiple entities]]
 - [[a proposal for a unified global knowledge system]]
 	- child: [[Axiomatic systems for clarity/Theory - knowledge - Unified global knowledge system/Axiomatic language, natural and programming]]

@@ -1,4 +1,9 @@
-#internal-c 
+---
+tags:
+  - internal-c
+---
+
+
 **Context** determines the significance of a concept. 
 
 The issue with weighting heavily on numbers, like any medium, is that it loses context.

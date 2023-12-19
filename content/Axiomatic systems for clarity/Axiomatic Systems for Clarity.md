@@ -1,3 +1,5 @@
+This is a work in progress.
+
 - [[0. Prologue]]
 - [[1. A unified knowledge system]]
 - [[2. My own knowledge system]]

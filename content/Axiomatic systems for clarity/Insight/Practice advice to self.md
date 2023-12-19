@@ -1,4 +1,4 @@
-I just attended this meditation retreat and it was pretty great. I came in with no expectations and came out with some magical-like, [deterministic](https://en.wikipedia.org/wiki/Deterministic_system) way to access certain body states. The practice comes from a Buddhist process called the [Jhanas](https://www.dhammawiki.com/index.php/9_Jhanas), but I'm agnostic and from this experience [[Why I'll continue metta-tating|I'm pretty convinced to continue this practice]].
+I just attended this meditation retreat and it was pretty great. I came in with no expectations and came out with some magical-like, [deterministic](https://en.wikipedia.org/wiki/Deterministic_system) way to access certain body states. The practice comes from a Buddhist process called the [Jhanas](https://www.jhourney.io/blog/what-are-the-jhanas), but I'm agnostic and from this experience [[Why I'll continue metta-tating|I'm pretty convinced to continue this practice]].
 
 In my own experience, I would describe the 4 distinct states that were accessed on will as:
 - J1 - Tingly sensations
