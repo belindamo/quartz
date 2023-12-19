@@ -7,7 +7,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "GTM-M3S9SHQR"
     },
     baseUrl: "https://indras-systems.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
