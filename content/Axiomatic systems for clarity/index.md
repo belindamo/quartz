@@ -1,1 +1,1 @@
-/Users/belindamo/Documents/quartz/content/index.md
+/Users/belindamo/Documents/indras-systems/content/index.md

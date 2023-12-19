@@ -14,3 +14,4 @@ Questions that I think about a lot:
 	- What might world peace look like? 
 - Knowledge graphs?
 - How might we measure various bodily states of: love, compassion, focus, anger, etc. 
+- Where does EA get it wrong: empathy (metta and other physical states) & legibility

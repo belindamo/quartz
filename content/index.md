@@ -3,7 +3,7 @@ title: Welcome
 ---
 I'd like to understand the question: **How might humans align on how we define truth?** This question has been living rent-free in my brain for years.
 
-I would love to chat with folks who resonate with my thoughts. My door is open - find me to share thoughts [@totoandindra](https://twitter.com/totoandindra).
+I would love to chat with people who resonate with my thoughts! [My cafe is open.](https://twitter.com/totoindras)
 
 ## Choose your path
 - [[Navigating being a human]]
@@ -14,7 +14,7 @@ Additional entry points
 - [[On practical processes for creating in the 21st century]]
 - [[product|What is a product?]]
 - [[nodes and edges]]
-- Fiction: [[magic]]
+- Fiction: [[magic]], [[Tied up]]
 - Thesis: [[Decoupling Language Fluency from Talent]]
 
 - Building with flow and joy

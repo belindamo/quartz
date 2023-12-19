@@ -1,5 +1,5 @@
 ---
-publish: "false"
+draft: "true"
 ---
 Style: 
 - Evergreen
@@ -11,7 +11,6 @@ Intention:
 
 ---
 ## More for v0 - my beliefs
-## content to kick things off
 - [[But why science tho]]
 - how to science
 - [[conscientiousness]]

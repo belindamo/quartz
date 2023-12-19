@@ -1,8 +1,13 @@
+---
+tags:
+  - poem
+---
+
 *2023*
 
 Adults get tied up in their loops
 Strange, loopy
-nature forces their hands
+Nature forces their hands
 Ropes cut red marks
 into themselves then to the next
 Smaller bundles of loops

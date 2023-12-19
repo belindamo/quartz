@@ -1,20 +1,8 @@
-# Quartz v4
+# 🧚🏼‍♀️ Indra's Systems
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+How this works:
+- `content` folder contains writings. 
+- Releases tab has larger writing milestones.
+- Commits are every sync
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-**If you are looking for Quartz v3, you can find it on the [`hugo` branch](https://github.com/jackyzha0/quartz/tree/hugo).**
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+This is built on top of [Quartz](https://quartz.jzhao.xyz/), which helps me open source my writing commits and easily deploy them with a pretty website. The content syncs with my [Obsidian](https://obsidian.md) notes! ❤️

@@ -1,5 +1,5 @@
-Mar 14, 2023
-
+*Last updated: Mar 14, 2023*
+*This is written in relation to [vivatranslate.com](https://vivatranslate.com)*
 ## A Complete Abstraction of Language in the Workplace
 
 In today’s world, talent is equally distributed but opportunity is not.

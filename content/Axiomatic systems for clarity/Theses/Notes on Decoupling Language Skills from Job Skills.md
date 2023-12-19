@@ -1,8 +1,6 @@
 ---
-publish:
-  - "false"
+draft: "true"
 ---
-
 
 # Misc. Notes
 
