@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "GTM-M3S9SHQR"
+      tagId: "G-WC5J24H920"
     },
     baseUrl: "https://indras-systems.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
