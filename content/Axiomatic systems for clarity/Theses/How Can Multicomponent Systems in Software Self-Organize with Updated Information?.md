@@ -5,9 +5,15 @@ Actual Time: _Pending_
 
 ## Summary:
 
-In the rapidly evolution of software development, the ability for systems to adapt and reorganize themselves in response to new information seems to be the next step. This experiment delves into a scaffolding framework that enables software components to self-organize and optimize their operations autonomously. The proposed system is a radical departure from traditional static software integration, offering a dynamic solution that intelligently manages the complex interplay of various components within large contexts.
+In the rapidly evolution of software development, the ability for systems to adapt and reorganize themselves in response to new information seems to be the next step. This experiment delves into a scaffolding framework that enables software components to self-organize and optimize their operations autonomously. The proposed system is a radical departure from traditional static software integration, offering a dynamic solution that manages the complex interplay of various components within long, and theoretically infinite, contexts.
 
 Existing tools have an inability to efficiently handle long context windows which often lose ability to prioritize many concepts. This inefficiency leads to a bottleneck in AI-powered development processes. By introducing a sophisticated framework that combines deterministic and probabilistic functions with modular components, this proposal aims to provide a novel way for software systems to adapt and optimize in real-time.
+
+If this works, this system will be able to hold **hypothetically infinite amounts of context** is necessary here to mention, and infinite amounts of code. We're trying to achieve a modular, hierarchical system that could have theoretically infinite levels.
+
+## Related Works:
+
+The literature review will include papers such as the Dreamcoder, Peano Axioms, and MoE papers as well as an examination of products like GitHub Copilot and Lean4. These works will provide a solid foundation and context for the proposed framework, offering insights into modular architecture, adaptive systems, and advanced code generation techniques.
 
 ## Plan:
 
@@ -40,8 +46,4 @@ The framework's success will be measured against its ability to manage and prior
 
 ## Implications:
 
-This innovative approach has the potential to redefine software system design, leading to more adaptive, efficient, and self-organizing architectures. By addressing the critical challenge of managing complex information in vast contexts, the proposed framework stands to significantly enhance software development processes, boosting capabilities and productivity.
-
-## Related Works:
-
-The literature review will include papers such as the Dreamcoder, Peano Axioms, and MoE papers as well as an examination of products like GitHub Copilot and Lean4. These works will provide a solid foundation and context for the proposed framework, offering insights into modular architecture, adaptive systems, and advanced code generation techniques.
+Test the framework's capability to manage and prioritize context in scenarios with hypothetically infinite amounts of information and code generation needs. Using personal data management as a specific example, the evaluation will focus on the system's hierarchical structuring ability to handle multiple levels of complexity and infinite context layers. The goal is to demonstrate the framework's scalability and adaptability in modularizing systems for enhanced efficiency and dynamic reorganization.
