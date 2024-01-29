@@ -2,6 +2,8 @@
 draft: "true"
 ---
 Aka pulling out structures from large language models
+![[IMG_8521.jpeg]]
+![[IMG_8522.jpeg]]
 # 1. A unified knowledge system
 To review
 
@@ -27,7 +29,7 @@ To review
 	- we have all these different scaffoldings.
 - II
 	- [[A reductive map of human knowledge.canvas|II. A reductive map of human knowledge]]
-	- [[Science graph.canvas|II. Science graph]]
+	- [[Science graph, weighted towards my interests.canvas|II. Science graph]]
 	- [[a proposal for novel research discoveries]]
 - III
 	- [[(A prerequisite) Should you believe in science?]]
