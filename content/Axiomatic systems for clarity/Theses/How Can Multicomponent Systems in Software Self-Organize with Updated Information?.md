@@ -9,7 +9,7 @@ In the rapidly evolution of software development, the ability for systems to ada
 
 Existing tools have an inability to efficiently handle long context windows which often lose ability to prioritize many concepts. This inefficiency leads to a bottleneck in AI-powered development processes. By introducing a sophisticated framework that combines deterministic and probabilistic functions with modular components, this proposal aims to provide a novel way for software systems to adapt and optimize in real-time.
 
-If this works, this system will be able to hold **hypothetically infinite amounts of context** is necessary here to mention, and infinite amounts of code. We're trying to achieve a modular, hierarchical system that could have theoretically infinite levels.
+If this works, this system will be able to hold **theoretically infinite amounts of context**, which means generating theoretically infinite amounts of useful code. We're trying to achieve a modular, hierarchical system that could have theoretically infinite levels.
 
 ## Related Works:
 
