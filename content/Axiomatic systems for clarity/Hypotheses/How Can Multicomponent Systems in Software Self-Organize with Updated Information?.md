@@ -5,11 +5,11 @@ Actual Time: _Pending_
 
 ## Summary:
 
-In the rapidly evolution of software development, the ability for systems to adapt and reorganize themselves in response to new information seems to be the next step. This experiment delves into a scaffolding framework that enables software components to self-organize and optimize their operations autonomously. The proposed system is a radical departure from traditional static software integration, offering a dynamic solution that manages the complex interplay of various components within long, and theoretically infinite, contexts.
+It seems that the next step in software is the ability for systems to adapt and reorganize themselves in response to new information. This proposal delves into a scaffolding framework that enables software components to self-organize and optimize their operations autonomously. The proposed system is a radical departure from traditional static software integration, offering a dynamic solution that manages the complex interplay of various components within long, and theoretically infinite, contexts.
 
-Existing tools have an inability to efficiently handle long context windows which often lose ability to prioritize many concepts. This inefficiency leads to a bottleneck in AI-powered development processes. By introducing a sophisticated framework that combines deterministic and probabilistic functions with modular components, this proposal aims to provide a novel way for software systems to adapt and optimize in real-time.
+Existing tools have an inability to efficiently handle long context windows which often lose ability to prioritize many concepts. This inefficiency leads to a bottleneck in AI-powered development processes. We hope this framework that modularizes deterministic and probabilistic / statistical (this includes LLMs) functions will enable any system to update towards an objective in real-time.
 
-If this works, this system will be able to hold **theoretically infinite amounts of context**, which means generating theoretically infinite amounts of useful code. We're trying to achieve a modular, hierarchical system that could have theoretically infinite levels.
+If this works, this system will be able to hold **theoretically infinite amounts of context**, which means generating theoretically infinite amounts of useful code. This is a modular, hierarchical system that could have theoretically infinite levels.
 
 ## Related Works:
 

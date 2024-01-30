@@ -4,7 +4,7 @@
 - Current reliance on human monitoring for successful task completion, even for AI assistant tools.
 
 **Proposed Flip**:
-- Transitioning responsibility for task verification to continuously running and updating tests.
+- Transitioning responsibility from human monitoring of an AI instance to no monitoring of an AI instance for task verification, by continuously running tests and updating task script based on changes. 
 
 **Solution**:
 - Implement AI-driven automation for web traversal, adaptable for various applications, with continuous testing to ensure functionality.
@@ -25,7 +25,7 @@
 - Scalability from single to thousands of tasks, with potential for crowdsourcing tasks and community maintenance. 
 
 **Related Works**:
-- "Multi-on": An assistant platform.
+- MultiON: An assistant platform.
 - Selenium and Puppeteer: Tools for browser automation.
 
 **Evaluation Plan**:
