@@ -3,7 +3,7 @@ title: Welcome
 ---
 I'd like to understand the question: **How might humans align on how we define truth?** This question has been living rent-free in my brain for years.
 
-I would love to chat with people who resonate with my thoughts! [My cafe is open.](https://twitter.com/totoindras)
+I would love to chat with people who resonate with my thoughts! [My cafe is open.](https://twitter.com/belindmo)
 
 ## Choose your path
 - [[Navigating being a human]]
