@@ -8,7 +8,7 @@ notes: "todo: experiment w diff styles like Ursula K Le Guin / Kazuo Ishiguro / 
 
 *"Any sufficiently advanced magic is indistinguishable from technology." - Larry Niven*
 
-The full moon's glow painted the night sky in bloody strokes.  Kal found peace in its anomalous presence like the world had struck perfect equanimity. Around her, the night market bustled with merchants who haggled steel weapons with geometric markings. Visitors perused colorful market stalls celebrating Artheria’s annual Lunar festival. Lanterns floated above the streets and the moon’s blood glow illuminated faint shimmers of ki in the air swirling in infinite patterns. This got her excited as she remembered that she was about to meet a Seer who knew the truth of the world.
+The full moon's glow painted the night sky in bloody strokes.  Kal found peace in its anomalous presence, like the world had struck perfect equanimity. Around her, the night market bustled with merchants who haggled steel weapons with geometric markings. Visitors perused colorful market stalls to celebrate Artheria’s annual Lunar festival. Lanterns floated above the streets and the moon’s blood glow illuminated faint shimmers of ki in the air swirling in infinite patterns. This got her excited as she remembered that she was about to meet a Seer who knew the truth of the world.
 
 Kal walked through the market passing by entertainers, warriors, and noblepeople. The fire festival was a flattening of Artheria’s magical caste – city dwellers gathered together regardless of magic ability in order to celebrate collective consciousness, the primary right of every citizen in Artheria.
 
@@ -62,11 +62,11 @@ Kal knew her response here was key. She knew this book’s worth and that the se
 
 “I am not seeking money. I am seeking knowledge for knowledge,” Kal said. “I want to know about the creation of the world.”
 
-“You already know it.” he said. “Every child in Artheria has been taught the Creationary story.”
+“You know it already.” he said. “Every child in Artheria has been taught the Creationary story.”
 
-“I’m not talking about what they teach us in school,” Kal said. She wondered if the seer already knew who she was – Kal would not be surprised. “I know that the stories of Raj and Aja are false tales. I’ve done my own digging and there is no empirical evidence about their existence.”
+“I’m not talking about what they teach us in school,” Kal said. She wondered if the seer already knew who she was. “I know that the stories of Raj and Aja are false tales. I’ve done my own digging and there is no empirical evidence about their existence.”
 
-“Empirical,” he said. “How bold to speak the word.”
+“Empirical,” he echoed. “How bold to speak the word.”
 
 “I know who you are and that empiricism is also important to you,” Kal said. “I have used it to test my own assumptions about the truth of the world. And I know that Artherian officials tell us everything but the truth. They feed us fables at the expense of our citizens’ long-term wellbeing. Our magic source dwindles yet there are no efforts to improve the nation. Nobles in power only want to keep power. I want to find the truth and share it with all.”
 

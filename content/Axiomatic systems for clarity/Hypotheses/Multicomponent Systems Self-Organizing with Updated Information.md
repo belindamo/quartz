@@ -1,31 +1,32 @@
 ### Experiment Length:
 
 Estimated Time: 1 month  
+Start Date: *Pending*
 Actual Time: _Pending_
 
 ## Summary:
 
-It seems that the next step in software is the ability for systems to adapt and reorganize themselves in response to new information. This proposal delves into a scaffolding framework that enables software components to self-organize and optimize their operations autonomously. The proposed system is a radical departure from traditional static software integration, offering a dynamic solution that manages the complex interplay of various components within long, and theoretically infinite, contexts.
+It seems that the next step in software is the ability for systems to adapt and reorganize themselves in response to new information. This proposal delves into a scaffolding framework that enables software components to self-organize and optimize their operations autonomously. The proposed system is a departure from traditional static software integration, to manage various components with long, and theoretically infinite, contexts.
 
 Existing tools have an inability to efficiently handle long context windows which often lose ability to prioritize many concepts. This inefficiency leads to a bottleneck in AI-powered development processes. We hope this framework that modularizes deterministic and probabilistic / statistical (this includes LLMs) functions will enable any system to update towards an objective in real-time.
 
 If this works, this system will be able to hold **theoretically infinite amounts of context**, which means generating theoretically infinite amounts of useful code. This is a modular, hierarchical system that could have theoretically infinite levels.
 
 ## Related Works:
-
-The literature review will include papers such as the Dreamcoder, Peano Axioms, and MoE papers as well as an examination of products like GitHub Copilot and Lean4. These works will provide a solid foundation and context for the proposed framework, offering insights into modular architecture, adaptive systems, and advanced code generation techniques.
+(📍HERE)
+The literature review will include papers such as the AutoML survey, Dreamcoder, Peano Axioms, Alphacode, and MoE papers as well as an examination of products like GitHub Copilot and Lean4. These works will provide a foundation for the proposed framework, offering insights into modular architecture, adaptive systems, and advanced code generation techniques.
 
 ## Plan:
 
 The core of this project involves architecting a modular framework that houses:
-- deterministic functions
-- probabilistic functions
-- Large Language Models
-- components of Large Language Models
+- Deterministic functions
+- Probabilistic functions
+- Large Language Models treated as APIs
+- APIs 
 - Smaller models
-- components of smaller models
+- Components of smaller models
 
-These elements are designed to interact through well-defined protocols, enabling the system to dynamically prioritize and manage complex contexts. The approach is particularly tailored for advanced code generation tasks, where the capacity to handle intricate, evolving information is crucial.
+These elements are designed to interact through well-defined protocols, enabling the system to dynamically prioritize and manage complex contexts. The approach is intended to be tailored towards advanced code generation tasks.
 
 ### Methodology:
 

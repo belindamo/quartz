@@ -8,7 +8,7 @@ English is the current global language of business, yet 80% of the world does no
 
 From the Tower of Babel to Star Trek’s universal translator, the world has dreamed of what life would look like if you could speak with anyone else effortlessly. 
 
-With the advent of large language models such as GPT and BERT, AI translation output has in many applications become indistinguishable from that of a human translator. Machine translation has even been used to communicate in high-stakes situations such as medical cases. For daily situations around the world, AI translation is ubiquitous - in 2020, over 1 billion people used a translation application, or roughly 15% of the world’s population. 
+With the advent of large language models such as GPT-3 and BERT, AI translation output has in many applications become indistinguishable from that of a human translator. Machine translation has even been used to communicate in high-stakes situations such as medical cases. For daily situations around the world, AI translation is ubiquitous - in 2020, over 1 billion people used a translation application, or roughly 15% of the world’s population. 
 
 Despite these advancements, the most crucial use cases for MT are still yet to be unlocked. How do we enable someone to connect with any other person around the world intellectually, emotionally, and professionally?
 
