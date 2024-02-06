@@ -11,7 +11,7 @@
 
 Philosophy encompasses all bodies of [[knowledge|knowledge]], [historically](https://en.wikipedia.org/wiki/Philosophy#:~:text=Historically%2C%20philosophy%20encompassed%20all%20bodies%20of%20knowledge).
 
-With this definition, all knowledge including [[Axiomatic systems for clarity/2. My own knowledge system/My building blocks for personal truth graph/science]] can be encompassed by philosophy. 
+With this definition, all knowledge including [[Home/2. My own knowledge system/My building blocks for personal truth graph/science]] can be encompassed by philosophy. 
 
 There are 3 broad categories that interest me:
 

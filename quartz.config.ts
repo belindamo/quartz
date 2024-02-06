@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "https://indras-systems.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified", // vs. "created"
     theme: {
       typography: {
         header: "Schibsted Grotesk",
@@ -48,7 +48,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
+        priority: ["frontmatter", "filesystem", "git"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),

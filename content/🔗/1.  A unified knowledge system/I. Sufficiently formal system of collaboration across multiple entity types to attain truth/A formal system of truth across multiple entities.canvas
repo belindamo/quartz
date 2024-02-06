@@ -10,7 +10,7 @@
 		{"type":"text","text":"# On Human alignment\nIs there a way to incentivize all parties to do the right thing? Like an anti-prisoner's dilemma","id":"50a1ac742a53d2eb","x":1240,"y":418,"width":678,"height":386},
 		{"id":"129b9adb47f78a0c","type":"text","text":"# formal system to represent all of human knowledge\n\n\n![[IMG_6959.jpeg]]\n\nThere is a relationship between formal logic and mathematics. \nGödel also showed that natural language statements can be displayed via mathematics statements\n\n\nThis **there must be a relationship between formal logic and every field of human knowledge** .\n\n\n#uks","x":1329,"y":982,"width":1031,"height":1138},
 		{"id":"5f059a6b209fd512","type":"file","file":"Axiomatic systems for clarity/4. Axiomatic language, natural and programmatic, and Pattern languages/a pattern language corresponding problems to  proposals.md","x":-1200,"y":-520,"width":400,"height":400},
-		{"type":"file","file":"Axiomatic systems for clarity/1.  A unified knowledge system/I. Sufficiently formal system of collaboration across multiple entity types to attain truth/power - the ocean and beach, waves.md","id":"982258472a3b4152","x":2160,"y":-790,"width":796,"height":855}
+		{"type":"file","file":"Home/1.  A unified knowledge system/I. Sufficiently formal system of collaboration across multiple entity types to attain truth/power - the ocean and beach, waves.md","id":"982258472a3b4152","x":2160,"y":-790,"width":796,"height":855}
 	],
 	"edges":[
 		{"id":"2f7c93bee7faf70d","fromNode":"3e4b1caa1adad2de","fromSide":"right","toNode":"f628038db6b75ca3","toSide":"left"},
