@@ -1,1 +1,0 @@
-/Users/belindamo/Documents/indras-systems/content/index.md

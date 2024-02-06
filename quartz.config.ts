@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "https://indras-systems.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified", // vs. "created"
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
