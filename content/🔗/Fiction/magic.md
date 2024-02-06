@@ -2,8 +2,8 @@
 tags:
   - fiction
 notes: "todo: experiment w diff styles like Ursula K Le Guin / Kazuo Ishiguro / Patrick Rothfuss, with lex.page"
+date: 2022-01-01
 ---
-*2022*
 #### Part I: Seer Encounter [TRUTH]
 
 *"Any sufficiently advanced magic is indistinguishable from technology." - Larry Niven*
