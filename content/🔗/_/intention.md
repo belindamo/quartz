@@ -15,7 +15,7 @@ Intention:
 - how to science
 - [[conscientiousness]]
 - Ideas that I want to exist in the world - org plans
-- [[Indra's net/unorganized/decisions|Decisions toolkit - how to make good decisions]]
+- [[decisions|Decisions toolkit - how to make good decisions]]
 - Mapping concepts across disciplines 
 - How to get a well-paying job starting from anywhere in the world
 - Difficult concepts explained - a series. 
