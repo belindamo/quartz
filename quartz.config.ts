@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧚🏼‍♀️ Indra's systems",
+    pageTitle: "🧚🏼‍♀️ Experimental writings",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google",
       tagId: "G-WC5J24H920"
     },
-    baseUrl: "https://indras-systems.vercel.app",
+    baseUrl: "https://write.justanexperiment.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

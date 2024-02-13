@@ -1,10 +1,10 @@
 ---
 title: Welcome
-note: Home page for public site
+note: Home page
 ---
 I'd like to understand the question: **How might humans align on how we define truth?** This question has been living rent-free in my brain for years.
 
-I would love to chat with people who resonate with my thoughts! [Please reach out ^^](https://twitter.com/belindmo)
+I would love to chat with people who resonate with my thoughts! [Message me if you'd like ^^](https://twitter.com/belindmo)
 
 ## Experiments
 Enjoy these AI-filled experiments! 
@@ -16,6 +16,7 @@ Enjoy these AI-filled experiments!
 - [[2. My own knowledge system]]
 - [[1. Hour tracking 🟠]]
 - [[0. Sticking with 1 site 🔴]]
+
 ## Writing
 Wandering? Choose your path:
 1. [[Navigating being a human]]
