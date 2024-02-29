@@ -3,19 +3,21 @@ title: Welcome
 note: Home page
 ---
 ## Experiments
-These are the experiment write-ups for the projects hosted on https://justanexperiment.com. 
+These are the write-ups for the experiments hosted on https://justanexperiment.com. 
 
 🟢 = pass
+
 🟠 = somewhat pass
+
 🔴 = fail
 
-- [[6. Next.js PWA application 🟢]]
-- [[5. Custom GPTs for cross-posting 🟠]]
-- [[4. From heat-map to front-end code 🟢]]
-- [[3. RAG for an orthopedic surgeon 🟢]]
-- [[2. Science knowledge graph 🟢]]
-- [[1. Hour tracking 🟠]]
 - [[0. Sticking with 1 site 🔴]]
+- [[1. Hour tracking 🟠]]
+- [[2. Science knowledge graph 🟢]]
+- [[3. RAG for an orthopedic surgeon 🟢]]
+- [[4. From heat-map to front-end code 🟢]]
+- [[5. Custom GPTs for cross-posting 🟠]]
+- [[6. Next.js PWA application 🟢]]
 
 ## Writing
 Wandering? Choose your path:
