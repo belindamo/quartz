@@ -2,7 +2,7 @@
 title: Welcome
 note: Home page
 ---
-## Experiments
+## Experiment write-ups
 These are the write-ups for the experiments hosted on https://justanexperiment.com. 
 
 🟢 = pass
