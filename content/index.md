@@ -19,6 +19,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[5. Custom GPTs for cross-posting 🟠]]
 - [[6. Next.js PWA application 🟢]]
 
+(Write-ups are generated from my messy notes using AI)
 ## Writing
 Wandering? Choose your path:
 1. [[product|What is a product?]]
