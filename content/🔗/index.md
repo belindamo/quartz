@@ -1,0 +1,1 @@
+/Users/belindamo/write/content/index.md

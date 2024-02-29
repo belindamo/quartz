@@ -14,6 +14,6 @@ This can be accomplished in math.
 We can start with a series of axioms in math, perhaps imported from the Principia Mathematica. 
 
 
-child of [[a proposal for a unified global knowledge system]]
+Parent:: [[a proposal for a unified global knowledge system]]
 sibling to [[Axiomatic systems for clarity/Theory - knowledge - Unified global knowledge system/Axiomatic language, natural and programming]]
-applied in [a proposal for a recursively decomposable multi-agent system](https://docs.google.com/document/d/1XjJ-wKAcG2ET-U31g1w7AgHoxbfOsiusxjy4MjQ-sLQ/edit#heading=h.1wpme4cab2z7) (this is how it can be achieved)
+Parent:: [a proposal for a recursively decomposable multi-agent system](https://docs.google.com/document/d/1XjJ-wKAcG2ET-U31g1w7AgHoxbfOsiusxjy4MjQ-sLQ/edit#heading=h.1wpme4cab2z7) (this is how it can be achieved)

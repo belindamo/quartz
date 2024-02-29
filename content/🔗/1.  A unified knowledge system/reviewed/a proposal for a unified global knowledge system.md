@@ -76,7 +76,7 @@ The Principia Mathematica by Alfred Whitehead and Bertrand Russell was an attemp
 While Gödel proved that math is not a complete system, at least under the PM, the statements that he referred to were all self-referential. We additionally look at later theorems that show incompleteness such as the [Paris-Harrington Theorem](https://en.wikipedia.org/wiki/Paris%E2%80%93Harrington_theorem) which also shows self-referencing. Thus, if we approach 
 
 ### Memory techniques 
-There have been many [[My memory]] techniques.
+There have been many [[my memory]] techniques.
 
 These can be traced back to the *ad horenium* in Classical times. Most recently, Lynne Kelly is an anthropologist who has been gathering techniques used by civilizations for thousands of years.
 
