@@ -2,7 +2,7 @@
 title: Welcome
 note: Home page
 ---
-## Experiment write-ups
+## 🧪 Experiment write-ups
 These are the write-ups for the experiments hosted on https://justanexperiment.com. 
 
 🟢 = pass
@@ -20,7 +20,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[6. Next.js PWA application 🟢]]
 
 (Write-ups are generated from my messy notes using AI)
-## Writing
+## 🔗 Writing
 Wandering? Choose your path:
 1. [[product|What is a product?]]
 2. [[truth|Building blocks for my own knowledge system - truth]]
