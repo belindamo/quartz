@@ -18,6 +18,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[4. What does it look like to automating UI Improvements with GPT-Vision? 🟢]]
 - [[5. What does a suite of personal GPTs on ChatGPT look like for content like research proposals and social media posts?]]
 - [[6. What is it like to convert a Next.js app to PWA? 🟢]]
+- [[🧪/7. What can I write with a personal GPT that has all my Obsidian notes to query?|7. What can I write with a personal GPT that has all my Obsidian notes to query?]]
 
 (Write-ups are generated from my notes using AI)
 ## Proposals
