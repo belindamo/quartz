@@ -1,10 +1,15 @@
+---
+draft: "true"
+---
+
+
 *Sometimes I think about how fucked up Silicon Valley is. It's a place of power. It is full of greed - of people trying to prove themselves and ignoring the needs of other people along the way. They look at the future - at AGI, at crypto - without clarity of how it might help humans in the here and now.* 
 
 # the ocean and wave
 
 Some humans deal in different timescales and that is where conflict occurs.
 
-Some Silicon Valley CEO talks about longevity, with rumors that they get blood infusions from young people. Today people think they're a vampire. In 100 years, perhaps it is the norm.
+Some Silicon Valley CEO talks about longevity, with rumors flying around that they receive blood infusions from young people. Today people think they're a vampire. In 100 years, perhaps it is the norm.
 
 Generally, those who have enough resources today think about longer timescales. Those who are more resource strapped are required to tink in shorter timescales for their own survival. 
 

@@ -1,11 +1,10 @@
-
 ## Motivations
 
-I’d like to have a referenceable knowledge base that is grounded in physically observable truth, computer and human-legible, and useful. 
+I’d like to have a reference-able knowledge base that is grounded in physically observable truth, computer and human-legible, and useful. 
 
 I studied an interdisciplinary major called Symbolic Systems on computer science, psychology, philosophy, and neuroscience, and then started a [seed startup on language translation](http://vivatranslate.com). This has made me think a lot about overlaps in knowledge frameworks and cross-contextual communication. 
 
-I’m in between startups at the moment and would like to consolidate my learnings from my past 25 years alive, distilling it into a referenceable knowledge base. 
+I’d like to consolidate my learnings from my 25 years on earth, distilled into a referenceable knowledge base. 
 
 ## Project + Scope
 
@@ -34,4 +33,4 @@ Tentatively, here are the rules that I see this knowledge base to follow:
 - Super-classes and sub-classes for a given base follow the same format
 - Structure can be pulled from a series of embeddings
 
-It is likely that this project will influence my next startup plans, which is around building agentic systems for day-to-day tasks. The plan, at the very least, is that this project will live on in my head as a knowledge base that I will reference throughout the day and will keep up to date + fresh using spaced repetition. 
+It is likely that this project will influence my next startup plans, which may be around agentic systems for daily tasks. The plan, at the very least, is that this project will live on in my head as a knowledge base that I will reference throughout the day and will keep up to date + fresh using spaced repetition. 

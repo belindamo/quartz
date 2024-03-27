@@ -25,7 +25,7 @@ Here's a guide I wrote myself for entering these states.
 - J3 - Peace, love, safety
 - J4 - Bright light, still
 
-### How the transitions between states have felt in the past
+## How the transitions between states have felt in the past
 - J1 -> J2 - Background to foreground, emerges clarity
 - J2 -> J3 - Love, less swaying, spherical
 - J3 -> J4 - Stillness, white light

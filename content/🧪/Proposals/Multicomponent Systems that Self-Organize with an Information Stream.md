@@ -1,9 +1,3 @@
-### Experiment Length:
-
-Estimated Time: 1 month  
-Start Date: *Pending*
-Actual Time: _Pending_
-
 ## Summary:
 
 It seems that the next step in software is the ability for systems to adapt and reorganize themselves in response to new information. This proposal delves into a scaffolding framework that enables software components to self-organize and optimize their operations autonomously. The proposed system is a departure from traditional static software integration, to manage various components with long, and theoretically infinite, contexts.
@@ -28,7 +22,7 @@ The core of this project involves architecting a modular framework that houses:
 
 These elements are designed to interact through well-defined protocols, enabling the system to dynamically prioritize and manage complex contexts. The approach is intended to be tailored towards advanced code generation tasks.
 
-### Methodology:
+### Method:
 
 - **Architectural Design**: Crafting a scaffolded, modular framework to encapsulate critical functions and components.
 - **Module Interaction**: Establishing protocols for the interaction between modules, ensuring seamless operation and adaptability.
