@@ -2,6 +2,14 @@
 title: Welcome
 note: Home page
 ---
+## Proposals
+I have a number of proposals that I'm interested in working on:
+
+- [[Back-translation for alignment of LLM generation of code,  tests, and more]]
+- [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
+- [[Explainable Data Structures and Protocols  for Significant Improvements (2x+) to Long-Term Human Memory]]
+- [[Theorem Proving]]
+
 ## 🧪 Experiment write-ups
 These are the write-ups for the experiments hosted on https://justanexperiment.com. 
 
@@ -21,10 +29,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[7. How is the writing quality of GPT-4 + RAG to query over my Obsidian notes? 🔴|7. How is the writing quality of GPT-4 + RAG to query over my Obsidian notes? 🔴]]
 
 (Write-ups are generated from my notes using AI)
-## Proposals
-I have a number of proposals that I'm interested in working on but struggle to find the time for. 
 
-Check them out in the Proposals folder to the left! 
 
 ## 🔗 Writing
 Wandering? Choose your path:

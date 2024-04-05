@@ -31,7 +31,7 @@ project:
 	- Dreamcoder (2020)  
 - Reasoning improvements via prompting and black-box  
 	- Self-Discover (2024)  
-	- GPT-4 with Wolfram Alpha on math problems (2023)  
+	- GPT-4 with Wolfram Alpha on math problems (2023) 
 - Relevant Open Source Language Models  
 	- Llemma (2023)  
 	- Llama (2023)  
