@@ -26,3 +26,5 @@ perhaps then it is not a level but a continuous distribution
 ### cool math stuff
 - Gabriel’s Horn. Graph of 1/x. Infinite surface area finite volume
 - Klein bottle
+- Mobius strip
+	- [Wind and Mr. Ug](https://www.youtube.com/watch?v=4mdEsouIXGM)
