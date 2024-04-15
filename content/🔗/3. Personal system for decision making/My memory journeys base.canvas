@@ -8,7 +8,7 @@
 		{"id":"eee1ae65a578898e","type":"text","text":"Mentors","x":-80,"y":-981,"width":250,"height":50},
 		{"id":"e53bd0085358af42","type":"text","text":"Drop into the well","x":280,"y":-986,"width":250,"height":60},
 		{"id":"b61229b8c1700146","type":"text","text":"# Beach\nWork in progress items","x":120,"y":-1180,"width":250,"height":93},
-		{"id":"07a1cb31cd4c145d","type":"text","text":"# Helpful links\n- [[my mental tactics|my mental tactics]]\n- [Memory journal](https://docs.google.com/spreadsheets/d/1amsnBa3K43fzBmhlLFkZshTp43Rs3TToFlsiFbg2YkY/edit#gid=1918888140)\n","x":1640,"y":-1360,"width":265,"height":150}
+		{"id":"07a1cb31cd4c145d","type":"text","text":"# Helpful links\n- [[my mental tactics, emotions|my mental tactics, emotions]]\n- [Memory journal](https://docs.google.com/spreadsheets/d/1amsnBa3K43fzBmhlLFkZshTp43Rs3TToFlsiFbg2YkY/edit#gid=1918888140)\n","x":1640,"y":-1360,"width":265,"height":150}
 	],
 	"edges":[]
 }

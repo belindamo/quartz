@@ -5,10 +5,10 @@ note: Home page
 ## Proposals
 I have a number of proposals that I'm interested in working on:
 
-- [[Back-translation for alignment of LLM generation of code,  tests, and more]]
+- [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
 - [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
 - [[Explainable Data Structures and Protocols  for Significant Improvements (2x+) to Long-Term Human Memory]]
-- [[Theorem Proving]]
+- [[AIMO Theorem Proving]]
 
 ## 🧪 Experiment write-ups
 These are the write-ups for the experiments hosted on https://justanexperiment.com. 

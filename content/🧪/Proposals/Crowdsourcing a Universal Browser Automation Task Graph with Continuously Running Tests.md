@@ -55,4 +55,4 @@ Potential issues with this proposal
 - Idea: Catch errors before users run into them by conducting 24/7 validation tests that detect diffs, (Github Actions? VM?) to ensure task consistency and functionality. 
 - Which tasks work robustly enough to start with? DMV?
 
-related::[[Back-translation for alignment of LLM generation of code,  tests, and more]]
+related::[[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
