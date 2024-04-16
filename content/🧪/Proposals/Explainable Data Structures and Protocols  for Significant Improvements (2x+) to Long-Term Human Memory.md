@@ -1,6 +1,6 @@
 # Summary
 
-Today the average person does not have a structured explainable database within their own mind, and collectively humans lack the type of database that can be augmented by fellow humans’ and computers’ databases in an scalable and explainable manner. This applies both to short-term and long-term memory. 
+Today the average person does not have a structured explainable database within their own mind, and collectively humans lack the typoe of database that can be augmented by fellow humans’ and computers’ databases in an scalable and explainable manner. This applies both to short-term and long-term memory. 
 
 This proposal is a mesh of known human memory techniques across history and basic computer data structure knowledge. **This combination into a set of structures and protocols seems like it could increase the following by 2x+:** 
 

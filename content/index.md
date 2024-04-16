@@ -24,7 +24,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[2. What would a knowledge graph of science look like, generated recursively entirely by GPT-4? 🟢]]
 - [[3. How accurate is RAG + GPT-4 for an orthopedic surgeon? 🟢]]
 - [[4. What does it look like to automating UI Improvements with GPT-Vision? 🟢]]
-- [[5. What does a suite of personal GPTs on ChatGPT look like for content like research proposals and social media posts?]]
+- [[5. What does a suite of personal GPTs on ChatGPT look like for content like research proposals and social media posts? 🟠]]
 - [[6. What is it like to convert a Next.js app to PWA? 🟢]]
 - [[7. How is the writing quality of GPT-4 + RAG to query over my Obsidian notes? 🔴|7. How is the writing quality of GPT-4 + RAG to query over my Obsidian notes? 🔴]]
 
