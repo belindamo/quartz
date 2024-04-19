@@ -1,15 +1,18 @@
 ---
 date: 2024-04-01
 ---
+## Experiment Length
+**Estimated Time To Build:** 3 days
 
 # Summary
 *Problem space, Concept that exists, Concept that is being changed, How concept is being changed*
+
+**In this experiment, we suggest a software module to guide the looped generation of (1) test sets and (2) code, to fulfill some reasoning task. The system then self-aligns itself between its generated code and test sets until it reaches complete alignment. With unlimited compute, it is theoretically possible to add infinite numbers of generated items as long as there are no orphan items.** 
 
 It is difficult to ensure accuracy of a language model on a task without any human intervention. Synthetic data is also very difficult to generate effectively. How do we ensure good evaluation of a model’s task effectiveness?
 
 In the past, language model accuracy has been measured against human-curated test set to benchmark. Synthetic training data has been another approach, but it historically hasn’t been fully reliable enough to use as test data.
 
-**In this experiment, we suggest a software module to guide the looped generation of (1) test sets and (2) code, to fulfill some reasoning task. The system then self-aligns itself between its generated code and test sets until it reaches complete alignment. With unlimited compute, it is theoretically possible to add infinite numbers of generated items as long as there are no orphan items.** 
 
 This is influenced by the concept of back-translation in machine translation. Back-translation in machine translation improves performance by adding a second training run based on synthetically generated data. This is also influenced by prompting techniques like CoT-SC that run multiple threads to solve a problem and that choose the best one. The proposed system "translates" back and forth with combinations of similar solution functions and test sets, until the generated function runs against the generated tests at a 100% pass rate.
 

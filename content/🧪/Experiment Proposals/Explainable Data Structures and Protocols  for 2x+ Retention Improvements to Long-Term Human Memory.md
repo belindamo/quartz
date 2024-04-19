@@ -1,61 +1,63 @@
+---
+date: 2024-04-16
+---
+## Experiment Length
+**Estimated Time To Build:** 3 months
+
 # Summary
 
-Today the average person does not have a structured explainable database within their own mind, and collectively humans lack the typoe of database that can be augmented by fellow humans’ and computers’ databases in an scalable and explainable manner. This applies both to short-term and long-term memory. 
+Today the average person does not have a structured explainable database within their own mind, and collectively humans lack the type of database that can be augmented by fellow humans’ and computers’ databases in an scalable and explainable manner. This applies both to short-term and long-term memory. 
 
-This proposal is a mesh of known human memory techniques across history and basic computer data structure knowledge. **This combination into a set of structures and protocols seems like it could increase the following by 2x+:** 
+From my personal experience, it seems that a combination of some human memory techniques across history and basic computer data structure knowledge could increase the following by 2x+:
 
 - **Human long-term memory retention of text**
 - **Human memory retrieval speed and accuracy of text**
 
-Though the below are harder to measure, it seems reasonably likely that this framework will also aid in:
+Though the below are harder to measure, it seems likely that these protocols will also aid in:
 
 - **Space efficiency of human memory storage** 
 - **Augmentation of a person’s learning, retention, and recall alongside a computer or AI system**
 
-In this proposal, we discuss isomorphic data structures shareable between combinations of human and machine long-term memory. The main components are: a computer memory schema, a human memory schema, and a protocol for the interaction of any of the 3 combinations of schemas. With this memory schema established, a person can then augment their learning, retention, and recall with a LLM-powered system that generates material following the schema, based on some reputable source material.
+In this proposal, I'll discuss isomorphic data structures shareable between combinations of human and machine long-term memory. The main components are: a computer memory schema, a human memory schema, and a protocol for the interaction of any of the 3 combinations of schemas. With this memory schema established, a person can then augment their learning, retention, and recall with a LLM-powered system that generates material following the schema, based on some reputable source material.
 
 # Related Works
 ### There are old techniques to improve human short-term and long-term memory used by memory experts today
 
-A fascinating point of human history is that variations of memory palaces and other techniques were discovered independently throughout the globe, from England to the Polynesian Islands. These memory techniques include pegs, memory palaces, and lukasa boards. Techniques that are multimodal are usually more effective, including visual, spatial, kinesthetic, and aural representations of data. Narratives and unique visualizations also improve efficacy. 
+Memory techniques with and without referencing an external object have been independently developed across the world, from England to the Polynesian Islands. These memory techniques include pegs, memory palaces, and lukasa boards. Techniques tend to be more effective if they are multimodal, including visual, spatial, kinesthetic, and audio representations. Narratives and unique visualizations also tend to improve efficacy. 
 
-The method of loci was documented in about 500 BC from the Ancient Greek poet Simonides of Ceos , although it is likely that forms of using loci and other techniques existed prior in both Greece and other parts of the world. [18] The “science” of memory emerged in about 1850, starting with Hermann Ebbinghaus’s memory retention experiments. [18] 
+Today, memory techniques are most widely used in professions that require a lot of memorization like medicine. They're also used in memory competitions or to pass down oral history in groups like the Aboriginal Australians.
 
-Today, memory techniques are most widely used in professions that require large amounts of memorization like medicine, in memory competitions, or in oral cultures like the Australian Aboriginals. 
+### An anecdote about getting through medical school with method of loci
+My brother is a resident orthopedics surgeon who used augmented method of loci to get through his board exams. In medical school, he used memorize about 4,000 concepts using this software tool Sketchy that mapped medical concepts to whacky visualizations. 
 
-For example, medical students use engaging visual scenes to memorize. With a combination of memory palaces and spaced repetition, one medical learning company Sketchy touts that 96% of their students who use Sketchy have higher exam scores. [15] Here is an example of a scene that is used for USMLE prep:
+Apparently, thousands of medical students every year use Sketchy. Here is an example of one of their scenes that is used for USMLE prep:
 
 ![](https://lh7-us.googleusercontent.com/iM6XvZxG4lYACzOnVoqYsWA0Sg2IJRA0UD-m8UzHVS3ZAZfCAaNcTAlgqHVUfr8WZtyjkz_JxaxwhJBm-y7xynajoWWgx6BbArTXjZZRqPsetD9H8m1FWEEyT35WQpITW7wDORxUy_39A23uQqJfITc)
 [14]
 
-Sketchy’s success for future surgeons demonstrates memory techniques have practical application in the modern world.
+What is even more wild is that his colleagues in medicine ALL have these weird scenes memorized in their brains, from their time in medical school.
 
-There are additional opportunities for technique improvement. World record holders for memory competitions can memorize 630 digits in 5 minutes, 224 people’s names in 15 minutes, or 7485 binary digits in 30 minutes. [16] It has been observed that the world’s best memorizers do not have different brains from the average person’s, but rather it was their use of techniques such as the method of loci that led to substantially improved memorization abilities. [19] 
+With a combination of memory palaces and spaced repetition, one medical learning company Sketchy touts that 96% of their students who use Sketchy have higher exam scores. [15] 
 
-Spaced repetition is a complementary tool with memory palaces to retain memorizations long-term, by utilizing Ebbinghaus’ forgetting curve. Since Ebbinghaus established the experimental study of memory, additional techniques for human long term and short term memory have been studied in neuroscience. 
+There are probably more ways to optimize memory techniques past what Sketchy does. For reference, world record holders for memory competitions can respectively memorize 630 digits in 5 minutes, 224 people’s names in 15 minutes, or 7,485 binary digits in 30 minutes. [16] Neuroscientists have also observed that the world’s best memorizers do not have different brains from the average person’s, but rather it was their use of techniques such as the method of loci that led to substantially improved memorization abilities. [19] 
+
+### Spaced repetition
+Spaced repetition is a complementary tool with memory palaces to retain memorizations long-term, by utilizing Ebbinghaus’ forgetting curve. 
 
 Limitations of human memory techniques are distracting or meaningless images, as well as potentially inefficient methods that encode the same information in multiple modalities or symbols. 
 
-### Machines are much faster at deterministic computation 
+### Analogy between CRUD operations and human memory 
 
-With rough napkin math, computers in 2023 are at least 17 million times faster at computing deterministic functions than humans. 
+Computer or human memory can roughly be broken down into: encoding, storage, and retrieval of information. [17] From an educational lens, these are also called: learning, retention, and recall of knowledge.
 
-Since the first substantial computer in 1946, the capabilities of a single unassisted computer to compute arithmetic with 100% accuracy, barring hardware issues, has exceeded that of any single unassisted human given the same amount of time. [2] While it remains unclear how to measure human compute and memory, based on empirical data it remains true since the ENIAC that any deterministic function that can be calculated by a human can be computed more quickly by a non-theoretical computer. 
+The fundamental data operations of a REST API are CRUD: CREATE, READ, UPDATE, and DELETE. The first half of CRUD is most similar between human and machine memory:
 
-Per Moore’s observation, compute capabilities have roughly doubled every two years since 1970. [1] From 1971 to 2019, commercial microprocessors have increased their number of transistors from approximately 2,300 to 39.54 billion. [6, 7] This means that microprocessors have increased their number of transistors by a factor of approximately 17 million. 
+- CREATE :: Encoding :: Learning
+- READ :: Retrieving :: Recall
 
-### Analogy between CRUD and human memory operations
+Admittedly, the analogy breaks down with the methods of UPDATE and DELETE. For UPDATE, it seems like memory is updated for humans in concurrence with learning and recall. For DELETE, it also seems like a person cannot consciously choose to delete a single memory.
 
-Analogous to computer memory, human memory can be broken down into encoding, storing, and retrieving information. [17] From an educational lens, these are respectively named learning, retention, and recall.
-
-The fundamental data operations of a REST API are CRUD: Create, Read, Update, and Delete. Similarities are most apparent between between the first half of CRUD representing explainable machine memory and human memory:
-
-- Create : Encoding
-- Read : Retrieving
-
-The analogy breaks down with the Update and Delete methods. A person cannot consciously choose to delete a single memory. As for updating, neuroscience research seems to show that memory updating happens in concurrence with encoding, storing, and retrieving.
-
-Another difference is that character-level accuracy in retrieval is taken as a given for computers at the CRUD level of abstraction. This is not necessarily the case for humans.
+Another difference is that CRUD can be built to be quite reliable for computers. For example, if I store a key-value pair of `( favorite_fruit, mango )` then READ with the query  `favorite_fruit` will always return `mango`, until I call UPDATE. Human memory is a bit messier than that!
 
 # Implementation Plan: A shared schema between mutual explainable human memory (MEHM) and mutually explainable computer memory (MECM)
 
@@ -144,7 +146,7 @@ Roughly, we'd like to measure:
 
 I still need to research what the industry standards look like to measure these well! 
 
-# Risks to execute
+# Risks 
 
 The following topics require further thought and experimentation: 
 - What are the limits of the mediums of knowledge that can be represented in this structure? e.g. highly abstract fields such as physics haven't benefited much from memory techniques in the past
@@ -161,7 +163,7 @@ The following topics require further thought and experimentation: 
 - **Important**: the role of spaced repetition for long-term retention
 
 # Implications if it works
-People everywhere are able to learn way faster!
+People everywhere are able to learn way faster! Yay
 
 # Citations
 

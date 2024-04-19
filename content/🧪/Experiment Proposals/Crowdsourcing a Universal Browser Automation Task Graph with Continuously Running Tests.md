@@ -1,6 +1,8 @@
 ---
 date: 2024-04-01
 ---
+## Experiment Length
+**Estimated Time To Build MVP:** 1 month
 
 # Summary
 *Problem space, Concept that exists, Concept that is being changed, How concept is being changed*

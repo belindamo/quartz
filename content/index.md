@@ -7,7 +7,7 @@ I have a number of proposals that I'm interested in working on:
 
 - [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
 - [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
-- [[Explainable Data Structures and Protocols  for Significant Improvements (2x+) to Long-Term Human Memory]]
+- [[Explainable Data Structures and Protocols  for 2x+ Retention Improvements to Long-Term Human Memory]]
 - [[AIMO Theorem Proving]]
 
 ## 🧪 Experiment write-ups
