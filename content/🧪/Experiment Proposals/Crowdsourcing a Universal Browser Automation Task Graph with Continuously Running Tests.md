@@ -9,9 +9,9 @@ date: 2024-04-01
 
 A common problem in browser script automation is ensuring the reliability of script execution given that a site's DOM can change with minimal notice. DOM changes occur whenever the site owner deploys a new change or renders front-end elements based on server-side data. This problem persists regardless of whether browser automation is AI-powered or a manually written script. 
 
-Currently, some amount of human monitoring, or "human-in-the-loop", is still required to ensure successful task completion. Is there a way to greatly reduce the need of a human in the loop? 
+Currently, some amount of human monitoring, or "human-in-the-loop", is still required to ensure successful task completion. **Is there a way to greatly reduce the need of a human in the loop for browser tasks?** 
 
-In this experiment, we propose transitioning responsibility from human monitoring of an AI instance over the entire task to minimal monitoring of an AI instance for specific steps to verify a task. 
+In this experiment, we hope to transition responsibility from human monitoring of an AI instance over the entire task to minimal monitoring of an AI instance for specific steps to verify a task. 
 
 On the first run of a task, the LLM-powered system will create a browser script by having a human approve its steps in detail, step by step. The system stores the browser script with anonymized user variables, to use for future runs. Notably, future runs can be run by the same user or a different user. **Updates to a task script are crowdsourced. Whenever there is a DOM change for any user, the system will run a test against the user's execution of the task script, ideally on the user's device.** At scale, this crowdsourcing approach ensures a near continuous run of tests for each task. 
 
@@ -51,10 +51,23 @@ This is a system that becomes more robust the more people that use it. I'd perso
 # misc. 
 
 Potential issues with this proposal
-- Not sure if my assumption is correct that people are actually implementing "human-in-the-loop" with an AI system traversing the web successfully in production. I'd imagine yes? Enterprise automation is more developed than consumer since there is more direct $ to be made there. And my understanding is that for consumer use cases, human-in-the-loop AI browser automation is nascent (<1 year old). 
+- Not sure if my assumption is correct that people are actually implementing "human-in-the-loop" with an AI system traversing the web successfully in production. I'd imagine yes? Enterprise automation is more developed than consumer since there is more obvious $ to be made there. And my understanding is that for consumer products, human-in-the-loop AI browser automation is nascent (<1 year old as of April 2024). 
 - "At scale, this crowdsourcing approach will ensure a near continuous run of tests for each task. " -> Not sure if continuous run is important? 
 - What happens when someone searches a task that does not have an exact match to previous tasks? Shortcut by using a technique like RAG to find similar tasks and use them as few-shot examples to create a browser script?
 - Idea: Catch errors before users run into them by conducting 24/7 validation tests that detect diffs, (Github Actions? VM?) to ensure task consistency and functionality. 
 - Which tasks work robustly enough to start with? DMV?
+
+## some more research
+
+projects for benchmarks
+travelplanner https://osu-nlp-group.github.io/TravelPlanner/
+mind2web https://github.com/OSU-NLP-Group/Mind2Web
+visualwebbench https://twitter.com/gneubig/status/1778396234484683008
+turking bench https://arxiv.org/abs/2403.11905
+BAGEL https://arxiv.org/abs/2403.08140
+
+
+resources
+https://toolsqa.com/
 
 related::[[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]

@@ -8,7 +8,6 @@ The focus is on designing a graph where each node and edge contains unique ident
 
 To use this for a concrete example, we will construct a knowledge graph from educational materials such as lecture slides in PDF format, allowing users to query course-related information and trace content generation back to specific nodes. From the graph, we will be able to create section handouts in Markdown with clear citations.
 
-
 ## Related Work
 I've previously played around with hierarchical generation of knowledge without any input text [here](https://justanexperiment.com/graph).
 

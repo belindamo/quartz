@@ -1,5 +1,6 @@
 ---
-date: 2024-04-16
+date: 2024-04-24
+draft: "true"
 ---
 ## Experiment Length
 **Estimated Time To Build:** 3 months
@@ -18,33 +19,35 @@ Though the below are harder to measure, it seems likely that these protocols wil
 - **Space efficiency of human memory storage** 
 - **Augmentation of a person’s learning, retention, and recall alongside a computer or AI system**
 
-In this proposal, I'll discuss isomorphic data structures shareable between combinations of human and machine long-term memory. The main components are: a computer memory schema, a human memory schema, and a protocol for the interaction of any of the 3 combinations of schemas. With this memory schema established, a person can then augment their learning, retention, and recall with a LLM-powered system that generates material following the schema, based on some reputable source material.
+In this proposal, I'll discuss isomorphic data structures shareable between combinations of human and machine long-term memory. The main components are: a computer memory schema, a human memory schema, and a protocol for the interaction of any of the 3 combinations of schemas. 
+
+Hopefully, with this memory schema established, a person can then augment their learning, retention, and recall with a set of LLMs that generate material following the schema, based on some reputable source material.
 
 # Related Works
 ### There are old techniques to improve human short-term and long-term memory used by memory experts today
 
-Memory techniques with and without referencing an external object have been independently developed across the world, from England to the Polynesian Islands. These memory techniques include pegs, memory palaces, and lukasa boards. Techniques tend to be more effective if they are multimodal, including visual, spatial, kinesthetic, and audio representations. Narratives and unique visualizations also tend to improve efficacy. 
+Memory techniques with and without referencing an external object have been independently developed across the world, from England to the Polynesian Islands. These memory techniques include pegs, memory palaces, and lukasa boards. From my personal experience and from anecdotes online, techniques tend to be more effective if they are multimodal, including visual, spatial, kinesthetic, and audio representations. Compelling narratives and unique visualizations also seem to improve efficacy. 
 
-Today, memory techniques are most widely used in professions that require a lot of memorization like medicine. They're also used in memory competitions or to pass down oral history in groups like the Aboriginal Australians.
+Today, memory techniques are most widely used in professions like medicine that require a lot of memorization. They're also used in memory competitions or to pass down oral history in groups like the Aboriginal Australians.
 
-### An anecdote about getting through medical school with method of loci
-My brother is a resident orthopedics surgeon who used augmented method of loci to get through his board exams. In medical school, he used memorize about 4,000 concepts using this software tool Sketchy that mapped medical concepts to whacky visualizations. 
+### An anecdote: surviving medical school by using method of loci
+My brother is a resident orthopedics surgeon who used augmented method of loci to get through his board exams. In medical school, he used memorize about 4,000 concepts using this software tool [Sketchy](https://sketchy.com) that maps medical concepts to whacky visualizations. 
 
 Apparently, thousands of medical students every year use Sketchy. Here is an example of one of their scenes that is used for USMLE prep:
 
 ![](https://lh7-us.googleusercontent.com/iM6XvZxG4lYACzOnVoqYsWA0Sg2IJRA0UD-m8UzHVS3ZAZfCAaNcTAlgqHVUfr8WZtyjkz_JxaxwhJBm-y7xynajoWWgx6BbArTXjZZRqPsetD9H8m1FWEEyT35WQpITW7wDORxUy_39A23uQqJfITc)
 [14]
 
-What is even more wild is that his colleagues in medicine ALL have these weird scenes memorized in their brains, from their time in medical school.
+What is even more wild is that many of his medical peers have all of these weird scenes etched into their brains, from their time in medical school.
 
-With a combination of memory palaces and spaced repetition, one medical learning company Sketchy touts that 96% of their students who use Sketchy have higher exam scores. [15] 
+Supposedly, Sketchy touts that 96% of their students have higher exam scores. [15] 
 
-There are probably more ways to optimize memory techniques past what Sketchy does. For reference, world record holders for memory competitions can respectively memorize 630 digits in 5 minutes, 224 people’s names in 15 minutes, or 7,485 binary digits in 30 minutes. [16] Neuroscientists have also observed that the world’s best memorizers do not have different brains from the average person’s, but rather it was their use of techniques such as the method of loci that led to substantially improved memorization abilities. [19] 
+There are probably many more ways to optimize memory techniques past what Sketchy does. For reference, world record holders for memory competitions can respectively memorize 630 digits in 5 minutes, 224 people’s names in 15 minutes, or 7,485 binary digits in 30 minutes. [16] Neuroscientists have also observed that the world’s best memorizers do not have different brains from the average person’s, but rather it was their use of techniques such as the method of loci that led to substantially improved memorization abilities. [19] 
 
 ### Spaced repetition
 Spaced repetition is a complementary tool with memory palaces to retain memorizations long-term, by utilizing Ebbinghaus’ forgetting curve. 
 
-Limitations of human memory techniques are distracting or meaningless images, as well as potentially inefficient methods that encode the same information in multiple modalities or symbols. 
+Limitations of these memory techniques include distracting or meaningless images, as well as inefficient methods that encode the same information in multiple modalities or symbols. 
 
 ### Analogy between CRUD operations and human memory 
 
@@ -62,13 +65,14 @@ Another difference is that CRUD can be built to be quite reliable for computers.
 # Implementation Plan: A shared schema between mutual explainable human memory (MEHM) and mutually explainable computer memory (MECM)
 
 ## Definitions
+Let's define a few terms first:
 - Loops: Processes that lead back to themselves. 
 - Level-crossing: Loops that cross layers.
 - Strange Loops: Level-crossing processes that lead back to themselves.
 - Isomorphism: A mapping or correspondence between two structures in such a way that each element in one structure has a corresponding element in the other structure. [18]
 - Keyword: a string used to access a specific human memory structure.
 - Explainable: An adjective to describe a concept that can be stored and retrieved in a similar enough format. It is similar enough based on the concept’s domain and the retriever’s objective(s), memory capabilities, and the external tools they have at their disposal for the objective(s). 
-- Mutually explainable (ME): a concept that is explainable to both humans and computers. For a more precise definition, we consider a concept to be explainable if it can be understood by any college-educated American in 2024 or computed by a 15-inch M2 chip 2024 Macbook Air. 
+- Mutually explainable (ME): a concept that is explainable to both humans and computers. For a more precise definition, we consider a concept to be explainable if it can be understood either by any college-educated American in 2024 or computed by a 15-inch M2 chip 2024 Macbook Air. 
 
 ## Design considerations
 

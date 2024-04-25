@@ -1,8 +1,11 @@
 ---
-date: 2024-04-01
+date: 2024-04-04
 ---
 ## Experiment Length
 **Estimated Time To Build:** 3 days
+
+**Sub-experiments:** 
+- [[9. How might a set of AI models improve code generation through iterative code and test set generation? 🟢]]
 
 # Summary
 *Problem space, Concept that exists, Concept that is being changed, How concept is being changed*

@@ -1,24 +1,24 @@
 ---
 date: 2024-04-16
+notes: "todo: methods section"
 ---
-*todo: method section*
-
 ## Experiment Length
-**Estimated Time To Build:** ???
+**Estimated Time To Build:** ? does anyone really know
 
 # Summary
 
 Current top-ranked solutions for the MiniF2F benchmarks rely on some combination of a fine-tuned transformer with light layers of symbolic checks and/or system-2 prompt-based reasoning.  
 
-In this project, we suggest a system that self-builds its long term memory and short term caches based on existing theorem-proving libraries such as those in Lean, Isabelle, and Metamath. This includes (1) self-discovery of a multi-level library of symbolic checks and prompt-based reasoning, (2) long-context retrieval of library components, and (3) synthetic evals to ensure reliability. 
+In this project, I suggest a system that self-builds its long term memory and short term caches based on existing theorem-proving libraries such as those in Lean, Isabelle, and Metamath. This includes (1) self-discovery of a multi-level library of symbolic checks and prompt-based reasoning, (2) long-context retrieval of library components, and (3) synthetic evals to ensure reliability. 
 
 We'll evaluate the Operating System’s ability on theorem-proving. Since GPT-4 and other similar LLMs have been released, theorem-proving systems have improved a lot on mathematics benchmarks like MATH and MiniF2F. We plan to benchmark against MiniF2F for the formal-to-formal parts of the system, and against IMO official datasets for the end-to-end informal parts.  
 
-Logistically, there is an outstanding challenge called the [AIMO Prize](https://aimoprize.com/) that looks like a nice goalpost to aim for. You win the prize if you create an open source model that can win a gold medal in International Math Olympiad, given 8 A-100s for inference over the time period of the traditional human competition.
+Logistically, there is an outstanding challenge called the [AIMO Prize](https://aimoprize.com/) that provides a nice goalpost to aim for. You win the prize if you create an open source model that can win a gold medal in International Math Olympiad, given 8 A-100s for inference over the time period of the traditional human competition.
 
 If this works, this project will demonstrate that a generated IO-based system is an effective way of augmenting a black-box LLM, and that hopefully such a system reaches the performance of an human IMO Gold competitor! 
+
 # Related Work
-Here are clusters of research papers that have inspired this project:  
+Here are clusters of research papers that inspire this project:  
 - Automated theorem-provers  
 	- Draft, Sketch, Prove (2023)  
 	- LeanDojo: Theorem Proving with Retrieval-Augmented Language Models (2023)  
@@ -41,7 +41,7 @@ Here are clusters of research papers that have inspired this project:
 
 # Risks
 There are a number of risks. Here are some:  
-- Short Timeline: Deadline for AIMO Prize 2024 seems to be around early June. 
+- Short Timeline: Deadline for AIMO Prize 2024 seems to be around early June 2024. 
 - Big jump needed in success rate for AIMO: SoTA Informal-to-formal and Formal-to-formal are at about a 40% success rate, based on Draft, Sketch, Prove (2023). Seems like gold medalists in IMO for informal-to-informal got about 76-100% of questions correct in 2023. This means this proposed solution needs to be nearly twice as good as current benchmark performance.
 - Informal-to-informal problems are hard to evaluate: there are theoretically infinite ways to write one proof. Evaluation probably involves finding and collaborating with former IMO competitors since math hard.
 - AIMO Prize applies additional compute constraints, on top of a problem that hasn't been solved yet with big LLMs like GPT-4.

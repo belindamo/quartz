@@ -8,7 +8,8 @@ I have a number of proposals that I'm interested in working on:
 - [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
 - [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
 - [[Explainable Data Structures and Protocols  for 2x+ Retention Improvements to Long-Term Human Memory]]
-- [[AIMO Theorem Proving]]
+- [[AI Theorem Proving for International Math Olympiad Problems]]
+- [[A Knowledge Graph Structure for Enhancing Human Learning]]
 
 ## 🧪 Experiment write-ups
 These are the write-ups for the experiments hosted on https://justanexperiment.com. 
@@ -26,7 +27,10 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[4. What does it look like to automating UI Improvements with GPT-Vision? 🟢]]
 - [[5. What does a suite of personal GPTs on ChatGPT look like for content like research proposals and social media posts? 🟠]]
 - [[6. What is it like to convert a Next.js app to PWA? 🟢]]
-- [[7. How is the writing quality of GPT-4 + RAG to query over my Obsidian notes? 🔴|7. How is the writing quality of GPT-4 + RAG to query over my Obsidian notes? 🔴]]
+- [[7. How is the writing quality of GPT-4 + RAG for querying over my Obsidian notes? 🔴|7. How is the writing quality of GPT-4 + RAG for querying over my Obsidian notes? 🔴]]
+- [[8. What does a good translation interface look like for same language "translation" across contexts? 🔴]]
+- [[9. How might a set of AI models improve code generation through iterative code and test set generation? 🟢]]
+- [[10. GPT vs. Gemini - What does a minimalistic user interface for model comparison look like? 🟢]]
 
 (Write-ups are generated from my notes using AI)
 
