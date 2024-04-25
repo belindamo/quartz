@@ -9,6 +9,8 @@ I have a number of proposals that I'm interested in working on:
 - [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
 - [[Explainable Data Structures and Protocols  for 2x+ Retention Improvements to Long-Term Human Memory]]
 - [[AI Theorem Proving for International Math Olympiad Problems]]
+
+More bite-sized experiment proposals:
 - [[A Knowledge Graph Structure for Enhancing Human Learning]]
 
 ## 🧪 Experiment write-ups

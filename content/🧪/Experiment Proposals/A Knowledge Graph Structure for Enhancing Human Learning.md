@@ -11,10 +11,10 @@ To use this for a concrete example, we will construct a knowledge graph from edu
 ## Related Work
 I've previously played around with hierarchical generation of knowledge without any input text [here](https://justanexperiment.com/graph).
 
-Researchers like Yohei on Twitter and Andrew Ng have also highlighted knowledge graphs as effective data representation to structure vast data sets in a manner that is accessible and meaningful to end-users.
+Researchers like Yohei Nakajima and Andrew Ng have also highlighted knowledge graphs as effective data representation to structure vast data sets in a manner that is accessible and meaningful to end-users.
 
-- [Instagraph](https://github.com/yoheinakajima/instagraph) 
-- [Mindgraph](https://twitter.com/yoheinakajima/status/1769019899245158648?t=J2NhvibXYhYKfNhyE9gEJQ)
+- Yohei's [Instagraph](https://github.com/yoheinakajima/instagraph) 
+- Yohei's [Mindgraph](https://twitter.com/yoheinakajima/status/1769019899245158648?t=J2NhvibXYhYKfNhyE9gEJQ)
 - Andrew Ng's [Knowledge Graphs for RAG course](https://twitter.com/AndrewYNg/status/1767941813820862655)
 
 ## Plan
