@@ -4,7 +4,6 @@ note: Home page
 ---
 ## What is Just An Experiment?
 
-
 ## Proposals
 I have a number of proposals that I'm interested in working on:
 
@@ -14,7 +13,9 @@ I have a number of proposals that I'm interested in working on:
 - [[AI Theorem Proving for International Math Olympiad Problems]]
 
 More bite-sized experiment proposals:
-- [[A Knowledge Graph Structure for Enhancing Human Learning]]
+- [[What does a better knowledge graph structure for enhancing human learning alongside LLMs look like?]]
+- [[What does an configurable format for a single AI agent's profile look like?]]
+- [[🧪/Experiment Proposals/What does a configurable format look like to represent essential data for a single person?|What does a configurable format look like to represent essential data for a single person?]]
 
 ## 🧪 Experiment write-ups
 These are the write-ups for the experiments hosted on https://justanexperiment.com. 
@@ -36,6 +37,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[8. What does a good translation interface look like for same language "translation" across contexts? 🔴]]
 - [[9. How might a set of AI models improve code generation through iterative code and test set generation? 🟢]]
 - [[10. GPT vs. Gemini - What does a minimalistic user interface for model comparison look like? 🟢]]
+- [[11. What does a useful parking ticket payer agent look like? 🔴]]
 
 (Write-ups are generated from my notes using AI)
 
