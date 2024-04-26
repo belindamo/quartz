@@ -2,6 +2,9 @@
 title: Welcome
 note: Home page
 ---
+## What is Just An Experiment?
+
+
 ## Proposals
 I have a number of proposals that I'm interested in working on:
 
