@@ -38,6 +38,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[9. How might a set of AI models improve code generation through iterative code and test set generation? 🟢]]
 - [[10. GPT vs. Gemini - What does a minimalistic user interface for model comparison look like? 🟢]]
 - [[11. What does a useful parking ticket payer agent look like? 🔴]]
+- [[12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢|12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢]]
 
 (Write-ups are generated from my notes using AI)
 
