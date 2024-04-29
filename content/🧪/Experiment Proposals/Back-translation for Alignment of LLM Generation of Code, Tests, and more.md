@@ -81,3 +81,5 @@ If this works, there are a few other avenues to explore
 
 What I'm unsure about
 - "With unlimited compute, it is theoretically possible to add infinite numbers of generated items as long as there are no orphan items." -> erm but is it possible to reach alignment in the same big O time
+
+related::[["LLM Operating System"]]

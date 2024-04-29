@@ -11,6 +11,7 @@ I have a number of proposals that I'm interested in working on:
 - [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
 - [[Explainable Data Structures and Protocols  for 2x+ Retention Improvements to Long-Term Human Memory]]
 - [[AI Theorem Proving for International Math Olympiad Problems]]
+- [["LLM Operating System"]]
 
 More bite-sized experiment proposals:
 - [[What does a better knowledge graph structure for enhancing human learning alongside LLMs look like?]]
