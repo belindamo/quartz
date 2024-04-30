@@ -9,7 +9,7 @@ A good product considers two factors: frequency of use and impact per use.
 ## Simple process 
 Prerequisite: have the [[tool|tools]] & understand the tools
 
-- Create [[art]] (self) (make w tools that have constraints)
+- Create [[art]] (self) (make with tools that have constraints)
 - See it resonate w other nodes 
 - Distribute it
 
@@ -31,7 +31,7 @@ Art design distribute
 - Oftentimes engineers will place more importance towards creating art rather than distributing it. This is the reason engineers discount salespeople. It is true that resources dedicated to distribution are resources that do not improve the experience of a user using the product itself. 
 	- Yet there is still an extremely large value to being able to distribute effectively
 
-- on scaling humans
+- On scaling teams
 	- The Keeper Test: “If a person on your team were to quit tomorrow, would you try to change their mind? Or would you accept their resignation, perhaps with a little relief? If the latter, you should give them a severance package now, and look for a star, someone you would fight to keep” (p. 171).
 
 - [Low floor high ceiling](https://jolibois.substack.com/p/low-floor-high-ceiling)

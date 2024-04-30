@@ -13,6 +13,9 @@ Operating System where the set of LLMs is like the CPU, that self-builds this li
 ## Related Works
 Here are the clusters of research papers that have inspired this  
 project:  
+- LLMs as Operating Systems
+	- [MemGPT](https://arxiv.org/abs/2310.08560)
+	- [AIOS: LLM Agent Operating Systems](https://github.com/agiresearch/AIOS?tab=readme-ov-file)
 - Growing, interpretable knowledge base  
 	- Dreamcoder (2020)  
 	- Simulation Intelligence (2022)  

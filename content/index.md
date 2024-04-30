@@ -4,8 +4,14 @@ note: Home page
 ---
 ## What is Just An Experiment?
 
+I host cute little projects on https://justanexperiment.com. These experiment proposals and write-ups are related to those projects, though there is also writing on here correlated to projects where the code has not been released or written yet. 
+
+Enjoy reading :) You can navigate this blog through the inline links ([[product|like this]]), left navigation menu (large screens only), or the graph view / backlinks at the bottom. 
+
+🤸🏻‍♀️ 🤸🏻‍♀️ 🤸🏻‍♀️
+
 ## Proposals
-I have a number of proposals that I'm interested in working on:
+These are proposals that I've been working on:
 
 - [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
 - [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
@@ -41,8 +47,7 @@ These are the write-ups for the experiments hosted on https://justanexperiment.c
 - [[11. What does a useful parking ticket payer agent look like? 🔴]]
 - [[12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢|12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢]]
 
-(Write-ups are generated from my notes using AI)
-
+(Write-ups are generated from notes with the help AI)
 
 ## 🔗 Writing
 Wandering? Choose your path:
@@ -57,7 +62,6 @@ Other entry points
 - [[Axiomatic Systems for Clarity]]
 - [[nodes and edges]]
 - [[2024 Wins]]
-
 
 ---
 
