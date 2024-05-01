@@ -1,14 +1,15 @@
 ---
-date: 2024-02-20
+date: 2024-04-29
 ---
 ## Summary
 
 Operating System where the set of LLMs is like the CPU, that self-builds this library based on relevant multimodal contexts. 
-(1) self-discovery of a multi-level library of symbolic checks and prompt-based reasoning
-(2) long-context retrieval from library of function components
-(3) caches of vectors for retrieving derived content
-(4) database of exact-match multimodal user content
-(5) Self-generated evals
+
+1. self-discovery of a multi-level library of symbolic checks and prompt-based reasoning
+2. long-context retrieval from library of function components
+3. caches of vectors for retrieving derived content
+4. database of exact-match multimodal user content
+5. self-generated evals
 
 ## Related Works
 Here are the clusters of research papers that have inspired this  
@@ -36,8 +37,17 @@ project:
 	- MiniF2F (2022)  
 	- MATH (2021)  
 
+
+
+
 ---
 
 ### Misc.
 
 child::[[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
+
+
+method
+
+- Try dreamcoder but with the help of LLMs
+- 
