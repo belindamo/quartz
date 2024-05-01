@@ -15,9 +15,9 @@ These are proposals that I've been working on:
 
 - [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
 - [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
-- [[Explainable Data Structures  & Protocols  for 2x+ Retention Improvements to Human Long-Term Memory]]
 - [[AI Theorem Proving for International Math Olympiad Problems]]
 - [["LLM Operating System"]]
+- [[Explainable Protocols  for 2x+ Retention Improvements to Human Long-Term Memory]]
 
 More bite-sized experiment proposals:
 - [[What does a better knowledge graph structure for enhancing human learning alongside LLMs look like?]]
