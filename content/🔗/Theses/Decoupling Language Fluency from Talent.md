@@ -1,5 +1,10 @@
-*Last updated: Mar 14, 2023*
-*This is written in relation to [vivatranslate.com](https://vivatranslate.com)*
+---
+date: 2023-03-14
+notes: |-
+  ## Additional Considerations
+  A few additional considerations include:- Translation impact on learning a language- English dominance and language unification vs. diversification- Privacy and security for consumers
+---
+*This is written in relation to my startup, [vivatranslate.com](https://vivatranslate.com)*
 ## A Complete Abstraction of Language in the Workplace
 
 In today’s world, talent is equally distributed but opportunity is not.
@@ -77,42 +82,34 @@ There are many other context issues that can be aided by using large language mo
 
 Viva provides a translation ecosystem across bi-directional communication, long-form documents, and real-time speech. This increases comprehension for any professional conversations across linguistic and cultural literacy. 
 
-### 1. Accuracy: Rich, context-aware translations
-
-### 2. Design: Live multi-modal translations
-
-### 3. Integrations: Anywhere all at once
+1. Accuracy: Rich, context-aware translations
+2. Design: Live multi-modal translations
+3. Integrations: Anywhere all at once
 
 ## Players that Make Cross-Language Work a Possibility
 
 There are multiple types of players in the global ecosystem that require effective remote communication together. For each, there are economic reasons to work together across language. 
 
-  
-
-|   |   |   |   |
-|---|---|---|---|
-|Player Type|Ecosystem Purpose|Economic Benefit|Example|
-|Companies|||Coca Cola, IBM, Mercado Libre|
-|Remote Service Providers|||Teleperformance, Globant|
-|Educators|||Stanford, Carnegie Mellon, Platzi|
-|Learners|||Computer Science Undergraduate|
-|Technologists|||Viva|
-|Government|||California Office of the Small Business Advocate|
+|                          |                                                  |
+| ------------------------ | ------------------------------------------------ |
+| **Player Type**              | **Example**                                          |
+| Companies                | Coca Cola, IBM, Mercado Libre                    |
+| Remote Service Providers | Teleperformance, Globant                         |
+| Educators                | Stanford, Carnegie Mellon, Platzi                |
+| Learners                 | Computer Science Undergraduate                   |
+| Technologists            | Viva                                             |
+| Government               | California Office of the Small Business Advocate |
 
 ## Applications of Translation
 
 Just like Google Translate, Viva will be able to be used ubiquitously. Here is a non-extensive list of possibilities for what we intend to tackle in the next decade:
 
-
-|   |   |
-|---|---|
-|Interaction type||
-|Freelance Developer works with U.S. Client||
-|Researcher collaborates with Researcher||
-|Technology Company hires Remote Worker||
-|Remote Worker takes online English course with Educational Institution to upskill||
-|Student learns from any Teacher in the world||
-|Call Center hires Agent||
+- Freelance Developer works with U.S. Client
+- Researcher collaborates with Researcher
+- Technology Company hires Remote Worker
+- Remote Worker takes online English course with Educational Institution to upskill
+- Student learns from any Teacher in the world
+- Call Center hires Agen
 
 ### Industries
 
@@ -126,14 +123,6 @@ Industries that will be impacted will include but are not limited to: 
 - Business Process Outsourcing
 - Mining
 - Education
-
-## Additional Considerations
-
-A few additional considerations include:
-
-- Translation impact on learning a language
-- English dominance and language unification vs. diversification
-- Privacy and security for consumers
 
 ## Conclusion
 

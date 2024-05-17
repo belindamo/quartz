@@ -11,7 +11,7 @@ Current top-ranked solutions for the MiniF2F benchmarks rely on some combination
 
 In this project, I suggest a system that self-builds its long term memory and short term caches based on existing theorem-proving libraries such as those in Lean, Isabelle, and Metamath. This includes (1) self-discovery of a multi-level library of symbolic checks and prompt-based reasoning, (2) long-context retrieval of library components, and (3) synthetic evals to ensure reliability. 
 
-We'll evaluate the Operating System’s ability on theorem-proving. Since GPT-4 and other similar LLMs have been released, theorem-proving systems have improved a lot on mathematics benchmarks like MATH and MiniF2F. We plan to benchmark against MiniF2F for the formal-to-formal parts of the system, and against IMO official datasets for the end-to-end informal parts.  
+We'll evaluate the system’s ability for informal-to-informal theorem-proving. Since GPT-4 and other similar LLMs have been released, theorem-proving systems have improved a lot on mathematics benchmarks like MATH and MiniF2F. We plan to benchmark against MiniF2F for the formal-to-formal parts of the system, and against IMO official datasets with human reviewers for the end-to-end informal parts.  
 
 Logistically, there is an outstanding challenge called the [AIMO Prize](https://aimoprize.com/) that provides a nice goalpost to aim for. You win the prize if you create an open source model that can win a gold medal in International Math Olympiad, given 8 A-100s for inference over the time period of the traditional human competition.
 

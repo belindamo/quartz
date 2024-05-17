@@ -32,3 +32,5 @@ Other ones that have cultural significance that are kind of boring to me:
 - Kant
 - Hume
 - Zeno
+
+western phil https://www.youtube.com/watch?v=QkP4g9e86qA
