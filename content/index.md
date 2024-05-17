@@ -2,7 +2,8 @@
 title: Welcome
 note: Home page
 ---
-*Disclaimer: All writing on here are a work in progress, with the primary intention of helping me clarify my thoughts🧚🏼‍♀️ Sorry if some of it is unclear. * 
+
+*Disclaimer: All writing on here are a work in progress, with the primary intention of helping me clarify my thoughts🧚🏼‍♀️ Sorry if some of it is unclear.* 
 
 ## What is Just An Experiment?
 
