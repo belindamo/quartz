@@ -7,7 +7,7 @@ note: Home page
 
 ## What is Just An Experiment?
 
-I host cute little projects on https://justanexperiment.com. These experiment proposals and write-ups are related to those projects, though there is also writing on here correlated to projects where the code has not been released or written yet. 
+I host cute little projects on https://justanexperiment.com. Source code is [on Github](https://github.com/justanexperiment). These experiment proposals and write-ups are related to those projects, though there is also writing on here correlated to projects where the code has not been released or written yet. 
 
 Enjoy exploring! You can navigate this blog through the inline links ([[product|like this]]), left navigation menu (large screens only), or the graph view / backlinks at the bottom. 
 
@@ -22,7 +22,7 @@ These are proposals that I've been working on:
 - [["LLM Operating System"]]
 - [[Explainable Protocols for 2x+ Retention Improvements to Human Long-Term Memory]]
 
-More bite-sized experiment proposals:
+More bite-sized experiments:
 - [[What does a better knowledge graph structure for enhancing human learning alongside LLMs look like?]]
 - [[What does an configurable format for a single AI agent's profile look like?]]
 - [[🧪/Experiment Proposals/What does a configurable format look like to represent essential data for a single person?|What does a configurable format look like to represent essential data for a single person?]]

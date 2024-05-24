@@ -29,7 +29,7 @@ Memory techniques with and without referencing an external object have been inde
 
 Today, memory techniques are most widely used in professions like medicine that require a lot of memorization. They're also used in memory competitions or to pass down oral history in groups like the Aboriginal Australians.
 
-### An anecdote: surviving medical school by using method of loci
+### An anecdote: Surviving medical school by using method of loci
 My brother is a resident orthopedics surgeon who used augmented method of loci to get through his board exams. In medical school, he used memorize about 4,000 concepts using this software tool [Sketchy](https://sketchy.com) that maps medical concepts to whacky visualizations. 
 
 Apparently, thousands of medical students every year use Sketchy. Here is an example of one of their scenes that is used for USMLE prep:
