@@ -2,113 +2,107 @@
 tags:
   - fiction
 notes: "todo: experiment w diff styles like Ursula K Le Guin / Kazuo Ishiguro / Patrick Rothfuss, with lex.page"
-date: 2022-01-01
+date: 2024-06-09
 ---
 #### Part I: Seer Encounter [TRUTH]
 
-*"Any sufficiently advanced magic is indistinguishable from technology." - Larry Niven*
+*Any sufficiently advanced magic is indistinguishable from technology. - Larry Niven*
 
-The full moon's glow painted the night sky in bloody strokes.  Kal found peace in its anomalous presence, like the world had struck perfect equanimity. Around her, the night market bustled with merchants who haggled steel weapons with geometric markings. Visitors perused colorful market stalls to celebrate Artheria’s annual Lunar festival. Lanterns floated above the streets and the moon’s blood glow illuminated faint shimmers of ki in the air swirling in infinite patterns. This got her excited as she remembered that she was about to meet a Seer who knew the truth of the world.
+The full moon paints the night sky in bloody strokes.  Kal finds peace in the anomaly, like the world has finally struck perfect equanimity. Around her, a night market bustles with merchants and customers haggling geometrically marked steel weapons. Travelers peruse colorful market stalls. They are here to celebrate Artheria’s annual Lunar Festival, though Kal is not. She is here to meet a Seer who knows the truth of the world.
 
-Kal walked through the market passing by entertainers, warriors, and noblepeople. The fire festival was a flattening of Artheria’s magical caste – city dwellers gathered together regardless of magic ability in order to celebrate collective consciousness, the primary right of every citizen in Artheria.
+Kal walks through the market, passing a blur of entertainers, warriors, and noblepeople. Lanterns float above the streets and the moon’s blood glow illuminates faint shimmers of ki in the air swirling in infinite patterns. The fire festival is a flattening of Artheria’s magical caste. City dwellers gather annually regardless of magic ability in order to celebrate Collective Consciousness, the first amendment right of every citizen in Artheria.
 
-A group of dancers gathered in a circle in low stances. Their arms linked in a circle and their palms faced up, hands cupped. Balls of fire appeared between hands, and as they drew their hands apart, fire contorted into triangular fractals. The drummer struck the bass with a resonant THRUM and as soundwaves met minds, the dancers broke out of the circle in round motion, with fire lines swaying between them like streams. The drummer continued and the beat steadily increased - THRUM -- THRUM -- THRUM – THRUM – THRUMTHRUMTHRUMTHRUM. Soon they were spinning so quickly that they were one great bonfire lashing the sky. The audience felt their heartbeats accelerate and chests tighten. They were enamored with the dancers’ incredible ki control. Right as their hearts felt ready to burst, the drummer brought back down the beat – THRUM --- THRUM ---- THRUM ----- THRUM. The dancers gathered back to their starting positions, lifted their palms to the sky, and crossed their arms around their bodies to link arms. A blinding halo of white light appeared at their feet. On the final THRUM, they stomped their feet and opened palms wide; an entire pulse vibrated through the atmosphere and the fire ring rose towards the moon.
+A group of dancers gather in a circle in low stances. Their arms link in a circle and their palms face up, hands cupped. Balls of fire appear between hands, and as they draw their hands apart, fire contorts into triangular fractals. The drummer strikes the bass with a resonant THRUMMM. As soundwaves meet minds, the dancers break out of the circle in round motion, fire lines swaying between them like streams. The drummer continues and the beat steadily increases - THRUM -- THRUM -- THRUM – THRUM – THRUMTHRUMTHRUMTHRUM. Soon they are spinning so quickly that they become a unified great bonfire lashing the sky. The audience's heartbeats accelerate and chests tighten. They are enamored by the dancers’ incredible *ki* control. Just as their hearts feel ready to burst, the drummer slows the beat – THRUM --- THRUM ---- THRUM ----- THRUM. The dancers return to their starting positions, lifting their palms to the sky, and crossing their arms around their bodies to link arms. A blinding halo of white light appear at their feet. On the final THRUM, they stomp their feet and open palms wide; an entire pulse vibrates through the atmosphere and the fire ring rises towards the moon.
 
-Kal knew that the difficulty of the dancer’s ki work was about magical control rather than depth of reserves. Fire was dangerous because it could only be emitted from a couple points at once – typically the hands – while the rest of the body laid unprotected.  In their lightning fast routine, a dancer's real challenge was to avoid burning themself and the other dancers. The upside is that it looked quite impressive to see ki emitted so far into the sky – although Kal suspected there was a trick to it, like adding oil to the ring before it left dancer hands. Still, Kal had stopped to see the full ceremony because she couldn’t help but feel a rush of nostalgia for these festivals, how it made her heart pound in resonance with the crowd’s despite an absence of heart xi.
+Kal knew that the difficulty of the dancer’s *ki* work was about magical control rather than depth of reserves. Fire was dangerous because it could only be emitted from a couple points at once – typically the hands – while the rest of the body laid unprotected.  In their lightning fast routine, a dancer's real challenge was to avoid burning themself and the other dancers. The upside is that it looked quite impressive to see ki emitted so far into the sky – although Kal suspected there was a trick to it, like adding oil to the ring before it left dancer hands. Still, Kal had stopped to see the full ceremony because she couldn’t help but feel a rush of nostalgia for these festivals, how it made her heart pound in resonance with the crowd’s despite an absence of heart xi.
 
-After three re-centering breaths, Kal was ready to move on. It was about time for her to walk to the meeting place. 
+After three re-centering breaths, Kal is ready to move on. It is time for her to walk to the meeting place. 
 
-She walked into a narrow alleyway between two merchant booths that led to a tile on the floor. The tile was about the size of a festival stall and decorated with ancient runes that Kal could vaguely decipher were around “truth”. There was also a small slot at the center. 
+She walks into a narrow alleyway between two merchant booths that lead to a tile on the floor. The tile is about the size of a festival stall and etched with ancient runes that Kal can vaguely decipher: “tRuTh”. 
 
-Out of her beige cloak, Kal pulled out a metal token and enveloped it with her hands. The token responded to her signature ki, and within a second it flew out of her hands and into the slot. The tile creaked open and led to a steep decline path. At the entrance there was a sign that said, ‘No Ki in tunnel. Disobeyers will be dispatched.’ In the pitch darkness Kal could see steely shimmers of ki in unusually high concentrations floating along the narrow pathway. Kal’s shoulders tensed on guard. The ki was coming from something – or someone.
+There is a small slot at the center. Out of her cloak, Kal retrieves a metal token and envelops it with her hands. The token responds to her ki, and within a second it flies out of her hands and into the slot. The tile creaks open and leads to a steep declining path. At the entrance there is a sign that says, ‘No Ki in tunnel. Disobeyers will be dispatched.’ In the pitch darkness Kal sees steely shimmers of ki in unusually high concentrations floating along the narrow pathway. Kal’s shoulders tenses on guard. The ki must be coming from something or someone.
 
-It seemed that she walked for ages down the path – there must be a time contortion spell – but eventually she saw dim light at the end.
+It seems that she walks for ages down the path – it must be a time contortion spell – but eventually she sees dim light at the end.
 
-As she stepped into the light, the air felt heavy like metal. Her token flew back to her and into her cloak. Kal placed her hand in her pocket and like holding someone’s hand, the token pulled her forward down the aisle. She followed its lead.
+As she steps into the light, the air feels heavy like metal. Her token flies back to her and into her cloak. Kal places her hand in her pocket and like holding someone’s hand, the token pulls her forward down the aisle. She follows its lead.
 
-Whereas above ground the booths were welcoming and in the open, this was a steel corridor lined with pitch black doors and no windows. The hallway had perfectly symmetrical lines alongside cracked rusty walls, indicating that this hallway was a holdover from the Creation Age. No one else was in the hallway – she suspected that the earlier pathway was a twisted waiting room that made visitors keep walking until the previous person finished. Each door had a simple one word sign – "Tablet’, ‘Weapon’, ‘Device1’, ‘Device2’. Kal was nearly at the end of the hall when she felt a sharp jerk to the left – towards a door titled ‘Book’.
+Whereas above ground the booths are welcoming and in the open, this is a steel corridor lined with pitch black doors and no windows. The hallway has perfectly symmetrical lines alongside cracked rusty walls, indicating that this hallway is a holdover from the Creation Age. No one else is in the hallway – she now suspects that the earlier pathway was a Ruminance, a maze-like waiting room that keeps you walking until the previous visitor has passed. Each hallway door has a one word sign – "Tablet’, ‘Weapon’, ‘Device1’, ‘Device2’. Kal nears the end of the hall when she feels a sharp jerk to the left – towards a door titled ‘Book’.
 
-It came to no surprise that her secretive truth-bringer was a collector of the most banned of all artifacts. An urgent tugging from her pocket bruised her index finger and directed her towards the door. The coin impatiently buzzed and was almost too hot to hold. She released the coin and it flew into the keyhole with a click. The matte black door swung open, and Kal walked down the room’s unlit entrance.
+It comes as no surprise that her secretive truth-bringer is a collector of the most banned of all artifacts. Books are dusty, fragile objects filled with indecipherable symbols, yet the Artherian Order marks them S-ranked on the banned objects list. An urgent tugging from her pocket nearly bruises her trigger finger as it directs her towards the door. The coin impatiently buzzes and is nearly too hot to hold. She releases the coin and it flies into the keyhole with a click. The matte black door swings open, and Kal walks down the room’s unlit entrance.
 
-Kal could make out vague outlines of book stacks.
+Kal can make out vague outlines of book stacks. He is here.
 
-She heard mutterings from a gravelly voice. The voice sounded like metal on rocks. It was difficult to imagine what the person looked like.
+“Hello?” Kal asks. “I’ve come here seeking truth.”
 
-“Hello?” Kal asked. “I’ve come here seeking truth.”
+Dim lights turn on and Kal is greeted by an expansive room full of dusty books. She’d only ever seen two books before. Here, it looked like there were thousands. At the very end of the room is a large stack of books and that is where she hears gravel-like mutterings. Kal walks in that direction with a dozen questions in her throat.
 
-Dim lights turned on and Kal was greeted with an expansive room full of dusty books. She’d really only ever seen one or two books before. She guessed that there were thousands here. At the very end of the room was a large stack of books and that was where the voice was coming from. Kal had a dozen questions come up.
+The voice anticipates her intentions. “Enter. Yes, I’m a *xi* expert, and I also dabble in the mind. Before you enter, show me what you have.”
 
-The voice anticipated her thoughts. “Enter. Yes, I’m a *xi* expert, and I also dabble in the mind. Before you enter, show me what you have.”
+Kal bows slightly, though she isn't sure whether he can see her, and reaches into her duffel bag. She brings out a brown rectangular package tied with tweed.
 
-Kal bowed slightly, though she wasn’t sure if he could see her, and reached into her duffel bag. She brought out a brown rectangular package tied with tweed.
+She hears papers shifting. Interest. “Open it for me.”
 
-She heard papers shifting. Interest. “Open it for me.”
+“Of course,” Kal unties the package and unwraps the brown paper. The book is titled in Creationary script, *Bhagavad Gita*. Kal was told that the Seer liked succinct responses so she kept things short unless asked. 
 
-“Of course.”
+“How did you get your hands on this?” the Seer asks.
 
-Kal untied the package and unwrapped the brown paper. The book was titled in Creationary script, *Bhagavad Gita*.
-
-“How did you get your hands on this?” the seer asked.
-
-“Through trade.”
+“Through trade." 
 
 “A lie. The only known copy of this book is in the royal treasury.”
 
 “Well, evidently not. This is an untouched copy.” 
 
-“What are you looking for?”
+Kal waits for his response for what seems like a silent eternity. Finally, she hears, “What are you looking for?”
 
-Kal knew her response here was key. She knew this book’s worth and that the seer wanted to read it. 
+“I am seeking knowledge for knowledge,” Kal responds, knowing that this would determine his willingness to share. “I want to know about the creation of the world.”
 
-“I am not seeking money. I am seeking knowledge for knowledge,” Kal said. “I want to know about the creation of the world.”
+“Every child in Artheria has been taught about the creation of the world," he says. "How would what I share be any different?"
 
-“You know it already.” he said. “Every child in Artheria has been taught the Creationary story.”
+“I’m not talking about the false tales they teach us in school,” Kal says. She wonders if the seer already knew who she was. “I know that the Creationary stories of Aja and Raj are devised by the Artherian Order, not the gods. I’ve done my own digging and there is no scientific evidence of their existence.” This is a lie. Kal doesn't have proof that the Creationary story is not real, she couldn't find conclusive evidence of such in the multiple Archives she'd visited, and she doesn't know what science is. She only knows that the Seer does.
 
-“I’m not talking about what they teach us in school,” Kal said. She wondered if the seer already knew who she was. “I know that the stories of Raj and Aja are false tales. I’ve done my own digging and there is no empirical evidence about their existence.”
+“Scientific,” he echos. “How bold of you to speak of it.”
 
-“Empirical,” he echoed. “How bold to speak the word.”
+“I know who you are and that Science is your core belief,” Kal continues. “I have even used its method to test my own assumptions about the truth of the world. From this, I know that Artherian officials tell us everything but the truth. They feed us fables at the expense of our citizens’ long-term wellbeing. Our magic source dwindles yet there are no efforts to upkeep the nation. Nobles in power only want to keep their power. I want to find the truth and share it with everyone. Please, tell me what you know about our origins. I am keen to know the truth.”
 
-“I know who you are and that empiricism is also important to you,” Kal said. “I have used it to test my own assumptions about the truth of the world. And I know that Artherian officials tell us everything but the truth. They feed us fables at the expense of our citizens’ long-term wellbeing. Our magic source dwindles yet there are no efforts to improve the nation. Nobles in power only want to keep power. I want to find the truth and share it with all.”
+Kal hears books shifting. A long silence ensues and just as she’d thought that he'd left she hears -
 
-“So,” Kal continued. “What is the origin?”
+“The origin of magic,” he says. “From the Creationary period, comes from a fundamental religion – Science. It was invented thousands of years ago and led to the creation of the artifacts we use today.
 
-Kal heard shifting of more books. A long silence ensued and just as she’d thought that he had left he spoke. 
+“Science used a Method. It is the ability to create accurate predictions of the future. You use the Scientific Method to see what the world will do in the future, based on what happened in the past. 
 
-“The origin of magic,” he said. “From the Creationary period, comes from a fundamental religion – Science. It was invented thousands of years ago and led to the creation of the artifacts we use today.
-
-“Science used a Method. It is the ability to create accurate predictions of the future. You use this Scientific Method to see what the world will do in the future, based on what happened in the past. It is the concept of testing cause and effect.
-
-“And, technology is the foundation of all magic.
+“Following this method, we build objects called Technology. Technology is the process that has build all of our magic.
 
 “Our world is powered by ‘nanites’, a type of technology. Nanites in our blood and in our city amplify our natural abilities. There are three main kinds: to ourselves, each other, and our environment.
 
-“I can do this with a single word,” the seer said, invoking utter sadness in Kal’s mind, bringing her to tears. Kal could not block his mind attack in time with her xi. “Because nanobots amplify my ability to affect your neural state.”
+“I can do this with a single word,” the seer says, invoking utter sadness in Kal’s mind, bringing her to tears. Kal could not block his mind attack in time with her xi. “Because nanobots amplify my ability to affect your neural state.”
 
-Kal was struck by the peculiarities of the seer’s words. By ‘neural’ Kal assumed that he meant her mind. 
+Kal notices the peculiarities of the seer’s words. By ‘neural’ Kal assumes that he means her mind. 
 
-“However, nanobots are dwindling, The nanobots that are disappearing the most quickly are maintenance nanobots. Maintenance nanobots must be maintained themselves and are running out of resources to procreate. They maintain the tunnels critical to our connections, made of what were called ‘fiber-optic cables’.
+“However, nanobots are dwindling, The nanobots that are disappearing the most quickly are type-R nanobots. Type-R nanobots must maintain themselves and have done so for thousands of years, but recently they are running out of resources to procreate. They maintain the tunnels critical to our connections, made of what are called ‘fiber-optic cables’.
 
-“Then there was the second coming – the philosophy that came with nanobot computing power which is the collective consciousness.” 
+“Then there was the second coming – the philosophy that came with nanobot computing power which is the Collective Consciousness.” 
 
 “We know there is a ‘collective consciousness’. 
 
-“Artherian government is doing active research on these topics. They want to have a knowledge monopoly. They own the biggest library of books. And they keep this information completely physical because to keep them stored in artifacts means that they could potentially enter other people’s mindspaces.
+“The Artherian government is doing active research on these topics. They want to have a knowledge monopoly. They own the biggest library of books. And they keep this information completely physical because to keep them stored in artifacts means that they can potentially enter other people’s mindspaces.
 
-“Artheria wants to do so in order to maintain order and structure in society. Yet who does order benefit? It only benefits the nobility. Non-mages would revolt if they knew that ki is not a blind magic to follow. It would lead to a complete restructuring of society. Nobles say this is bad because we will be too focused on infighting rather than maintaining a structured order to recreate ki artifacts and generate more ki. Yet even with all of their research and governmental order, they may not be able to reproduce everything in time. The people who work at the higher up levels do not feel the pressure yet. The pressure lies in the everyday people who are losing their ki. They are complacent.
+“Artheria wants to do so in order to maintain order and structure in society. Yet who does order benefit? It only benefits the nobility. Non-mages would revolt if they knew that ki is not a blind magic to follow. It would lead to a complete restructuring of society. Nobles say this is bad because we will be too focused on infighting rather than maintaining a structured order to recreate ki artifacts and generate more ki. Yet even with all of their research and governmental order, they may not be able to reproduce everything in time. The people who work at the higher up levels do not feel the pressure yet. The pressure lies in the everyday people who are losing their ki. They are complacent."
 
-“One last question,” Kal said. “I’m curious, if you know all of this already, why don't you do something about it yourself?”
+"I've got to go. Leave the *Bhagavad Gita* on the table on your left. Goodbye," he says abruptly, with no explanation.
 
-“My time has passed.” She could hear his shrug. “But you are on the right path. The first step is always truth. The next place you’ll want to go to is the Artherian Capital. You will find more answers there. Goodbye.” 
+“One last question,” Kal quickly responds. “I’m curious, if you know all of this already, why don't you do something about it yourself?”
 
-It was an abrupt end to their conversation but Kal no longer sensed the seer’s xi and knew it would be pointless to continue asking questions. She bowed and retreated, closing the door.   
+“My time has passed.” She hears him shrug. “But you are on the right path. The first step is always truth. The next place you’ll want to go to is the Artherian Capital. You will find more answers there. Goodbye.” 
 
-As she walked back, Kal pondered the conversation. Of course, she wanted to test what the seer said about the scientific method on xi and ki. Perhaps then, Kal would understand how magic really worked. Kal thought of her mom who was pulled away without explanation. She thought of how those without magic were second class and how magic was disappearing everyday before everyone's eyes. Maybe she could bring magic to everyone. Maybe she could bring back her family.
+It is an abrupt end to their conversation but Kal no longer senses the seer’s xi and knew that it would be pointless to continue asking questions. She bows and retreats, closing the door.   
 
-Kal thought of all of this and resolutely set forward to the next place the seer had said  - to the Artherian Capital.
+As she walks back, Kal ponders the conversation. Of course, she wants to test what the seer said about the scientific method on xi and ki. Perhaps then, Kal would understand how magic really worked. Kal thinks of her mom who was taken away without explanation. She thinks of how those without magic are second class and how magic has been disappearing every day before everyone's eyes. Maybe she can bring magic to everyone. 
+
+Kal thinks of all of this and with renewed resolve, sets forward to the next place the seer had said  - the Artherian Capital.
 
 • • •
 
-#### Part II: Atherian Capitol [COLLECTIVE]
+#### Part II: Atherian Capital [COLLECTIVE]
 
 *Why do you seek the truth?*
 
@@ -116,7 +110,7 @@ Kal thought of all of this and resolutely set forward to the next place the seer
 
 *How do I recover it?*
 
-The Capitol vibrated with energy. Mages rapidly exchanged *ki* in a way that left Kal feeling breathless.
+The Capitol vibrated with energy. Mages rapidly exchanged *ki* in a way that leaves Kal feeling breathless.
 
 ![](https://lh6.googleusercontent.com/c6Czua5MH5s9qYmJbhccGE71M3LdA9EGXw1HV3ZecGFYYhboiznJVeLq_4hgjVDIM_AwhdU2AY9wf094u9EsvBQgGpyCNjDlo4ifbCaKJjojPCNCjLSPEEW9--Su5nDJg55fz_cKx36KbWMrGNTjQonLR5gfhZCN3hUlrSxYnQ9Vw1r-2Au1iRy_)
 
@@ -379,7 +373,7 @@ She felt her magical ability return as she left the village, and she realizes th
 
 #### Part IV - Forest [FLOW]
 
-"Any [sufficiently analyzed magic](http://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAnalyzedMagic) is indistinguishable from science." - Agatha Heterodyne
+*Any sufficiently analyzed magic is indistinguishable from science. - Agatha Heterodyne*
 
 Kal walked down the path that she saw in her vision. She was deep in a lush green forest. She was surrounded by elder trees thicker than she was tall. Here she was close to the Capitol - she was actually at the center of Atheria, just a few miles off of the Capitol. 
 

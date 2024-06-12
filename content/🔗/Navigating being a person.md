@@ -3,7 +3,7 @@ It's tough, man. But there are some things I've found that make life easier and 
 - Introspective practices like meditation, writing, programming
 - Aerial arts
 - Intellectually stimulating collaborations
-- Connection with family
+- Quality time with family and friends
 - Sex
 - Music
 
