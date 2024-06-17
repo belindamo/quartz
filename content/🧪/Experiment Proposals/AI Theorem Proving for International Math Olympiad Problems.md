@@ -1,6 +1,7 @@
 ---
 date: 2024-04-16
 notes: "todo: methods section"
+draft: "true"
 ---
 ## Experiment Length
 **Estimated Time To Build:** ? does anyone really know
