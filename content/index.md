@@ -5,13 +5,13 @@ note: Home page
 
 *Disclaimer: All writing on here are a work in progress, with the primary intention of helping me clarify my thoughts🧚🏼‍♀️ Sorry if some of it is unclear.* 
 
-## What is Just An Experiment?
-
-I host cute little projects on https://justanexperiment.com. Source code is [on Github](https://github.com/justanexperiment). These experiment proposals and write-ups are related to those projects, though there is also writing on here correlated to projects where the code has not been released or written yet. 
-
-Enjoy exploring! You can navigate this blog through the inline links ([[product|like this]]), left navigation menu (large screens only), or the graph view / backlinks at the bottom. 
+Hi hi! You can navigate this blog through the inline links ([[product|like this]]), left navigation menu (large screens only), or the graph view / backlinks at the bottom. 
 
 🤸🏻‍♀️ 🤸🏻‍♀️ 🤸🏻‍♀️
+
+## What is Just An Experiment?
+
+I'm playing around with some cute little projects. Source code is [on Github](https://github.com/justanexperiment). These experiment proposals and write-ups are related to those projects, though there is also writing on here correlated to projects where the code has not been released or written yet. 
 
 ## Research proposals
 These are proposals that I've been working on:
