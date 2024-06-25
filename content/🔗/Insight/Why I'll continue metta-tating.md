@@ -1,4 +1,4 @@
-Meditating is one of those things where in the past, parts of my body, including my heart of hearts, says, "yes! yes! let's do that some more" and other parts are like, "Oh but sleep...and chocolate!...and everything else but meditating!" 
+Meditating is one of those things where in the past, parts of my body, including my heart of hearts, says, "yeah!! let's do more of that" and other parts are like, "Oh but sleep...and chocolate!...and everything else but meditating!" 
 
 So I wrote these personal reasons for why I'll continue meditating, and specifically with the practice of [metta](https://en.wikipedia.org/wiki/Maitr%C4%AB). 
 

@@ -19,7 +19,7 @@ My favs so far:
 # 🧪 Experiment write-ups
 
 - [[25-39. Quantified learning Part I]]
-- [[21-24. Test Qi Gong effects on people and objects]]
+- [[21-24. Test effects of qi gong on people and objects]]
 - [[20. wiki vital articles]]
 - [[19. data contamination]]
 - [[18. bmo cafe for tasks]]
