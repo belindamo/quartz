@@ -1,8 +1,3 @@
----
-tags:
-  - internal-c
----
-
 **Creation** is a process where a being receives input, applies their filter, and uses material to create output. Most of the time it refers to human creation. 
 
 There are lots of cases of this:

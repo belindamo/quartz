@@ -1,0 +1,3 @@
+- Spaced repetition is the common denominator
+- Use rote repetition for atomic facts
+- Use mnemonics 

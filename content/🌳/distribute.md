@@ -1,7 +1,4 @@
----
-tags:
-  - internal-c
----
+
 
 **Distribution** is the act of traversing an edge. It's probably more important 
 than nodes themselves.

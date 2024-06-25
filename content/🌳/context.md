@@ -1,7 +1,3 @@
----
-tags:
-  - internal-c
----
 
 
 **Context** determines the significance of a concept. 

@@ -1,7 +1,4 @@
----
-tags:
-  - "#internal-c"
----
+
 
 **Knowledge** is any [[concept]] that exists.
 

@@ -1,10 +1,11 @@
 ---
-date: 2023-03-14
+date: 2024-06-24
 notes: |-
   ## Additional Considerations
   A few additional considerations include:- Translation impact on learning a language- English dominance and language unification vs. diversification- Privacy and security for consumers
+linked to: "[[Notes on Decoupling Language Skills from Job Skills]]"
 ---
-*This is written in relation to my startup, [vivatranslate.com](https://vivatranslate.com)*
+*Written about my last startup, [vivatranslate.com](https://vivatranslate.com)*
 ## A Complete Abstraction of Language in the Workplace
 
 In today’s world, talent is equally distributed but opportunity is not.
@@ -90,9 +91,8 @@ Viva provides a translation ecosystem across bi-directional communication, long-
 
 There are multiple types of players in the global ecosystem that require effective remote communication together. For each, there are economic reasons to work together across language. 
 
-|                          |                                                  |
+| **Player Type**          | **Example**                                      |
 | ------------------------ | ------------------------------------------------ |
-| **Player Type**              | **Example**                                          |
 | Companies                | Coca Cola, IBM, Mercado Libre                    |
 | Remote Service Providers | Teleperformance, Globant                         |
 | Educators                | Stanford, Carnegie Mellon, Platzi                |
@@ -130,4 +130,4 @@ Let’s make it such that access to opportunities is decoupled from the language
 
 Imagine this world. 
 
-[[Notes on Decoupling Language Skills from Job Skills]]
+

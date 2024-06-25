@@ -1,5 +1,4 @@
 # Dopamine
-#internal-c #to-organize 
 
 **Dopamine** creates desire and motivation to change and act. 
 
