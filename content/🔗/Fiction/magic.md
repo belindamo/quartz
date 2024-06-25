@@ -4,11 +4,12 @@ tags:
 notes: "todo: experiment w diff styles like Ursula K Le Guin / Kazuo Ishiguro / Patrick Rothfuss, with lex.page"
 date: 2024-06-09
 ---
+*work in progress...revamping. probably only like the first 1/3rd feels good atm*
 #### Part I: Seer Encounter [TRUTH]
 
 *Any sufficiently advanced magic is indistinguishable from technology. - Larry Niven*
 
-The full moon paints the night sky in bloody strokes.  Kal finds peace in the anomaly, like the world has finally struck perfect equanimity. Around her, a night market bustles with merchants and customers haggling geometrically marked steel weapons. Travelers peruse colorful market stalls. They are here to celebrate Artheria’s annual Lunar Festival, though Kal is not. She is here to meet a Seer who knows the truth of the world.
+The full moon paints the night sky in bloody strokes.  Kal finds peace in the anomaly, like the world has finally struck perfect equanimity. Around her, a night market bustles with merchants and customers haggling geometrically marked steel weapons. Travelers peruse colorful market stalls, celebrating Artheria’s annual Lunar Festival. Kal is not. She is here to learn the truth of her world.
 
 Kal walks through the market, passing a blur of entertainers, warriors, and noblepeople. Lanterns float above the streets and the moon’s blood glow illuminates faint shimmers of ki in the air swirling in infinite patterns. The fire festival is a flattening of Artheria’s magical caste. City dwellers gather annually regardless of magic ability in order to celebrate Collective Consciousness, the first amendment right of every citizen in Artheria.
 
@@ -58,19 +59,19 @@ Kal waits for his response for what seems like a silent eternity. Finally, she h
 
 “Every child in Artheria has been taught about the creation of the world," he says. "How would what I share be any different?"
 
-“I’m not talking about the false tales they teach us in school,” Kal says. She wonders if the seer already knew who she was. “I know that the Creationary stories of Aja and Raj are devised by the Artherian Order, not the gods. I’ve done my own digging and there is no scientific evidence of their existence.” This is a lie. Kal doesn't have proof that the Creationary story is not real, she couldn't find conclusive evidence of such in the multiple Archives she'd visited, and she doesn't know what science is. She only knows that the Seer does.
+“I’m not talking about the false tales they teach us in school,” Kal says. She wonders if the seer already knew who she was. She ventures further. “I know that the Creationary stories of Aja and Raj are devised by the Artherian Order, not the gods. I’ve done my own digging and there is no  evidence of their existence.” This is a lie. Kal doesn't have proof that the Creationary story is not real and she couldn't find conclusive information in the multiple Archives she'd visited. She only knows that the Seer knows.
 
-“Scientific,” he echos. “How bold of you to speak of it.”
+“Evidence,” he echos. “How bold of you to seek it.”
 
-“I know who you are and that Science is your core belief,” Kal continues. “I have even used its method to test my own assumptions about the truth of the world. From this, I know that Artherian officials tell us everything but the truth. They feed us fables at the expense of our citizens’ long-term wellbeing. Our magic source dwindles yet there are no efforts to upkeep the nation. Nobles in power only want to keep their power. I want to find the truth and share it with everyone. Please, tell me what you know about our origins. I am keen to know the truth.”
+“I know who you are and that Science is your core belief,” Kal continues. “I have even used its method to test my own assumptions about the truth of the world. From this, I know that Artherian officials tell us everything but the truth. They feed us fables at the expense of our citizens’ long-term wellbeing. Nobles in power only want to keep power, while our magic source dwindles with little effort to upkeep the nation.  I want to find the truth and share it with everyone. Please, tell me what you know about our origins. I am keen to know the truth.”
 
-Kal hears books shifting. A long silence ensues and just as she’d thought that he'd left she hears -
+Long silence ensues and then Kal hears books shifting. Just as she thought that he'd left she hears -
 
 “The origin of magic,” he says. “From the Creationary period, comes from a fundamental religion – Science. It was invented thousands of years ago and led to the creation of the artifacts we use today.
 
-“Science used a Method. It is the ability to create accurate predictions of the future. You use the Scientific Method to see what the world will do in the future, based on what happened in the past. 
+“Science used a Method. This Method provides the ability to predict the future. You use the Scientific Method to see what the world will do in 5 minutes, tomorrow, in a year from now, based on what happened in the past. 
 
-“Following this method, we build objects called Technology. Technology is the process that has build all of our magic.
+“Following this method, people built objects called Technology. Technology is the process that has built all of our magic.
 
 “Our world is powered by ‘nanites’, a type of technology. Nanites in our blood and in our city amplify our natural abilities. There are three main kinds: to ourselves, each other, and our environment.
 
@@ -114,7 +115,7 @@ The Capitol vibrated with energy. Mages rapidly exchanged *ki* in a way that lea
 
 ![](https://lh6.googleusercontent.com/c6Czua5MH5s9qYmJbhccGE71M3LdA9EGXw1HV3ZecGFYYhboiznJVeLq_4hgjVDIM_AwhdU2AY9wf094u9EsvBQgGpyCNjDlo4ifbCaKJjojPCNCjLSPEEW9--Su5nDJg55fz_cKx36KbWMrGNTjQonLR5gfhZCN3hUlrSxYnQ9Vw1r-2Au1iRy_)
 
-Kal was in the trading district which bordered the sea. Atheria was famously exclusive about who they let in. The ports were Artheria’s only connection to other countries - the rest of Artheria was bordered by coastal rock or waterless desert. Most mages were enlisted to guard Artheria’s ports from unkind foreigners. The other side of Athena was a large expanse of desert. It was said that those who ventured there were never heard from again. Since the country’s founding there had never been a successful invasion - though not for lack of trying.
+Kal was in the trading district which bordered the sea. Atheria was famously exclusive about who they let in. The ports were Artheria’s only connection to other countries - the rest of Artheria was bordered by coastal rock or waterless desert. Most mages were enlisted to guard Artheria’s ports from ill-intentioned foreigners. The other side of Atheria was a large expanse of desert. It was said that those who ventured there were never heard from again. Armed with these geographical gifts, the country has never been successfully invaded - though not for lack of trying.
 
 As Kal walked around the trading district, Kal figured it could be nice to see more of the city while she was here. In the corner of her eye she saw a boy about her age energetically bartering with a merchant. He wore a beige vest and pants that implied that he was a foreign trader, yet she sensed something curious. Looking closely, she saw that as he talked he was manipulating the merchant's heart. From a bit of subtle nudging she could tell he had a strong xi guard. Kal was impressed - he had a solid foundation of xi work, likely from his noble upbringing.
 
@@ -186,15 +187,15 @@ Kal nodded. 
 
 “Here,” the boy took her by the hand once more, “Let's go look at a few other rituals! Since you’re from Salas I bet you will love these bloodier rituals.”
 
-Kal was sad to say goodbye to the boy but knew it was time. 
+Kal hesitated.
 
 “I think it’s about time to find my family again. Thank you for showing me around,” she said.
 
 “Of course. If you're ever around again let me know.”
 
-She felt a little bad about hiding her identity. She gave the boy a kiss on the cheek.
+She felt a little bad about hiding her identity. She gave the boy a hug and a kiss on the cheek, as was customary in the Capitol. 
 
-Kal slipped away to sneak into the temple. Something was going on inside. 
+Kal slipped away to sneak into the temple. She heard voices inside. 
 
 Everyone cheered. People wept on their knees, People had tears in their eyes. Their arms stretched out and upwards towards the platform that the Priestess stood on.
 
@@ -434,9 +435,4 @@ Kal looked out at the ocean of the sea cliff. She saw the waves crashing, ebbing
 She plugged the artifact into server. She released the artifacts, all the ones she had, and also all her memories from this trip, to every person in Artheria. She knew this was the right decision. 
 
 Life ebbs and flows. It concentrates and disperses. Life will be rebuilt. It will be as it will be - this too has passed.
-
-
-### Notes
-[SciFan Google Drive](https://drive.google.com/drive/u/0/folders/1tocC5USQUEIELFoh_LVdk0AkV1VjykBz)
-
 

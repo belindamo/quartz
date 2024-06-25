@@ -1,12 +1,7 @@
 ---
 date: 2024-04-01
-draft: "true"
 ---
-## Experiment Length
-**Estimated Time To Build MVP:** 1 month
-
 # Summary
-*Problem space, Concept that exists, Concept that is being changed, How concept is being changed*
 
 A common problem in browser script automation is ensuring the reliability of script execution given that a site's DOM can change with minimal notice. DOM changes occur whenever the site owner deploys a new change or renders front-end elements based on server-side data. This problem persists regardless of whether browser automation is AI-powered or a manually written script. 
 

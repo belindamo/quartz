@@ -7,33 +7,33 @@ note: Home page
 
 Hi hi! You can navigate this blog through the inline links ([[product|like this]]), left navigation menu (large screens only), or the graph view / backlinks at the bottom. 
 
+My favs so far:
+- [[13. Memorize 111 experiments using Avatar the Last Airbender]]
+- [[product|What is a product?]]
+- [[Proposal - Crowdsourcing a universal browser automation task graph with continuously running tests]]
+- [[magic]]
+
+
 🤸🏻‍♀️ 🤸🏻‍♀️ 🤸🏻‍♀️
 
-## What is Just An Experiment?
+# 🧪 Experiment write-ups
 
-I'm playing around with some cute little projects. Source code is [on Github](https://github.com/justanexperiment). These experiment proposals and write-ups are related to those projects, though there is also writing on here correlated to projects where the code has not been released or written yet. 
+- [[25-39. Quantified learning Part I]]
+- [[21-24. Test Qi Gong effects on people and objects]]
+- [[20. wiki vital articles]]
+- [[19. data contamination]]
+- [[18. bmo cafe for tasks]]
+- [[17. Try Hume.ai - an empathetic AI (td)]]
+- [[16. Learn how OpenAI does public evals (td)]]
+- [[15. Learn morse code with chunking and spaced repetition]]
+- [[14. Build a simple scalar-based neural network]]
+- [[13. Memorize 111 experiments using Avatar the Last Airbender]]
 
-## Research proposals
-These are proposals that I've been working on:
+Larger umbrella of experiments: [[Quantified learning]]
 
-- [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
-- [[Crowdsourcing a Universal Browser Automation Task Graph with Continuously Running Tests]]
-- [[AI Theorem Proving for International Math Olympiad Problems]]
-- [["LLM Operating System"]]
-- [[Explainable Protocols for 2x+ Retention Improvements to Human Long-Term Memory]]
-
-More bite-sized experiments:
-- [[What does a better knowledge graph structure for enhancing human learning alongside LLMs look like?]]
-- [[What does an configurable format for a single AI agent's profile look like?]]
-- [[🧪/Experiment Proposals/What does a configurable format look like to represent essential data for a single person?|What does a configurable format look like to represent essential data for a single person?]]
-
-## 🧪 Experiment write-ups
-These are the write-ups for the experiments hosted on https://justanexperiment.com. 
-
-Note that all write-ups were created by running my written notes through ChatGPT.
-
-🟢 = pass, 🟠 = somewhat pass, 🔴 = fail
-
+[[Experiment System Changelog]] if you're interested in the meta of how I'm doing these experiments!
+### Older experiments
+These write-ups were created by running my written notes through ChatGPT. 
 - [[12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢|12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢]]
 - [[11. What does a useful parking ticket payer agent look like? 🔴]]
 - [[10. GPT vs. Gemini - What does a minimalistic user interface for model comparison look like? 🟢]]
@@ -48,7 +48,8 @@ Note that all write-ups were created by running my written notes through ChatGPT
 - [[1. How do I track my hours in a way that feels good? 🟠]]
 - [[0. Will I be able to build this site in 1 day, where I'll stick with it? 🔴]]
 
-## 🔗 Other writing
+
+# 🔗 Writing
 Wandering? Choose your path:
 1. [[product|What is a product?]]
 2. [[truth|Building blocks for my own knowledge system - truth]]
@@ -63,4 +64,15 @@ Other entry points
 - [[2024 Wins]]
 
 
+# Proposals
+These are proposals that I've been working on
+
+- [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
+- [[Proposal - Crowdsourcing a universal browser automation task graph with continuously running tests]]
+- [[AI Theorem Proving for International Math Olympiad Problems]]
+- [["LLM Operating System"]]
+- [[Explainable Protocols for 2x+ Retention Improvements to Human Long-Term Memory]]
+- [[What does a better knowledge graph structure for enhancing human learning alongside LLMs look like?]]
+- [[What does an configurable format for a single AI agent's profile look like?]]
+- [[🧪/Experiment Proposals/What does a configurable format look like to represent essential data for a single person?|What does a configurable format look like to represent essential data for a single person?]]
 
