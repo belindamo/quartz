@@ -22,7 +22,7 @@ My favs so far:
 - [[21-24. Test effects of qi gong on people and objects]]
 - [[20. AI interface to generate flashcards about Wikipedia's vital articles]]
 - [[19. Recreate SWE-bench to collect real-world programming evaluation data]]
-- [[18. bmo.cafe for tasks]]
+- [[18. bmo.cafe for automating tasks]]
 - [[17. Try Hume.ai - an empathetic AI (td)]]
 - [[16. Learn how OpenAI does public evals (td)]]
 - [[15. Learn morse code with chunking and spaced repetition]]
