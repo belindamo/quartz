@@ -23,15 +23,15 @@ My favs so far:
 - [[20. AI interface to generate flashcards about Wikipedia's vital articles]]
 - [[19. Recreate SWE-bench to collect real-world programming evaluation data]]
 - [[18. bmo.cafe for automating tasks]]
-- [[17. Try Hume.ai - an empathetic AI (td)]]
-- [[16. Learn how OpenAI does public evals (td)]]
+- [[17. Try Hume.ai - an empathetic AI]]
+- [[16. Learn how OpenAI does public evals]]
 - [[15. Learn morse code with chunking and spaced repetition]]
 - [[14. Build a simple scalar-based neural network]]
 - [[13. Memorize 111 experiments using Avatar the Last Airbender]]
 
 Larger umbrella of experiments: [[Quantified learning]]
 
-[[Experiment System Changelog]] if you're interested in the meta of how I'm doing these experiments!
+[[Experiment System Changelog]] if you're interested in the meta of how I'm running these experiments!
 ### Older experiments
 These write-ups were created by running my written notes through ChatGPT. 
 - [[12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢|12. Claude vs. GPT on GSM8K math benchmarks - How do they compare? 🟢]]
