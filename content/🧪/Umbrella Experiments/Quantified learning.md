@@ -50,6 +50,7 @@ Test select combinations of these 5 variables:
 #### Variations
 - Two-sided flashcard
 - Visual image 
+- Vivid stories
 
 # Questions to consider
 - Do you *really* want to remember this concept long term? 

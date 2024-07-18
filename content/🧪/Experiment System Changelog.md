@@ -1,7 +1,7 @@
 
 # v0.1 - Current
 - Consolidated to a single write-up
-- Remove pass/fail field
+- Remove pass/fail and other fields
 ## Write-up
 ![[Screenshot 2024-06-24 at 1.10.52 PM.png]]
 # v0.0 - Experiments 1-12

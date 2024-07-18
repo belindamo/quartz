@@ -62,7 +62,7 @@ Admittedly, the analogy breaks down with the methods of UPDATE and DELETE. For U
 
 Another difference is that CRUD can be built to be quite reliable for computers. For example, if I store a key-value pair of `( favorite_fruit, mango )` then READ with the query  `favorite_fruit` will always return `mango`, until I call UPDATE. Human memory is a bit messier than that!
 
-# Implementation Plan: A shared schema between mutual explainable human memory (MEHM) and mutually explainable computer memory (MECM)
+# Implementation Plan: A shared schema between mutually explainable human memory (MEHM) and mutually explainable computer memory (MECM)
 
 ## Definitions
 Let's define a few terms first:

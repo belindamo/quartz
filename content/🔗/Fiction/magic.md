@@ -37,19 +37,19 @@ Kal can make out vague outlines of book stacks. He is here.
 
 Dim lights turn on and Kal is greeted by an expansive room full of dusty books. She’d only ever seen two books before. Here, it looked like there were thousands. At the very end of the room is a large stack of books and that is where she hears gravel-like mutterings. Kal walks in that direction with a dozen questions in her throat.
 
-The voice anticipates her intentions. “Enter. Yes, I’m a *xi* expert, and I also dabble in the mind. Before you enter, show me what you have.”
+The voice anticipates her intentions. “Yes. I am indeed a *xi* expert. No. I am not a spell. Before  I bother to answer your other silly questions, show me what you have.”
 
 Kal bows slightly, though she isn't sure whether he can see her, and reaches into her duffel bag. She brings out a brown rectangular package tied with tweed.
 
 She hears papers shifting. Interest. “Open it for me.”
 
-“Of course,” Kal unties the package and unwraps the brown paper. The book is titled in Creationary script, *Bhagavad Gita*. Kal was told that the Seer liked succinct responses so she kept things short unless asked. 
+“Of course,” Kal was told that the Seer liked succinct responses so she kept things short. Kal unties the package and unwraps the brown paper. The book is titled in Creationary script, *Bhagavad Gita*. 
 
-“How did you get your hands on this?” the Seer asks.
+“How did you get your hands on this?” she hears.
 
 “Through trade." 
 
-“A lie. The only known copy of this book is in the royal treasury.”
+A snort. “A lie. The only known copy of this book is in the royal treasury.”
 
 “Well, evidently not. This is an untouched copy.” 
 
@@ -59,7 +59,7 @@ Kal waits for his response for what seems like a silent eternity. Finally, she h
 
 “Every child in Artheria has been taught about the creation of the world," he says. "How would what I share be any different?"
 
-“I’m not talking about the false tales they teach us in school,” Kal says. She wonders if the seer already knew who she was. She ventures further. “I know that the Creationary stories of Aja and Raj are devised by the Artherian Order, not the gods. I’ve done my own digging and there is no  evidence of their existence.” This is a lie. Kal doesn't have proof that the Creationary story is not real and she couldn't find conclusive information in the multiple Archives she'd visited. She only knows that the Seer knows.
+“I’m not talking about the false tales they teach us in school,” Kal says. She wonders if the seer already knew who she was. She ventures further. “I know that the Creationary stories of Aja and Raj are devised by the Artherian Order, not the gods. I’ve done my own digging and there is no evidence of their existence.” This is a lie. Kal doesn't have proof that the Creationary story is not real and she couldn't find conclusive information in the multiple Archives she'd visited. She only knows that the Seer knows.
 
 “Evidence,” he echos. “How bold of you to seek it.”
 
@@ -93,7 +93,7 @@ Kal notices the peculiarities of the seer’s words. By ‘neural’ Kal assumes
 
 “One last question,” Kal quickly responds. “I’m curious, if you know all of this already, why don't you do something about it yourself?”
 
-“My time has passed.” She hears him shrug. “But you are on the right path. The first step is always truth. The next place you’ll want to go to is the Artherian Capital. You will find more answers there. Goodbye.” 
+“My time has passed.” She feels his shrug. “But you are on the right path. The first step is always truth. The next place you’ll want to go to is the Artherian Capital. You will find more answers there. Goodbye.” 
 
 It is an abrupt end to their conversation but Kal no longer senses the seer’s xi and knew that it would be pointless to continue asking questions. She bows and retreats, closing the door.   
 
@@ -149,7 +149,7 @@ Finally, they went to the shining center of Atheria - the Temple.
 
 He led Kat to the inside of a colosseum. At the center, there was one man half-clothed and one in regal metal armor. They played a game where they passed the ball of fire back and forth to see who would let it go first. They got more exhausted and eventually the half-naked man collapsed. The noble beheaded him with a jewel-embedded saber.
 
-The boy whispered to Kal, “This is one of the many rituals we have in preparation for our annual lunar festival. Their blood sacrifices appease the gods.”
+The boy whispered to Kal, “This is one of the many rituals we have in preparation for our annual lunar festival. Sacrificial blood appeases the gods.”
 
 Kal thought about it. “But how do you know that blood is what appeases the gods?”
 
@@ -167,7 +167,7 @@ Of course she did, but she nodded with wide eyes.
 
 “May I?” he asked, extending his hand. She nodded, putting her hand in his. 
 
-*This is telepathy*, he thought into her mind. Just as he was about to show her more...
+*This is telepathy*, he thought into her mind. Just as he was about to show her more, they see a red spark light the sky. Then, more sparks. 
 
 “Ah but there,” he sighed, “is our High Priestess. She communes with the heavens. It is said she can hear the thoughts and feelings of all beings.
 
@@ -193,7 +193,7 @@ Kal hesitated.
 
 “Of course. If you're ever around again let me know.”
 
-She felt a little bad about hiding her identity. She gave the boy a hug and a kiss on the cheek, as was customary in the Capitol. 
+She felt a little bad about hiding her identity. She gave the boy a kiss on the cheek, as was customary in the Capitol. 
 
 Kal slipped away to sneak into the temple. She heard voices inside. 
 
