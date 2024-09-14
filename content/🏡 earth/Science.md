@@ -1,8 +1,7 @@
 #concept-pamphlet 
 #todo 
 
-
-This pamphlet describes the rich subfields of [[🏡 earth/Science/science|science]].
+This pamphlet outlines the rich subfields of [[🏡 earth/Science/science|science]].
 
 - [[Mathematics|Mathematics]]
 
@@ -21,7 +20,7 @@ This pamphlet describes the rich subfields of [[🏡 earth/Science/science|scien
 - Psychology
 - Economics
 
-On science
+On science itself
 - [[CS197 Computer Science Research]]
 	- [[bit flip|bit flip]]
 	- [[research velocity]]

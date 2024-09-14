@@ -1,6 +1,6 @@
 #concept-pamphlet 
 #todo : fill in the scaffold with knowledge i have so far
-#todo: i wanna have notes from Turing's original On Computing paper  🥺
+#todo: i wanna fill in notes from Turing's original On Computing paper  🥺
 
 - HCI / HAI 
 - [[Artificial Intelligence]]

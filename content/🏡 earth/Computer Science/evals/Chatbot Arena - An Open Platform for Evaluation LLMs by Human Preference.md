@@ -1,6 +1,5 @@
 #concept-pamphlet #paper [2024 Paper](https://arxiv.org/pdf/2403.04132) 
 
-
 # Notes
 ## Key terms
 - **Bradley-Terry model**
