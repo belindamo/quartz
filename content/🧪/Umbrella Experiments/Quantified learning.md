@@ -54,3 +54,8 @@ Test select combinations of these 5 variables:
 
 # Questions to consider
 - Do you *really* want to remember this concept long term? 
+
+# Quantified learning considerations
+- Spaced repetition is the common denominator
+- Use rote repetition for atomic facts
+- Use mnemonics 

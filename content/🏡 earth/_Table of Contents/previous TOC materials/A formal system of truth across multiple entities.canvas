@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"The problems: \n- Individuals and subgrops have differing views of truth on the world\n- Truth comes in varying levels of reliability\n- Importance of certain facts are weighted differently by different subgroups\n\nThese problems lead to diagreements when in reality, using simple logic gates and weightings could resolve the problems above, or at least pinpoint in an exact manner where a difference arises.\n\nWe will use this reductive framework from the field of mathematics called a **formal system**.\n\nA formal system is composed of symbols, finite sequences of symbols, and rules for sequences. \n\nWith this system, decisions remain (1) human understandable (as opposed to decision making via LLMs) and (2) based on foolproof logic. 1 is essential for maintaining consensual decisions with humans in the loop. 2 is possible because **uncertainty (from the unknown future and feelings) is abstracted away into contained variables.**\n","id":"3e4b1caa1adad2de","x":-254,"y":-275,"width":994,"height":895},
+		{"type":"text","text":"Formal system","id":"f628038db6b75ca3","x":904,"y":65,"width":250,"height":60},
+		{"type":"text","text":"\n- Git version control systems\n- Markov models\n- Incompleteness and completeness theorems\n- Turing machines\n- Expected outcome equations\n- Current legal system decision making processes\n","id":"f246fa59ba3bbb2d","x":625,"y":804,"width":475,"height":356},
+		{"type":"text","text":"? Users","id":"16ca331fc4c186f9","x":-540,"y":880,"width":250,"height":60},
+		{"type":"text","text":"Inspo: Michael Nielsen","id":"8658464c5c4e1e50","x":975,"y":-600,"width":250,"height":60},
+		{"type":"text","text":"A possible future step could be Miro-like interface with different block types that might be organized together into a diagram akin to UX flows, MechE logic gates, or Markov/Turing models.\n","id":"94fe5740b3933d2a","x":-40,"y":982,"width":283,"height":298},
+		{"type":"text","text":"Tags: #cs #philosophy #neuroscience #psychology #linguistics #math #physics \n\nIf a topic is longer than 1 word, it is abbreviated\n\nIf it is a sub-field, it can be listed as `#${field}/${sub-field}`","id":"fd6c7dcd9d50b8b4","x":-254,"y":-750,"width":820,"height":180},
+		{"type":"text","text":"# On Human alignment\nIs there a way to incentivize all parties to do the right thing? Like an anti-prisoner's dilemma","id":"50a1ac742a53d2eb","x":1240,"y":418,"width":678,"height":386},
+		{"id":"129b9adb47f78a0c","type":"text","text":"# formal system to represent all of human knowledge\n\n\n![[IMG_6959.jpeg]]\n\nThere is a relationship between formal logic and mathematics. \nGödel also showed that natural language statements can be displayed via mathematics statements\n\n\nThis **there must be a relationship between formal logic and every field of human knowledge** .\n\n\n#uks","x":1329,"y":982,"width":1031,"height":1138}
+	],
+	"edges":[
+		{"id":"2f7c93bee7faf70d","fromNode":"3e4b1caa1adad2de","fromSide":"right","toNode":"f628038db6b75ca3","toSide":"left"},
+		{"id":"261200ddb8d49ab5","fromNode":"3e4b1caa1adad2de","fromSide":"bottom","toNode":"f246fa59ba3bbb2d","toSide":"top","label":"Possible areas to research"},
+		{"id":"eb70d61a93eb4ff5","fromNode":"3e4b1caa1adad2de","fromSide":"bottom","toNode":"94fe5740b3933d2a","toSide":"top","label":"Future applications"},
+		{"id":"b1db527d875a7b3b","fromNode":"3e4b1caa1adad2de","fromSide":"bottom","toNode":"16ca331fc4c186f9","toSide":"top","label":"Limitations"}
+	]
+}
