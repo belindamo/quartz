@@ -5,9 +5,9 @@ note: Home page
 
 *Disclaimer: All writing on here are a work in progress, with the primary intention of helping me clarify my thoughts🧚🏼‍♀️ Sorry if some of it is unclear.* 
 
-Hi hi! You can navigate this blog through the inline links ([[product|like this]]), left navigation menu (large screens only), or the graph view / backlinks at the bottom. 
+Hi hi! You can navigate this blog through inline links ([[product|like this]]), the left navigation menu (large screens only), or the graph view / backlinks at the bottom. 
 
-My favs so far:
+My fav notes so far:
 - [[13. Memorize 111 experiments using Avatar the Last Airbender]]
 - [[product|What is a product?]]
 - [[Proposal - Crowdsourcing a universal browser automation task graph with continuously running tests]]
@@ -20,7 +20,7 @@ My favs so far:
 
 - [[25-39. Quantified learning Part I]]
 - [[21-24. Test effects of qi gong on people and objects]]
-- [[20. AI interface to generate flashcards about Wikipedia's vital articles]]
+- [[20. AI interface to generate flashcards about Wikipedia's vital articles (version 1)]]
 - [[19. Recreate SWE-bench to collect real-world programming evaluation data]]
 - [[18. bmo.cafe for automating tasks]]
 - [[17. Try Hume.ai - an empathetic AI]]
@@ -29,7 +29,8 @@ My favs so far:
 - [[14. Build a simple scalar-based neural network]]
 - [[13. Memorize 111 experiments using Avatar the Last Airbender]]
 
-Larger umbrella of experiments: [[Quantified learning]]
+Larger umbrella of experiments:
+- [[Quantified learning]]
 
 [[Experiment System Changelog]] if you're interested in the meta of how I'm running these experiments!
 ### Older experiments
@@ -51,11 +52,12 @@ These write-ups were created by running my written notes through ChatGPT.
 
 # 🔗 Writing
 Wandering? Choose your path:
-1. [[product|What is a product?]]
-2. [[truth|Building blocks for my own knowledge system - truth]]
-3. [[Navigating being a person]]
-4. Fiction: [[magic]], [[Tied up]]
-5. Thesis: [[Decoupling Language Fluency from Talent]]
+1. [[🏡 earth/Home|Knowledge Graph of Personal Learnings]]
+2. [[product|What is a product?]]
+3. [[truth|Building blocks for my own knowledge system - truth]]
+4. [[Navigating being a person]]
+5. Fiction: [[magic]], [[Tied up]]
+6. Thesis: [[Decoupling Language Fluency from Talent]]
 
 Other entry points 
 - [[On practical processes for creating in the 21st century]]
