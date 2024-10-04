@@ -6,7 +6,7 @@ Hi! I'm a master's student at Stanford. I'm interested in model evaluations, age
 
 Previously I founded a live translation startup, Viva Translate, that had over 45,000 users and was backed by General Catalyst, AIX Ventures, and others. I'd also worked a smattering of jobs as a software engineer at Google, English teacher, and e-commerce store owner. Nowadays I'm pretty excited about building open source software. 
 
-You can navigate this blog through inline links [[product|like this]], the left navigation menu, or the graph view at the bottom.
+You can navigate this blog through inline links [[product|like this]], the left navigation menu on desktop, or the graph view at the bottom.
 
 # Open source projects
 - [Viva Translate for the Browser](https://github.com/just-an-experiment/viva-translate) - An AI translation copilot for the browser
