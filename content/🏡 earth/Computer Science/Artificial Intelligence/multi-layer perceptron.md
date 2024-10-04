@@ -1,7 +1,10 @@
 #concept
 
-What is a **multi-layer perceptron?** >> A sequence of layers of neurons with a non-linear activation function
-<!--SR:!2024-08-15,47,290-->
+What is a **multi-layer perceptron?** 
+?
+A sequence of layers of neurons with a non-linear activation function 
+source: https://en.wikipedia.org/wiki/Multilayer_perceptron
+<!--SR:!2024-10-12,25,270-->
 ### References
 1. [[Build micrograd, a scalar-based neural network with Karpathy]]
 

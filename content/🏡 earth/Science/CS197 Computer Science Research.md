@@ -1,5 +1,6 @@
 #concept-pamphlet 
 
+[[🏡 earth/Science/bit flip|bit flip]]
 [[research vectoring]]
 [[standards of evidence]]
 	[[claim]]

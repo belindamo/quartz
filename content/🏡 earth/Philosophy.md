@@ -50,25 +50,26 @@ that I'm interested in
 vitalism
 ?
 a belief that starts from the premise that "living organisms are fundamentally different from non-living things because they contain some non-physical element or are governed by different principles than are inanimate things."
-<!--SR:!2024-08-19,14,290-->
+<!--SR:!2024-10-27,40,290-->
 
 
 materialism
 ?
 subphilosophy of monism
 matter is the fundamental substance of nature, and that all things, including mental states and consciousness, are results of material interactions of material things
-<!--SR:!2024-08-12,10,270-->
+<!--SR:!2024-10-01,9,250-->
 
 ^o that's me
 
 
 Monism >> philosophical viewpoint which posits that there is only one fundamental substance or reality that makes up the universe
-<!--SR:!2024-08-11,10,272-->
+<!--SR:!2024-10-15,28,272-->
 
 
-What does Kafkaesque mean? 
+What does Kafkaesque mean?
 ?
-Anything kafkaesque is **strange and nightmarish**. If you said your long, frustrating, and bizarre experience at the Department of Motor Vehicles was kafkaesque, you wouldn't be the first person to describe it that way. People often use this adjective for interactions that are unnecessarily bureaucratic or complicated. 
+Anything kafkaesque is **strange, nightmarish, often unnecessarily bureaucratic/complicated**. If you said your long, frustrating, and bizarre experience at the Department of Motor Vehicles was kafkaesque, you wouldn't be the first person to describe it that way.
+<!--SR:!2024-09-27,7,258-->
 
 # On Buddhism
 - [[Path to Nibbana, Johnson]]

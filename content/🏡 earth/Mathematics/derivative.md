@@ -10,7 +10,7 @@ Given y=f(x), if you add 1 to x, how drastically does y increase or decrease? It
 derivative test
 ?
 test that uses derivative of a function to see where its local min, local max, and saddle points are.
-<!--SR:!2024-08-22,17,290--> 
+<!--SR:!2024-11-09,48,290--> 
 
 ### References
 1. [[Build micrograd, a scalar-based neural network with Karpathy]]

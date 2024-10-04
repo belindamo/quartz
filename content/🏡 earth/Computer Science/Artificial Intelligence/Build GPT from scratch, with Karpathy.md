@@ -8,7 +8,7 @@
 - [[tensor]]
 - [[(B, T, C) tensor]]
 - [[logits]]
-- [[self-attention]]
+- [[attention]]
 - [[bag of words]]
 - [[QKV]]
 - [[softmax]]
@@ -57,8 +57,7 @@ lm_head = linear
 
 
 tiktoken >> is a fast open source BPE tokeniser
-<!--SR:!2024-08-30,34,270-->
-
+<!--SR:!2024-12-19,93,270-->
 
 
 What five fields for GPT config?
@@ -69,30 +68,41 @@ block_size, vocab_size, n_layer, n_head, n_embd
 - n_layer: int = 12 # number of layers. Each layer consists of a self-attention mechanism and a feedforward neural network.
 - n_head: int = 12 # number of attention heads. Multi-head attention allows the model to attend to different parts of the input sequence simultaneously.
 - n_embd: int = 768 # embedding dimension. Each token in the input sequence is mapped to a dense vector of size n_embd.
-<!--SR:!2024-08-30,25,250-->
+<!--SR:!2024-09-29,12,230-->
 
 
 
 Tokenizer encoding/decoding is reminiscent of human memorization techniques like `____` >> PAO
+<!--SR:!2024-09-30,8,250-->
 
 
 Say for example that we have a corpus of Shakespeare's texts and we want to train a GPT-2 like model to output Shakespeare-like text. How do you convert this text into training data?
-?
-How to:
-1. tokenize text
+2 steps:
+1. `_____`
 2. turn into training data: key-value pairs where key is a chunk of `block_size`, and value is the target is the next token
 	-  ![[Screenshot 2024-04-29 at 2.17.29 PM.png]]
+?
+tokenize it
+<!--SR:!2024-10-05,13,270-->
 
 - some modes will be different based on training vs. inference. For ex, whether to drop layers
 
-matrix multiplication is great in neural networks because it can be used as >> a more efficient way of getting predictions
 
+scaled dot product attention equation
+?
+$$
+attention(Q,K,V) = softmax(\frac{QK^T}{\sqrt{d_K}})V
+$$
+In general, attention mappings can be described as a function of a query and a set of key-value pairs.
+<!--SR:!2024-09-26,4,270-->
 
 How does attention work in a transformer with QKV?
-?
-- Attention scores computed between a Query and all Keys, usually using dot product. These scores tell how much attention to put on corresponding values
-- Scores are passed through softmax to normalize into probabilities
+- Attention scores computed between a `___` and all `____`, usually using dot product. These scores tell how much attention to put on corresponding outputs
+- Scores are passed through softmax to `______` into probabilities
 - Output of attention mechanism is the weighted sum of the Values, where the weights are the normalized attention scores
+?
+Query, Keys, normalize
+<!--SR:!2024-10-04,12,270-->
 
 
 # References

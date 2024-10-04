@@ -1,13 +1,18 @@
 #concept
 #todo: review
 
-purpose of a bit flip 
+purpose of a bit flip (literature-level)
 ?
 to ensure novelty of your contribution over the broadest coverage of papers possible
 -
-Think of Godel! His work completely affected a vast amount of work in the decade leading up to his finding, including from great mathematicians like Russell. 
+Think of Godel! His work completely affected a vast amount of work in the decade leading up to his finding, including from great mathematicians like Russell.
 Think of Wittgenstein! His work demolished a fuckton of philosophers who were waxing and waning about semantics, thereby creating the new field of analytic philosophy.
 Think of Darwin! He flipped religion on its head
+<!--SR:!2024-09-29,3,250-->
+
+rather than a paper-level bit flip, you want to go for a `____` bit flip because `____`
+?
+literature-level, it's making the biggest impact
 
 bit flip >> an inversion of an assumption that humans have about how the world is supposed to work
 
@@ -21,17 +26,22 @@ On the value of literature search:
 "an hour in the library..."
 ?
 "...saves you a year at the keyboard"
+
+After `__` papers or so, it kinda starts asymptoting >> 5
+
+CS PhDs usually look at like `__`-`___` papers for their research >> 25-35
 ### References
 1. 
 
 ### Notes
 
 
+
+
 They’re much more often pivoted off of today’s work:
 - Some constraint that exists but shouldn’t, or visa versa
 - A realization that an idea has been applied in domains like X and needs to be rethought in domains like ~X
 - A recognition that others have tried this technique in users of context A, or data of up to size N, but ~A or >>N breaks the technique.
-
 
 
 ### Why this metaphor is good
@@ -42,6 +52,12 @@ Because it is clear that there are several design axes, and this focuses on flip
 Nearest neighbor paper is a paper that is adjacent to your idea.
 
 What assumption or limitation did this paper have, that you're erasing? 
+
+### Expanding to more papers from nearest neighbor paper
+
+- backward influence - citations in the paper
+	- if it's mentioned lots of time
+- forward influence - papers that cite the paper
 
 ### Literature-level bit flip
 Recipe

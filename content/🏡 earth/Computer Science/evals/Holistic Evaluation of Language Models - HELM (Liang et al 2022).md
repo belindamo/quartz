@@ -5,7 +5,7 @@
 What are the 7 key metrics mentioned in the paper for evaluating LMs?
 ?
 Accuracy, Calibration, Robustness, Fairness, Bias, Toxicity, and Efficiency.
-<!--SR:!2024-08-12,17,153-->
+<!--SR:!2024-10-15,25,153-->
 
 What are the main contributions of the paper?
 ?

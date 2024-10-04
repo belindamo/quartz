@@ -4,7 +4,7 @@ It's tough, man. But there are some things I've found that make life easier and 
 - Aerial arts
 - Intellectually stimulating collaborations
 - Quality time with family and friends
-- Sex
+- Physical touch
 - Music
 
 Want to peer into my own experiments and/or insights with these? It's a bit embarrassing but you can see them here:

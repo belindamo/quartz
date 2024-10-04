@@ -2,12 +2,14 @@
 
 
 5 points of the Progressive web app checklist
-?
-1. Starts fast, stays fast
+1. Starts fast, `____`
 2. Works in any browser
-3. Responsive to any screen size
-4. Provides custom offline page
+3. `____` to any screen size
+4. Provides `____` page
 5. Is installable
+?
+stays fast, responsive, custom offline
+<!--SR:!2024-09-30,8,250-->
 
 # References
 1. https://web.dev/articles/pwa-checklist

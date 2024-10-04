@@ -16,14 +16,14 @@ What are a few uses of matrices?
 - handling multi-dimensional data
 - solving systems of linear equations
 - simplifying computational tasks in quantum mechanics.
-<!--SR:!2024-09-19,52,270-->
+<!--SR:!2025-04-05,195,290-->
 
 Matrix A has dimensions a x b
 Matrix B has dimensions c x d
 What are the dimensions are Matrix AB, assuming dot product is a valid operation?
 ?
 a x d
-<!--SR:!2024-08-17,44,290-->
+<!--SR:!2025-03-17,176,310-->
 
 
 
@@ -32,7 +32,7 @@ Matrix B has dimensions c x d
 Which dimensions must be equal for AB to be a valid dot product?
 ?
 b and c
-<!--SR:!2024-08-27,51,290-->
+<!--SR:!2025-04-15,205,310-->
 
 (AT)T = >> A
 <!--SR:!2024-10-03,66,270-->
@@ -41,10 +41,10 @@ b and c
 <!--SR:!2024-09-30,63,310-->
 
 Transitive property: (P * Q)T = >> QT * PT
-<!--SR:!2024-09-02,57,310-->
+<!--SR:!2025-05-24,244,330-->
 
 (AT)-1 = >> (A-1)T
-<!--SR:!2024-08-11,4,295-->
+<!--SR:!2024-10-07,15,315-->
 <!--SR:!2024-08-09,4,294-->
 <!--SR:!2024-08-06,4,294-->
 <!--SR:!2024-08-05,4,294-->
@@ -57,7 +57,7 @@ Transitive property: (P * Q)T = >> QT * PT
 Is the identity matrix diagonal? Is the zero matrix diagonal?
 ?
 Yes because they both have all their off-diagonal elements as zero
-<!--SR:!2024-08-29,53,310-->
+<!--SR:!2025-05-06,226,330-->
 
 
 Trace of matrix (tr(A))

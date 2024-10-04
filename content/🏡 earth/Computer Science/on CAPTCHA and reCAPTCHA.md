@@ -3,7 +3,7 @@
 What does CAPTCHA stand for?
 ?
 Completely Automated Public Turing test to tell Computers and Humans Apart
-<!--SR:!2024-09-01,27,270-->
+<!--SR:!2024-12-27,101,290-->
 
 ### References
 1. [CAPTCHA paper](https://www.cs.cmu.edu/~mblum/research/pdf/captcha.pdf) 

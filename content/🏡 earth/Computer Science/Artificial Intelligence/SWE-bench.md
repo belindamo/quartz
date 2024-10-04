@@ -19,7 +19,7 @@ In SWE-bench, LLMs are either given the set of correct files to edit (“assiste
 In SWE-bench, what is the model input?
 ?
 issue text description and complete codebase
-<!--SR:!2024-09-10,50,230-->
+<!--SR:!2025-01-09,114,230-->
 
 In SWE-bench, what does the high-level process look like to evaluate a generated patch?
 ?

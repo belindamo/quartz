@@ -9,6 +9,10 @@
 - [[incremental reading]]
 - Memory optimization in sleep https://supermemo.guru/wiki/Memory_optimization_in_sleep
 - [[20 rules of knowledge formation|20 rules of knowledge formation]]
+- [[chunking]]
+
+
 
 
 - [[How to study]]
+

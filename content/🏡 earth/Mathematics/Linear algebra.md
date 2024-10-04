@@ -29,10 +29,10 @@ and
 
 
 
-What is the [[partial derivative]] of the function f(x,y)=xy with respect to y?
+What is the [[partial derivative]] of the function f(x,y)=xy with respect to x?
 ?
 ![[Screenshot 2024-06-11 at 10.12.21 PM.png]]
-<!--SR:!2024-08-16,48,290-->
+<!--SR:!2025-04-02,192,310-->
 
 
 What is the [[partial derivative]] of the function f(x)=3x with respect to y?

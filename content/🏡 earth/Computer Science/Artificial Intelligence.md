@@ -41,7 +41,7 @@ Structure is currently pulled from [[CS 229 Lecture Notes - Spring 2023.pdf]] [1
 - [[CS229 Psets on linear algebra]]
 - [[Deep Learning Textbook (Goodfellow 2016)]]
 - [[Reinforcement learning]]
-- [[CS224w]]
+- [[🏡 earth internal/Classes/cs224w]]
 - [[CS224n]]
 - [[CS238 - Decision making under uncertainty]]
 
@@ -62,10 +62,11 @@ Structure is currently pulled from [[CS 229 Lecture Notes - Spring 2023.pdf]] [1
 - [[bias]]
 - [[multi-layer perceptron]]
 - [[layer]]
-- activation functions
+- [[activation function]]s
 	- [[ReLu]] 
 	- [[tan h]]
 	- sigmoid
+- [[(B, T, C) tensor]]
 
 ## Reinforcement Learning
 - reinforcement learning from human feedback (RLHF)

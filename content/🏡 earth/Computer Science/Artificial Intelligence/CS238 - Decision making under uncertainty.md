@@ -28,18 +28,24 @@ q: how are linear programming, dynamic programming, and queuing theory related t
 
 
 Each of the 5 methods has varying level of how much the designer and automata interact with each other:
+- `___`. decision tree paths
+- supervised learning.
+- optimization.
+- planning.
+- `_____`.
 ?
-- explicit programming. decision tree paths
-- supervised learning. 
-- optimization. 
-- planning. 
-- reinforcement learning. 
+explicit programming, reinforcement learning
+<!--SR:!2024-09-28,6,250-->
 
 What are the downsides of automating away decisions?
+- it's also automating away `____`, and taste for `____`.
+- it overweights to `_____`, rather than what might happen.
+- `____` are not accounted for
 ?
-- it's also automating away nuance, and taste for nuance. 
-- it overweights to what's already happened, rather than what might happen. 
-- Black swans are not accounted for
+nuance,
+what's already happened,
+Black swans
+<!--SR:!2024-10-01,9,250-->
 
 
 ![[238 - page 1.png]]

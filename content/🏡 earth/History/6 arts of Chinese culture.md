@@ -1,6 +1,10 @@
 #concept
 
-6 arts of chinese culture >> Rites, music, archery, equestrianism, calligraphy, mathematics 
+6 arts of chinese culture
+`____`, music, archery, equestrianism,`____`, mathematics
+?
+rites, calligraphy
+<!--SR:!2024-09-23,3,250-->
 ### References
 1. https://en.wikipedia.org/wiki/Six_Arts
 

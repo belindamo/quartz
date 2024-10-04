@@ -1,13 +1,14 @@
 #concept
 
-Every field has some accepted `____` — a set of methods that are agreed upon for proving a point 
+Every field has some accepted `____` — a set of methods that are agreed upon for proving a point
 ?
 standard of evidence
 Standards of evidence:
-- Medicine: Double-blind randomized controlled trial 
-- Philosophy: Rhetoric 
-- Math: Formal proof 
+- Medicine: Double-blind randomized controlled trial
+- Philosophy: Rhetoric
+- Math: Formal proof
 - Applied Physics: Measurement
+<!--SR:!2024-09-29,3,250-->
 
 
 In computing, because areas use different methods, the standard of evidence differs based on the area. 
