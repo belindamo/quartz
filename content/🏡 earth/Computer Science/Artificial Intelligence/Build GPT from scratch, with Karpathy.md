@@ -56,8 +56,7 @@ lm_head = linear
 ---
 
 
-tiktoken >> is a fast open source BPE tokeniser
-<!--SR:!2024-12-19,93,270-->
+tiktoken >> is a fast open source BPE tokeniser<!--SR:!2024-12-19,93,270-->
 
 
 What five fields for GPT config?
@@ -71,9 +70,7 @@ block_size, vocab_size, n_layer, n_head, n_embd
 <!--SR:!2024-09-29,12,230-->
 
 
-
-Tokenizer encoding/decoding is reminiscent of human memorization techniques like `____` >> PAO
-<!--SR:!2024-09-30,8,250-->
+Tokenizer encoding/decoding is reminiscent of human memorization techniques like `____` >> PAO<!--SR:!2024-09-30,8,250-->
 
 
 Say for example that we have a corpus of Shakespeare's texts and we want to train a GPT-2 like model to output Shakespeare-like text. How do you convert this text into training data?
@@ -84,7 +81,6 @@ Say for example that we have a corpus of Shakespeare's texts and we want to trai
 ?
 tokenize it
 <!--SR:!2024-10-05,13,270-->
-
 - some modes will be different based on training vs. inference. For ex, whether to drop layers
 
 
@@ -94,7 +90,6 @@ $$
 attention(Q,K,V) = softmax(\frac{QK^T}{\sqrt{d_K}})V
 $$
 In general, attention mappings can be described as a function of a query and a set of key-value pairs.
-<!--SR:!2024-09-26,4,270-->
 
 How does attention work in a transformer with QKV?
 - Attention scores computed between a `___` and all `____`, usually using dot product. These scores tell how much attention to put on corresponding outputs
@@ -102,8 +97,7 @@ How does attention work in a transformer with QKV?
 - Output of attention mechanism is the weighted sum of the Values, where the weights are the normalized attention scores
 ?
 Query, Keys, normalize
-<!--SR:!2024-10-04,12,270-->
-
+<!--SR:!2024-09-26,4,270-->
 
 # References
 1. Karpathy's GPT video

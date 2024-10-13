@@ -1,9 +1,7 @@
 #concept
 
 continental philosophy >> knowledge, experience, and reality are bound and shaped by conditions best understood through philosophical reflection rather than exclusively empirical inquiry
-
 continental philosophy is associated with these philosophers >> kierkegaard, nietzsche, freud, hegel, marx. lots of unhappy europeans
-
 ### References
 1. https://en.wikipedia.org/wiki/Continental_philosophy
 

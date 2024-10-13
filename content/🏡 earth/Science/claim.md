@@ -10,7 +10,6 @@ There are only a small number of claim structures implicit in most theses:
  bounding x / measuring x
 ### References
 1. [[CS197 Computer Science Research]]
-
 ### Notes
 
 

@@ -9,13 +9,10 @@ Think of Godel! His work completely affected a vast amount of work in the decade
 Think of Wittgenstein! His work demolished a fuckton of philosophers who were waxing and waning about semantics, thereby creating the new field of analytic philosophy.
 Think of Darwin! He flipped religion on its head
 <!--SR:!2024-09-29,3,250-->
-
 rather than a paper-level bit flip, you want to go for a `____` bit flip because `____`
 ?
 literature-level, it's making the biggest impact
-
 bit flip >> an inversion of an assumption that humans have about how the world is supposed to work
-
 
 Recipe for a bit flip:
 1) Establish bit: Articulate an assumption, often left implicit in prior work: this is the bit
@@ -26,11 +23,8 @@ On the value of literature search:
 "an hour in the library..."
 ?
 "...saves you a year at the keyboard"
-
 After `__` papers or so, it kinda starts asymptoting >> 5
-
-CS PhDs usually look at like `__`-`___` papers for their research >> 25-35
-### References
+CS PhDs usually look at like `__`-`___` papers for their research >> 25-35### References
 1. 
 
 ### Notes

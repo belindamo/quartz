@@ -4,7 +4,6 @@ What does CAPTCHA stand for?
 ?
 Completely Automated Public Turing test to tell Computers and Humans Apart
 <!--SR:!2024-12-27,101,290-->
-
 ### References
 1. [CAPTCHA paper](https://www.cs.cmu.edu/~mblum/research/pdf/captcha.pdf) 
 2. [reCAPTCHA paper](http://users.df.uba.ar/marcos/reCAPTCHA.pdf)

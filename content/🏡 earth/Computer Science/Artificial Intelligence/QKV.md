@@ -1,17 +1,13 @@
 #concept
 #todo : don't fully grasp this intuitively yet....
 
-`QKV` stands for >> query, key, value
-<!--SR:!2024-10-01,11,270-->
+`QKV` stands for >> query, key, value<!--SR:!2024-10-01,11,270-->
 
-`Query` in QKV >> vectors that represent input elements
-<!--SR:!2024-09-23,4,270-->
+`Query` in QKV >> vectors that represent input elements<!--SR:!2024-09-23,4,270-->
 
-`Key` in QKV >> vectors that represent input elements, but for the future prediction
-<!--SR:!2024-09-28,6,250-->
+`Key` in QKV >> vectors that represent input elements, but for the future prediction<!--SR:!2024-09-28,6,250-->
 
-`Value` in QKV >> actual content from input that is aggregated into the output
-<!--SR:!2024-09-29,7,250-->
+`Value` in QKV >> actual content from input that is aggregated into the output<!--SR:!2024-09-29,7,250-->
 
 ### References
 1. Karpathy GPT vid? 

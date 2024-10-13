@@ -62,7 +62,6 @@ According to Path to Nibbana, craving is at the root of `____`
 `suffering`
 Craving is at the root of suffering. Craving manifests as desire to control what happens. When it can't be accomplished, suffering arises, and we don't like it. This leads to frustration and an even further desire to control.
 
-
 ---
 
 ### 4 foundations of mindfulness
@@ -94,7 +93,6 @@ tranquil wisdom insight meditation is a feeling exercise to uplift the mind and 
 2. Suffering is caused by craving
 3. There is the cessation of suffering
 4. There is a path to the cessation of suffering, called the Eightfold path.
-
 ### 4 Brahmaviharas
 
 4 divine qualities of mind that are particularly wholesome, in buddhism
@@ -103,7 +101,6 @@ tranquil wisdom insight meditation is a feeling exercise to uplift the mind and 
 2. Compassion (Karuna)
 3. Joy (Mudita)
 4. Equanimity (Upekkha)
-
 ### Breaking down the barriers
 
 ### Radiate to all 6 directions
@@ -156,20 +153,14 @@ mind is to `___` and `___` as body is to `___` and `___`, according to the book 
 	2. Images
 2. Body
 	1. Tension
-	2. Tightness
-But they are so intertwined. Mind is physically part of the body afterall.
+	2. TightnessBut they are so intertwined. Mind is physically part of the body afterall.
 I think maybe, mind processes are 1+ levels above body processes described above.
-
 
 ### jhanas 5-8
 - Bhante's opinion is that when buddha refers to compassion, the state he is talking about is j5
 - He further explains that buddha did j5 every morning, with compassion as his object of meditation. From this state, the buddha would then survey the world for people who needed his compassion and were ready to understand his teachings. He saw "people who had little dust in their eyes and were ready to attain awakening"
-
-### cessation and nibbana
-cessation >> stopping of mental stream
-
+### cessation and nibbanacessation >> stopping of mental stream
 According to Johnson, nibnana is >> cessation (stopping of mental stream) and seeing dependent origination. Supposedly, it is an unconditioned state.
-
 - cessation is like a stopping of mental stream. physical ones continue
 - nibbana is like cessation + seeing dependent origination. "an unconditioned state"
 
@@ -181,13 +172,11 @@ According to Johnson, nibnana is >> cessation (stopping of mental stream) and se
 2. skeptical doubt that Right Effort is the way to awakening
 3. knowing rites/rituals by themselves don't lead to awakening
 4. craving for sensual pleasures
-5. ill-will, hatred, and fear
-6. desire for material/immaterial existence. desire to be reborn
+5. ill-will, hatred, and fear6. desire for material/immaterial existence. desire to be reborn
 7. comparing to others. "I am better/less than you"
 8. sloth and torpor
 9. restlessness and worry
 10. not knowing the 4 noble truths and dependent origination
-
 
 ---
 ### these all sound pretty neat! 

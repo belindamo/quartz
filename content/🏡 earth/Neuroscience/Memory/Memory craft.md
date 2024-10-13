@@ -10,7 +10,6 @@
 4. Discrete: Country journey
 5. Continuous: Pre-history journey, History journey 
 
-
 - Memory, writing, and technology can all enhance each other
 - Native Americans used song lines. Long treks. Each stopping point had a song, physical ritual, etc. it was an encyclopedia. And access more info w the physical ritual 
 - Big picture allows for hooks that get you really curious to learn more about the hooks (re:countries)

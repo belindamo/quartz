@@ -7,14 +7,12 @@ $$
 \geq
 $$
 
-
 What is the LaTeX code for the less than or equal to symbol?
 ?
 `\leq`
 $$
 \leq
 $$
-
 
 What is the LaTeX code for the not equal to symbol?
 ?
@@ -23,14 +21,12 @@ $$
 \neq
 $$
 
-
 What is the LaTeX code for the approximately equal to symbol?
 ?
 `\approx`
 $$
 \approx
 $$
-
 
 What is the LaTeX code for the tilde symbol?
 ?
@@ -39,14 +35,12 @@ $$
 \sim
 $$
 
-
 What is the LaTeX code for the right arrow symbol?
 ?
 `\Rightarrow`
 $$
 \Rightarrow
 $$
-
 
 What is the LaTeX code for the square root of 42?
 ?
@@ -55,14 +49,12 @@ $$
 \sqrt{42}
 $$
 
-
 What is the LaTeX code for the infinity symbol?
 ?
 `\infty`
 $$
 \infty
 $$
-
 
 What is the LaTeX code for this symbol?
 $$
@@ -71,14 +63,12 @@ $$
 ?
 `\lambda`
 
-
 What is the LaTeX code for  these symbols?
 $$
 \mu, \sigma
 $$
 ?
 `\mu`, `\sigma`
-
 
 What is the LaTeX code for this symbol?
 $$
@@ -87,14 +77,12 @@ $$
 ?
 `\Phi(0)`
 
-
 What is the LaTeX code for the this symbol?
 $$
 \Sigma
 $$
 ?
 `\Sigma`
-
 
 What is the LaTeX code for this symbol?
 $$
@@ -103,14 +91,12 @@ $$
 ?
 `\theta`
 
-
 What is the LaTeX code for the bar X and hat X symbols?
 $$
 \bar{X}, \hat{X}
 $$
 ?
 `\bar{X}`, `\hat{X}`
-
 
 
 What is the LaTeX code for the dots here:
@@ -125,84 +111,63 @@ What is the LaTeX code for verbatim text 'my_function()'?
 ?
 `\verb|my_function()|`
 $$
-\verb|my_function()|
-$$
-
+\verb|my_function()|$$
 
 What is the LaTeX code for a fraction with units in the numerator and denominator?
 ?
 `\frac{1}{1}`
 $$
-\frac{1}{2}
-$$
-
+\frac{1}{2}$$
 
 What is the LaTeX code for summation from i equals 0 to n?
 ?
 `\sum_{i=0}^{n} i`
+$$\sum_{i=0}^{n} i
 $$
-\sum_{i=0}^{n} i
-$$
-
 
 What is the LaTeX code for product from i equals 0 to n?
 ?
 `\prod_{i=0}^{n} i`
+$$\prod_{i=0}^{n} i
 $$
-\prod_{i=0}^{n} i
-$$
-
 
 What is the LaTeX code for the probability of A intersect B?
 ?
-`P(A \cap B)`
-$$
+`P(A \cap B)`$$
 P(A \cap B)
 $$
-
 
 What is the LaTeX code for the probability of A union B?
 ?
 `P(A \cup B)`
+$$P(A \cup B)
 $$
-P(A \cup B)
-$$
-
 
 What is the LaTeX code for the binomial coefficient?
 ?
 `\binom{n}{k}`
-$$
-\binom{n}{k}
+$$\binom{n}{k}
 $$
 ^This is `n! / ( k! (n-k)! )`. Also pronounced "n choose k". Also seen as `C(n,k)`
 
-
 What is the LaTeX code for the conditional probability of A given B complement?
 ?
-`P(A|B^C)`
-$$
+`P(A|B^C)`$$
 P(A|B^C)
 $$
 Complement is all probabilities not in B
 
-
-What is the LaTeX code for the probability of meow given cat?
-?
+What is the LaTeX code for the probability of meow given cat??
 `P(\textrm{meow } | \textrm{ cat})`
 $$
 P(\textrm{meow } | \textrm{ cat})
 $$
-
-
 What is the LaTeX code for the probability of a condition less than or equal to 5.0?
 ?
 `P(\textrm{cond} \leq 5.0)`
 $$
 P(\textrm{cond} \leq 5.0)
 $$
-
-
 What is the LaTeX code for A times B?
 ?
 `A \times B`
@@ -240,18 +205,14 @@ What is the LaTeX code for a double integral?
 `\iint`
 `\iint_{0}^{1} {xy} dy dx`
 $$
-\iint_{0}^{1} xy dy dx
-$$
-
+\iint_{0}^{1} xy dy dx$$
 What is the LaTeX code for the evaluation of a double integral?
 ?
 `\left.` expression `\right|_{0}^{1}
-Example:
-`\left. \frac{3}{4}y^2 \right|_{-1}^{x}`
+Example:`\left. \frac{3}{4}y^2 \right|_{-1}^{x}`
 $$
 \left. \frac{2}{3}y \right|_{-1}^{x}
 $$
-
 
 What is the LaTeX code for a 2x2 matrix with elements a, b, c, and d?
 $$
@@ -259,7 +220,6 @@ $$
 $$
 ?
 `\begin{bmatrix} a & b \\ c & d \end{bmatrix}`
-
 What is the LaTeX code for the correlation coefficient?
 $$
 \rho
@@ -268,15 +228,13 @@ $$
 `\rho`
 
 
-
 What is the LaTeX code for a group of equations aligned?
 ?
 `\begin{align*`, `&=`, `\\`, `end{align*}`
 Example:
 ```
 \begin{align*} 
-P(X=x|Y=1,W=P_1)  
-&= \frac{P(X=x,Y=1 | W=P_1)}{P(Y=1|W=P_1)} \\ 
+P(X=x|Y=1,W=P_1)  &= \frac{P(X=x,Y=1 | W=P_1)}{P(Y=1|W=P_1)} \\ 
 &= P(X=x|W=P_1) \\ 
 &= \binom{5}{x}(0.1)^x(0.9)^{5-x} \\ 
 P(X=x|Y=1,W=P_2)  
@@ -297,7 +255,6 @@ P(X=x|Y=1,W=P_2)
 &= \binom{5}{x}(0.1)^x(0.9)^{5-x}
 \end{align*}
 $$
-
 
 
 ---

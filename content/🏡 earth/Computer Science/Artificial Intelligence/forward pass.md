@@ -7,7 +7,6 @@ The network makes its predictions based on the current state of its weights and 
 ![[Screenshot 2024-06-13 at 2.13.04 PM.png]]
 https://github.com/maxim5/cs229-2018-autumn/blob/main/notes/cs229-notes-backprop.pdf
 <!--SR:!2024-10-18,31,270-->
-
 ### References
 1. [[Build micrograd, a scalar-based neural network with Karpathy]]
 

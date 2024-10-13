@@ -14,35 +14,27 @@ Rules of knowledge formation part 1
 `simple`
 `pictures`
 `mnemonic techniques`
-
 don't memorize things that you
 ?
 do not understand
-
 learn before
 ?
 you memorize
-
 start from the basics before
 ?
 going to complexities
-
 keep questions
 ?
 simple, silly!
-
 pictures and other media
 ?
 assist memory
-
 incorporate these types of techniques
 ?
 mnemonic, e.g. peg lists
-
 avoid `____`. they can be tackled with cloze deletion.
 ?
 lists, sets, enumerations
-
 
 Rules of knowledge formation part 2
 - personalize and provide `__`
@@ -54,7 +46,6 @@ Rules of knowledge formation part 2
 `cloze deletion`
 `redundancy`
 `references`
-
 ### References
 1. https://supermemo.guru/wiki/20_rules_of_knowledge_formulation
 

@@ -7,7 +7,6 @@ rites, calligraphy
 <!--SR:!2024-09-23,3,250-->
 ### References
 1. https://en.wikipedia.org/wiki/Six_Arts
-
 ### Notes
 
 Men who excelled in these six arts were thought to have reached the state of perfection, becoming a [perfect gentleman](https://en.m.wikipedia.org/wiki/Junzi "Junzi").

@@ -8,7 +8,6 @@ parseable
 ## References
 1. self
 
-
 # Notes
 ---
 # Concept Graph DSL

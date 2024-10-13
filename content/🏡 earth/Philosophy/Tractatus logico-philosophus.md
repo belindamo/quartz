@@ -7,7 +7,6 @@ According to the Tractatus,
 ?
 "...what we cannot talk about we must pass over in silence."
 
-
 # Notes
 
 Summary of the 7 propositions

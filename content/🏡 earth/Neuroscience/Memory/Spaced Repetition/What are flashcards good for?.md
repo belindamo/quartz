@@ -16,7 +16,6 @@ Declarative knowledge
 - science
 	- "What is the powerhouse of the cell?" -> "Mitochondria"
 
-
 Order of preference for memory usage? 
 For: recognition, short answer, multiple choice, Cloze deletion, free recall
 ?
@@ -26,9 +25,7 @@ For: recognition, short answer, multiple choice, Cloze deletion, free recall
 - Cloze deletion
 - recognition
 
-
 How many cards are in the most popular anki deck for step 1, which is the first 2 years of med school? >> ~30k  [2]
-
 
 ---
 

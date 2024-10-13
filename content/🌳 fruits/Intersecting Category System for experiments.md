@@ -13,7 +13,6 @@ Name 0-9 categories for the 1's place
 - 9 - Lover
 <!--SR:!2024-09-11,44,290-->
 
-
 Name 00, 0-9 categories for the 0's place
 ?
 - 00 - Naruto

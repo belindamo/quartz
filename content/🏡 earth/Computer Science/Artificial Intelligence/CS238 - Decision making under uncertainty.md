@@ -10,7 +10,6 @@ Our focus is on agents that interact intelligently to achieve their objectives o
 -   model uncertainty, where our model of the problem is uncertain,
 -   state uncertainty, where the true state of the environment is uncertain, and
 -   interaction uncertainty, where the behavior of the other agents interacting in  the environment is uncertain.
-
 ---
 
 intention of reading this book: for anything that can be described as input -> output, how can I and others make informed decisions in uncertain (chaotic?) environments that maximize towards an intention?
@@ -35,7 +34,6 @@ Each of the 5 methods has varying level of how much the designer and automata in
 - `_____`.
 ?
 explicit programming, reinforcement learning
-<!--SR:!2024-09-28,6,250-->
 
 What are the downsides of automating away decisions?
 - it's also automating away `____`, and taste for `____`.
@@ -45,7 +43,7 @@ What are the downsides of automating away decisions?
 nuance,
 what's already happened,
 Black swans
-<!--SR:!2024-10-01,9,250-->
+<!--SR:!2024-09-28,6,250-->
 
 
 ![[238 - page 1.png]]

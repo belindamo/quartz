@@ -10,7 +10,6 @@ Standards of evidence:
 - Applied Physics: Measurement
 <!--SR:!2024-09-29,3,250-->
 
-
 In computing, because areas use different methods, the standard of evidence differs based on the area. 
 
 Your goal: convince an expert in your area. So, use the methods appropriate to your area

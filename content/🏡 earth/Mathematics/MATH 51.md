@@ -23,7 +23,6 @@ false
 [[math51book.pdf#page=7&selection=53,0,55,81|math51book, page 7]]
 
 
-
 read
 $$
 R^3
@@ -33,7 +32,6 @@ as
 "the set of all triples (x,y,z) of real numbers"
 [[math51book.pdf#page=8&selection=268,0,269,1|math51book, page 8]]
 
-
 read
 $$
 \in
@@ -41,7 +39,6 @@ $$
 as
 ?
 'is in', 'is an element of', 'belongs to'
-
 read
 $$
 |
@@ -64,13 +61,11 @@ R^n
 $$
 ?
 Set of all *n*-vectors
-
 $$
 || v ||
 $$
 ?
 length or magnitude of an n-vector **v**
-
 
 ---
 
@@ -78,13 +73,11 @@ length or magnitude of an n-vector **v**
 scalar
 ?
 a real number
-
 visualize 2 *n*-vectors being added, notation-wise
 ?
 $$
 \mathbf{a} + \mathbf{b} = \begin{bmatrix} a_1 + b_1 \\ a_2 + b_2 \\ \vdots \\ a_n + b_n \end{bmatrix}
 $$
-
 
 visualize the shapes of a linear combination ?
 for given *n*-vectors $$v_1, ... , v_k$$
@@ -94,7 +87,6 @@ Imagine these vectors being added together in geometric space 💛
 ![[Screenshot 2024-09-19 at 12.18.59 PM.png]]
 ?
 ![[Screenshot 2024-09-19 at 12.19.28 PM.png]]
-
 
 convex combination
 
@@ -109,15 +101,12 @@ correlation coefficient *r*
 ?
 cosine of angle between X and Y
 ...
-
 remember the acronym for sine, cosine, tan? >> SOHCAHTOA
-
 cosine formula 
 ?
 $$
 cos\ \theta = \frac{adjacent}{hypotenuse}
 $$
-
 length via dot product
 
 properties of dot products
@@ -130,12 +119,10 @@ points&planessss
 
 
 ch4
-spanss
-linear subspace 😌
+spansslinear subspace 😌
 dims
 
 ch5
-
 A collection of vectors $v_1,...,v_k$ in $R^n$ is called *orthogonal* if 
 ?
 $$ v_i \cdot v_j = 0 \ whenever \ i \neq j $$
@@ -144,11 +131,9 @@ visualize geometrically, 2 orthogonal vectors in $R^3$
 ?
 when you look at the plane that the 2 vectors are both on, there's a 90 degree angle
 (but like...why????? why does this happennnn with dot product)
-
 A collection of vectors $v_1,...,v_k$ in $R^n$ is called *orthonormal* if
 ?
 they are orthogonal to each other *and* are all unit vectors. That is, $v_i \cdot v_i = 1$ for all $i$
-
 
 ---
 vectors

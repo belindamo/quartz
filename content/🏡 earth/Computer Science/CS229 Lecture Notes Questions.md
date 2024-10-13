@@ -11,18 +11,15 @@ Incudes training example with input and output features
 Note that the superscript "(i)" is simply an index / i-th item in the training set and has nothing to do with exponentiation. 
 <!--SR:!2024-06-16,2,179-->
 
-
 ![[Screenshot 2024-06-09 at 8.56.17 PM.png]]
 ?
 ![[Screenshot 2024-06-09 at 8.56.27 PM.png]]
 <!--SR:!2024-06-16,5,239-->
 
-
 ![[Screenshot 2024-06-09 at 8.56.48 PM.png]]
 ?
 ![[Screenshot 2024-06-09 at 8.56.53 PM.png]]
 <!--SR:!2024-06-16,4,219-->
-
 What is linear regression, taking into account this housing example? 
 
 
@@ -34,11 +31,9 @@ What are the benefits of squaring something like in the cost function of the ord
 2. Squaring puts more weight on larger errors/differences
 3. The result is always differentiable
 4. The result corresponds to the assumption of normally distributed errors
-
 What is the least-squares cost function *J*?
 ?
 ![[Screenshot 2024-06-15 at 1.45.43 PM.png]]
-
 
 
 What is **learning rate**, in the context of training neural nets? In gradient descent? 
@@ -53,7 +48,6 @@ What is the equation for gradient descent?
 ![[Screenshot 2024-06-15 at 2.00.46 PM.png]] where J is the cost function and α is learning rate. 
 Or this for a single training example:
 ![[Screenshot 2024-06-15 at 2.04.45 PM.png]]
-
 
 What is the difference between stochastic gradient descent and batch gradient descent?
 

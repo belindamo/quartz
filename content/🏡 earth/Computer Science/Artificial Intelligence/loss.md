@@ -6,7 +6,6 @@ Loss is a scalar (single number) that measures how well output of neural net mat
 Loss function is used to calculate loss. The goal of training is to minimize loss.
 0 is better
 <!--SR:!2024-12-28,102,250-->
-
 ### References
 1. [[Build micrograd, a scalar-based neural network with Karpathy]]
 

@@ -10,11 +10,9 @@ What are some good strategies for picking a project?
 Rage
 new
 new north star
-
 What seems uniquely important in picking a project in research?
 ?
 People > Projects
-
 ### References
 1. [[CS197 Winter Lec08 - Picking a Project.pdf]]
 

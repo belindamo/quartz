@@ -17,7 +17,6 @@ Common use cases for the Singleton pattern include
 However, the Singleton pattern is sometimes considered an anti-pattern due to its potential disadvantages, such as difficulty in unit testing and violation of the Single Responsibility Principle
 <!--SR:!2024-10-04,37,290-->
 
-
 ### References
 1. https://en.wikipedia.org/wiki/Singleton_pattern
 

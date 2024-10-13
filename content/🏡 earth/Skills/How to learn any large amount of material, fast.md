@@ -14,10 +14,8 @@ DR. SWFIT IRA
 - R - Rewrite and simplify 
 - A - Apply concepts practically 
 - ² - Rinse and Repeat
-
 When assessing potential learning plans for a set of concepts, compare this factor:
 ?
 Estimated time to learn the thing
-
 ## References
 1. self

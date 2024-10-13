@@ -8,7 +8,6 @@ In incremental reading, the general idea is to form a "funnel of knowledge" that
 - in the last step, acted upon in a creative manner in [problem solving](https://supermemo.guru/wiki/Problem_solving "Problem solving").
 [1]
 
-
 Incremental reading is a sister of [[🏡 earth/Neuroscience/Memory/Spaced Repetition/spaced repetition|spaced repetition]]. [2]
 
 ### References

@@ -5,7 +5,6 @@ The Chomsky hierarchy contains `___` classes of `___` to describe increasingly c
 4, formal grammars
 <!--SR:!2024-09-23,1,250-->
 
-
 The 4 classes of the Chomsky hierarchy, from most complex to simplest.
 - `___` enumerable (turing machine)
 - context-sensitive (turing machine but with finite tape)
@@ -18,7 +17,6 @@ In the Chomsky hierarchy, the simplest grammars are regular, and can be accommod
 1. https://en.wikipedia.org/wiki/Chomsky_hierarchy
 2. http://www.bcp.psych.ualberta.ca/~mike/Pearl_Street/Dictionary/contents/C/Chomhier.html#:~:text=The%20most%20complex%20grammars%20are,theoretical%20proposals%20within%20cognitive%20science.
 <!--SR:!2024-10-01,9,250-->
-
 
 ### Notes
 

@@ -10,7 +10,6 @@
 ?
 stays fast, responsive, custom offline
 <!--SR:!2024-09-30,8,250-->
-
 # References
 1. https://web.dev/articles/pwa-checklist
 

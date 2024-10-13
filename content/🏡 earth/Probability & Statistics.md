@@ -27,7 +27,6 @@
 sample space of an experiment >> set of all possible outcomes or results of that experiment! wowow
 
 
-
 ---
 # Problems
 

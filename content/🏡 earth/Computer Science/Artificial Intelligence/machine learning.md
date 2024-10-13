@@ -1,7 +1,6 @@
 #concept
 
-What is the purpose of machine learning? >> given an input, good machine learning implementation makes the search space of possible accurate outputs smaller.
-<!--SR:!2024-09-30,10,270-->
+What is the purpose of machine learning? >> given an input, good machine learning implementation makes the search space of possible accurate outputs smaller.<!--SR:!2024-09-30,10,270-->
 ### References
 1. self
 

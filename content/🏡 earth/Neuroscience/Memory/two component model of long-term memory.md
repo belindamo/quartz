@@ -7,5 +7,4 @@ Asserts that two independent variables are sufficient to describe the status of 
 - [[retrievability]] (R)
 ### References
 1. https://supermemo.guru/wiki/Two_component_model_of_memory
-
 ### Notes

@@ -7,7 +7,6 @@ A **context-sensitive grammar** (**CSG**) is a `____` in which the left-hand 
 formal grammar, production rules
 #todo: i don't understand this term well enough
 <!--SR:!2024-09-24,2,230-->
-
 ### References
 1. https://en.wikipedia.org/wiki/Context-sensitive_grammar
 

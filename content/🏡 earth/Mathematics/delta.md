@@ -1,7 +1,6 @@
 #concept
 
-delta (Δ) is >> a finite change in a certain quantity.
-### References
+delta (Δ) is >> a finite change in a certain quantity.### References
 1. Myself
 
 ### Notes

@@ -8,7 +8,6 @@ For example, not so long ago, HCI and Ethics were not seen as legitimate CS.
 Also, not so long ago, CS itself was not seen as a legitimate field. 
 ### References
 1. [[CS197 Winter Lec08 - Picking a Project.pdf]]
-
 ### Notes
 
 

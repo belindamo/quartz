@@ -6,7 +6,6 @@ A simple repo by Andrej Karpathy to show how neural networks are trained under t
 It is a scalar-valued autograd, or automatic gradient/differentiation calculator. It takes out any efficiency complexities like using matrices.
 <!--SR:!2024-11-01,97,290-->
 
-
 ### References
 1. https://www.youtube.com/watch?v=VMj-3S1tku0
 

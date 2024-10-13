@@ -10,7 +10,6 @@ tan h is a common type of activation function in neural nets.
 ![[Screenshot 2024-04-29 at 11.46.04 AM.png]]
 <!--SR:!2024-09-30,13,210-->
 
-
 Calculation: ![[Screenshot 2024-04-29 at 10.54.48 AM.png]]
 
 ### References
