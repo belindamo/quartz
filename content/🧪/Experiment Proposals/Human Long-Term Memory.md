@@ -1,6 +1,6 @@
----
-date: 2024-04-24
----
+
+# 2x+ Retention Improvements to Human Long-Term Memory
+
 
 ## Experiment Length
 **Estimated Time To Build:** 3 months
