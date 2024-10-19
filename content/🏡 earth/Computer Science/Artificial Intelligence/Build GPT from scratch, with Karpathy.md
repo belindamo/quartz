@@ -11,7 +11,7 @@
 - [[attention]]
 - [[bag of words]]
 - [[QKV]]
-- [[softmax]]
+- [[softmax function]]
 - [[dot product]]
 - encoder
 - decoder

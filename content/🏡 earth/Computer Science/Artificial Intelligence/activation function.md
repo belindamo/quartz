@@ -11,6 +11,6 @@ Activation functions include
 	- [[ReLu]]
 	- [[tan h]]
 - for a node
-	- [[softmax]]
+	- [[softmax function]]
 
 

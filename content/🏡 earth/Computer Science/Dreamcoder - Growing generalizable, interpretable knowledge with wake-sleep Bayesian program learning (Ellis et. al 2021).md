@@ -26,28 +26,28 @@ hint:argmax
 It is the optimal language and weight vector:
 ![[Screenshot 2024-06-08 at 10.38.34 AM.png]]
 the lambda calculus function and weight vector where the integral of the joint distribution is maximized
-<!--SR:!2024-08-09,8,170-->
+
 In Dreamcoder 2021, what is the equation to represent the approximation of the joint distribution, meant to make the program set finite? (equation 3)
 ?
 We make a particle based approximation to Eq. 1 and instead marginalize over a finite beam of programs, with one beam per task, collectively written {B\_𝑥 }\_(𝑥 ∈𝑋) . This particle-based approximation is written ℒ(D, 𝜃, {B\_𝑥 }) and acts as a lower bound on the joint density: 𝐽 (D, 𝜃) ≥ ℒ, where ℒ is
 ![[Screenshot 2024-06-08 at 10.40.13 AM.png]]
 In all of our experiments we set the maximum beam size |B𝑥 | to 5. Wake and sleep phases correspond to alternate maximization of ℒ w.r.t. {B_𝑥 }_𝑥 ∈𝑋 , D, and 𝜃.
 Basically, having the program be represented by beam because easier
-<!--SR:!2024-08-24,29,210-->
+
 In Dreamcoder 2021, in relation to L, what does the wake phase do?
 ?
 The wake phase maximizes L with respect to the beams.
 Here (D, 𝜃) is fixed and we want to find new programs to add to the beams so that ℒ increases the most (and therefore best approximates 𝐽 (D, 𝜃)). ℒ most increases by finding programs where P[𝑥 |𝜌]P[𝜌|D, 𝜃] ∝ P[𝜌|𝑥, D, 𝜃] is large, i.e., programs with high posterior probability, which we use as the search objective during waking. Unlike EC2 , during each wake cycle we sample a random minibatch of tasks to try to solve, rather than trying to solve every task at each wake
-<!--SR:!2024-08-17,22,190-->
+
 In Dreamcoder 2021, in relation to L, what does the sleep (abstraction) phase do?
 ?
 It maximizes L with respect to the library.
 ![[Screenshot 2024-06-25 at 11.17.59 PM.png]]
-<!--SR:!2024-08-20,15,170-->
+
 In Dreamcoder 2021, in relation to L, what does the sleep (dreaming) phase do?
 ?
 Sleep (Dreaming): tractably maxing ℒ w.r.t. the beams. Here we train 𝑄(𝑝|𝑥) to assign high probability to programs 𝑝 where P[𝑥 |𝜌]P[𝜌|D, 𝜃] is large, because incorporating those programs into the beams will most increase ℒ. In the sections that follow, we elaborate on how these phases are realized
-<!--SR:!2024-08-13,8,150-->
+
 What are the two sources of self-supervised data used to train a recognition network?
 ?
 The two sources of self-supervised data used to train a recognition network are: 1. replays of programs already discovered during waking, and fantasies and 2. random programs assembled from members of learned library *L*.
@@ -55,7 +55,7 @@ Replays ensure that the recognition model is trained on the actual tasks it need
  (4)
  "Replays ensure that the recognition model is trained on the actual tasks it needs to solve, and does not forget how to solve them, while fantasies provide a large and highly varied dataset to learn from, and are critical for data efficiency." (4)
 The two steps involved in the 'Sleep' phase are: 1. Abstraction / Replay: Grow DSL (generative model) and 2. Dreaming / Fantasy: Train neural network (recognition model) on "fantasy", programs sampled from the generative model.
-<!--SR:!2024-09-14,50,230-->
+
 What kind of tasks was Dreamcoder (2021) tested on? (it's ok if this is rough)
 ?
 - **list processing**
@@ -67,25 +67,25 @@ What kind of tasks was Dreamcoder (2021) tested on? (it's ok if this is rough)
 - **recursive programming**
 - **physical laws**
 ![[Screenshot 2024-05-20 at 11.47.29 AM.png]]
-<!--SR:!2024-08-11,47,250-->
+<!--SR:!2024-08-09,8,170-->
 
 
 In Dreamcoder, how big is the input corpus for a task? Why is this significant?
 ?
 100-200 tasks. This is too few examples for a high-capacity neural network, but once model learns library customized to the domain, it can draw unlimited samples or 'dreams' to train the recognition network, faciliating sample-efficient learning. (4)
-<!--SR:!2024-10-11,77,250-->
+
 For the sleep state, Dreamcoder trains a recognition network on (*A, B*) pairs. What are A and B?
 ?
 (program, task)
-<!--SR:!2024-08-15,42,250-->
+
 Why do I feel computer programs are a significant way to represent tasks?
 ?
 In this context, programs represent knowledge in a way that is mutually understandable by deterministic functions, LLMs, and humans.
-<!--SR:!2024-11-17,104,250-->
+
 What are the two different kinds of domain expertise mentioned in the notes?
 ?
 The two different kinds of domain expertise mentioned are: 1. Explicit declarative knowledge - DSL (probabilistic generative model) and 2. Implicit procedural knowledge - NN (neural network recognition model).
-<!--SR:!2024-08-30,61,270-->
+<!--SR:!2024-10-11,77,250-->
 
 
 Data structure that leverages sharing to compactly represent many alternative versions of the same program.
@@ -96,15 +96,15 @@ What is an **E-graph**?
 ?
 An e-graph is a data structure that stores an equivalent relation over the terms of some language. In a deterministic way, it stores equivalence relations over the terms of some formal system.
 Source: https://en.wikipedia.org/wiki/E-graph
-<!--SR:!2024-11-04,89,224-->
+
 How can you tell if 2 e-nodes are equivalent??
 They are in the same e-class
-<!--SR:!2024-08-21,19,224-->
+
 In math, what is an invariant?
 ?
 A property of a math object that remains the same, even after operations/transformations are applied to that object
 Source: https://en.wikipedia.org/wiki/Invariant_(mathematics)
-<!--SR:!2024-09-17,53,244-->
+
 What is a **version space** in Dreamcoder?
 ?
 **Version space** is a data structure that compactly represents a large set of programs so that you can search a predefined space of hypotheses, **viewed as a set of logical sentences.**
@@ -125,7 +125,7 @@ A version space is either- A deBuijn index: written *$i*, for *i* a natural numb
 - The empty set, ∅
 - The set of all 𝜆-calculus expressions, Λ
 (6)
-<!--SR:!2024-08-25,20,190-->
+<!--SR:!2024-11-04,89,224-->
 
 What is a **leaf** in a version space, in Dreamcoder?
 ?
