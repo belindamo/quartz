@@ -6,6 +6,7 @@ What is the LaTeX code for the greater than or equal to symbol?
 $$
 \geq
 $$
+<!--LEARN:lNJDPfJ3-->
 
 What is the LaTeX code for the less than or equal to symbol?
 ?
@@ -13,6 +14,7 @@ What is the LaTeX code for the less than or equal to symbol?
 $$
 \leq
 $$
+<!--LEARN:QbQdOfSc-->
 
 What is the LaTeX code for the not equal to symbol?
 ?
@@ -20,6 +22,7 @@ What is the LaTeX code for the not equal to symbol?
 $$
 \neq
 $$
+<!--LEARN:g56dlkm7-->
 
 What is the LaTeX code for the approximately equal to symbol?
 ?
@@ -27,6 +30,7 @@ What is the LaTeX code for the approximately equal to symbol?
 $$
 \approx
 $$
+<!--LEARN:ig99fGIi-->
 
 What is the LaTeX code for the tilde symbol?
 ?
@@ -34,6 +38,7 @@ What is the LaTeX code for the tilde symbol?
 $$
 \sim
 $$
+<!--LEARN:2tFoiCgu-->
 
 What is the LaTeX code for the right arrow symbol?
 ?
@@ -41,6 +46,7 @@ What is the LaTeX code for the right arrow symbol?
 $$
 \Rightarrow
 $$
+<!--LEARN:EL9YKlwC-->
 
 What is the LaTeX code for the square root of 42?
 ?
@@ -48,6 +54,7 @@ What is the LaTeX code for the square root of 42?
 $$
 \sqrt{42}
 $$
+<!--LEARN:ij2O6QeT-->
 
 What is the LaTeX code for the infinity symbol?
 ?
@@ -55,6 +62,7 @@ What is the LaTeX code for the infinity symbol?
 $$
 \infty
 $$
+<!--LEARN:JGhezBw9-->
 
 What is the LaTeX code for this symbol?
 $$
@@ -62,6 +70,7 @@ $$
 $$
 ?
 `\lambda`
+<!--LEARN:1b4sTHyi-->
 
 What is the LaTeX code for  these symbols?
 $$
@@ -69,6 +78,7 @@ $$
 $$
 ?
 `\mu`, `\sigma`
+<!--LEARN:Q7VdBOF3-->
 
 What is the LaTeX code for this symbol?
 $$
@@ -76,6 +86,7 @@ $$
 $$
 ?
 `\Phi(0)`
+<!--LEARN:3VftyaDO-->
 
 What is the LaTeX code for the this symbol?
 $$
@@ -83,6 +94,7 @@ $$
 $$
 ?
 `\Sigma`
+<!--LEARN:2GiunYvv-->
 
 What is the LaTeX code for this symbol?
 $$
@@ -90,6 +102,7 @@ $$
 $$
 ?
 `\theta`
+<!--LEARN:fZYvOZRL-->
 
 What is the LaTeX code for the bar X and hat X symbols?
 $$
@@ -97,6 +110,7 @@ $$
 $$
 ?
 `\bar{X}`, `\hat{X}`
+<!--LEARN:y5rbY2NI-->
 
 
 What is the LaTeX code for the dots here:
@@ -105,6 +119,7 @@ $$
 $$
 ?
 `\cdots`
+<!--LEARN:UcQ0LZ61-->
 
 
 What is the LaTeX code for verbatim text 'my_function()'?
@@ -112,36 +127,42 @@ What is the LaTeX code for verbatim text 'my_function()'?
 `\verb|my_function()|`
 $$
 \verb|my_function()|$$
+<!--LEARN:D4lJwS8N-->
 
 What is the LaTeX code for a fraction with units in the numerator and denominator?
 ?
 `\frac{1}{1}`
 $$
 \frac{1}{2}$$
+<!--LEARN:GqvniE1N-->
 
 What is the LaTeX code for summation from i equals 0 to n?
 ?
 `\sum_{i=0}^{n} i`
 $$\sum_{i=0}^{n} i
 $$
+<!--LEARN:dPQVtNcE-->
 
 What is the LaTeX code for product from i equals 0 to n?
 ?
 `\prod_{i=0}^{n} i`
 $$\prod_{i=0}^{n} i
 $$
+<!--LEARN:Vs2hABYP-->
 
 What is the LaTeX code for the probability of A intersect B?
 ?
 `P(A \cap B)`$$
 P(A \cap B)
 $$
+<!--LEARN:ZU2D4QYv-->
 
 What is the LaTeX code for the probability of A union B?
 ?
 `P(A \cup B)`
 $$P(A \cup B)
 $$
+<!--LEARN:Wf2RAi68-->
 
 What is the LaTeX code for the binomial coefficient?
 ?
@@ -149,6 +170,7 @@ What is the LaTeX code for the binomial coefficient?
 $$\binom{n}{k}
 $$
 ^This is `n! / ( k! (n-k)! )`. Also pronounced "n choose k". Also seen as `C(n,k)`
+<!--LEARN:r2t4jNR6-->
 
 What is the LaTeX code for the conditional probability of A given B complement?
 ?
@@ -156,6 +178,7 @@ What is the LaTeX code for the conditional probability of A given B complement?
 P(A|B^C)
 $$
 Complement is all probabilities not in B
+<!--LEARN:HaRlAHgT-->
 
 What is the LaTeX code for the probability of meow given cat??
 `P(\textrm{meow } | \textrm{ cat})`
@@ -174,6 +197,7 @@ What is the LaTeX code for A times B?
 $$
 A \times B
 $$
+<!--LEARN:Wayfcc0B-->
 
 
 What is the LaTeX code for a Normal random variable X with mean 0 and variance 1?
@@ -182,6 +206,7 @@ What is the LaTeX code for a Normal random variable X with mean 0 and variance 1
 $$
 X \sim \mathcal{N}(\mu = 0, \sigma^2 = 1)
 $$
+<!--LEARN:jlQkdL7L-->
 
 
 What is the LaTeX code for an integral from -1 to 1 of x squared dx?
@@ -190,6 +215,7 @@ What is the LaTeX code for an integral from -1 to 1 of x squared dx?
 $$
 \int_{-1}^{1} x^2 - 2x + 1 dx
 $$
+<!--LEARN:nnkpPSpc-->
 
 
 What is the LaTeX code for the evaluation of the integral from -1 to 1 of x squared dx, with brackets?
@@ -198,6 +224,7 @@ What is the LaTeX code for the evaluation of the integral from -1 to 1 of x squa
 $$
 \left[ x^2 \right]_{-1}^1
 $$
+<!--LEARN:0BBZOJLM-->
 
 
 What is the LaTeX code for a double integral?
@@ -213,6 +240,7 @@ Example:`\left. \frac{3}{4}y^2 \right|_{-1}^{x}`
 $$
 \left. \frac{2}{3}y \right|_{-1}^{x}
 $$
+<!--LEARN:gnQJWH3p-->
 
 What is the LaTeX code for a 2x2 matrix with elements a, b, c, and d?
 $$
@@ -226,6 +254,7 @@ $$
 $$
 ?
 `\rho`
+<!--LEARN:iVaANtOK-->
 
 
 What is the LaTeX code for a group of equations aligned?
@@ -255,6 +284,7 @@ P(X=x|Y=1,W=P_2)
 &= \binom{5}{x}(0.1)^x(0.9)^{5-x}
 \end{align*}
 $$
+<!--LEARN:vcLyFZle-->
 
 
 ---

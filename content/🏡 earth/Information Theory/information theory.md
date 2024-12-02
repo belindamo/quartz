@@ -1,6 +1,7 @@
 #concept
 
-information theory >> mathematical study of the quantification, storage, and communication of information.<!--SR:!2024-09-25,3,250-->
+information theory >> mathematical study of the quantification, storage, and communication of information.
+<!--LEARN:Rk2ACfgb-->
 
 A key measure in information is [[entropy]].
 ### References

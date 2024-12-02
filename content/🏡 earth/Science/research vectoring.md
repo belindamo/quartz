@@ -1,6 +1,7 @@
 #concept
 
 vectoring in research >> identifying the biggest dimension of risk in your project right now (often assumption/w.r.t. main objective/hypothesis)
+<!--LEARN:CK6PKUSp-->
 ### References
 1. [[CS197 Spring Lec04 - Vectoring in Research.pdf]]
 

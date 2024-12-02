@@ -15,6 +15,7 @@ What seems uniquely important in picking a project in research?
 People > Projects
 ### References
 1. [[CS197 Winter Lec08 - Picking a Project.pdf]]
+<!--LEARN:wae94Tfu-->
 
 ### Notes
 

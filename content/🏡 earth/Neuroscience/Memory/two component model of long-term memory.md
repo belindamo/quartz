@@ -8,3 +8,4 @@ Asserts that two independent variables are sufficient to describe the status of 
 ### References
 1. https://supermemo.guru/wiki/Two_component_model_of_memory
 ### Notes
+<!--LEARN:RwJO34mE-->

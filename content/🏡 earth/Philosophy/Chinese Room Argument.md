@@ -8,6 +8,7 @@ My own primary refutation of Chinese Room argument
 You can't compare the function of a heart to that of an entire human.
 ### References
 1. https://plato.stanford.edu/entries/chinese-room/#Over:~:text=Imagine%20a%20native,word%20of%20Chinese.
+<!--LEARN:W4h8Vvj3-->
 
 ### Notes
 

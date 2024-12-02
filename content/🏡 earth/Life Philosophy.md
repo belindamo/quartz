@@ -14,3 +14,5 @@
 - [[unfair advantage]]
 - [[It's graphs all the way down]]
 - [[smart]]
+
+- [[occam's razor]]

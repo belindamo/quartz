@@ -1,6 +1,7 @@
 #concept
 
 whisper is trained on `___` hours of audio data >> 680k### References
+<!--LEARN:IArNynRQ-->
 1. https://github.com/openai/whisper/blob/main/model-card.md
 
 ### Notes

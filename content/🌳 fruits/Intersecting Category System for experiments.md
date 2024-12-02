@@ -11,7 +11,7 @@ Name 0-9 categories for the 1's place
 - 7 - Goofy Character
 - 8 - Secondary Villain
 - 9 - Lover
-<!--SR:!2024-09-11,44,290-->
+<!--LEARN:8E1lcqlR-->
 
 Name 00, 0-9 categories for the 0's place
 ?
@@ -26,4 +26,5 @@ Name 00, 0-9 categories for the 0's place
 - 7 - Wicked
 - 8 - Hamilton
 - 9 - OHSHC
-<!--SR:!2024-08-12,10,270-->
+<!--LEARN:jkp2oB3X-->
+

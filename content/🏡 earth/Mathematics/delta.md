@@ -1,6 +1,7 @@
 #concept
 
 delta (Δ) is >> a finite change in a certain quantity.### References
+<!--LEARN:qYBAjUxn-->
 1. Myself
 
 ### Notes

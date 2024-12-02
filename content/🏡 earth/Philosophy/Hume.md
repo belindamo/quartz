@@ -2,6 +2,7 @@
 #todo: flesh, finish
 
 Ideas are all derivative of... >> ...impressions and other ideas
+<!--LEARN:jFcUN4XV-->
 # Notes
 
 

@@ -1,6 +1,8 @@
 #concept
 
 forgetting curve >> how much you remember after learning
+<!--LEARN:XjQhzJcQ-->
+
 forgetting curve equation
 ?
 `R=exp(-t/S)`
@@ -11,6 +13,7 @@ where:
 ### References
 1. https://supermemo.guru/wiki/Forgetting_curve
 ### Notes
+<!--LEARN:zFnOQCpI-->
 
 
 

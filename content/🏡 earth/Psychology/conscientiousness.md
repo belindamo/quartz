@@ -1,6 +1,7 @@
 #concept
 
 Conscientiousness >> the way in which we control, regulate, and direct our impulses. [1] It is one of 5 academically supported personality traits.
+<!--LEARN:9lPReFsW-->
 Conscientiousness is linked with: [2]
 
 -   Better academic performance

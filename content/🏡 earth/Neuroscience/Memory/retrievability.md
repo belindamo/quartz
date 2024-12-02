@@ -1,11 +1,13 @@
 #concept
 
 
-retrievability >> Probability of recalling a specific memory at a given moment<!--SR:!2024-08-15,13,292-->
+retrievability >> Probability of recalling a specific memory at a given moment
+<!--LEARN:uHTpa6ye-->
 
 
 
-difference between retrievability and retention >> retrievability is the probability of recalling one specific memory, whereas retention refers to average recall probability for a set of memories.<!--SR:!2024-08-19,17,292-->
+difference between retrievability and retention >> retrievability is the probability of recalling one specific memory, whereas retention refers to average recall probability for a set of memories.
+<!--LEARN:fo73kMVS-->
 
 
 

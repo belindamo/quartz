@@ -8,6 +8,7 @@ $$
 Basic operation in linear algebra that results in a single number
 ### References
 1. Self
+<!--LEARN:112HSK23-->
 
 ### Notes
 

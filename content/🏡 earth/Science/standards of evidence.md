@@ -8,7 +8,7 @@ Standards of evidence:
 - Philosophy: Rhetoric
 - Math: Formal proof
 - Applied Physics: Measurement
-<!--SR:!2024-09-29,3,250-->
+<!--LEARN:DVATgm0I-->
 
 In computing, because areas use different methods, the standard of evidence differs based on the area. 
 

@@ -35,6 +35,7 @@ mnemonic, e.g. peg lists
 avoid `____`. they can be tackled with cloze deletion.
 ?
 lists, sets, enumerations
+<!--LEARN:jXq8RjIe-->
 
 Rules of knowledge formation part 2
 - personalize and provide `__`
@@ -48,6 +49,7 @@ Rules of knowledge formation part 2
 `references`
 ### References
 1. https://supermemo.guru/wiki/20_rules_of_knowledge_formulation
+<!--LEARN:pFRBegGd-->
 
 ### Notes
 

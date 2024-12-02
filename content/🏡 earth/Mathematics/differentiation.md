@@ -4,7 +4,7 @@
 What is **differentiation**?
 ?
 The process of finding a derivative.
-<!--SR:!2025-03-25,184,310-->
+<!--LEARN:ibuoANJF-->
 
 ### References
 1. https://www.google.com/search?q=differentiation

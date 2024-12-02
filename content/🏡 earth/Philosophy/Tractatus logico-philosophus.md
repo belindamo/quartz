@@ -6,6 +6,7 @@ According to the Tractatus,
 "What can be said at all can be said clearly, and..."
 ?
 "...what we cannot talk about we must pass over in silence."
+<!--LEARN:LefsyfSw-->
 
 # Notes
 

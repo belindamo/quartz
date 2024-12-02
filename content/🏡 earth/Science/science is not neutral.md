@@ -9,6 +9,7 @@ Also, not so long ago, CS itself was not seen as a legitimate field.
 ### References
 1. [[CS197 Winter Lec08 - Picking a Project.pdf]]
 ### Notes
+<!--LEARN:G4Zs4DsC-->
 
 
 

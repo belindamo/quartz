@@ -4,44 +4,53 @@
 From Nielsen's experience, what is the average time it takes to do one review of a card using Anki's spaced repetition system?
 ?
 The average time it takes to review a card using Anki's spaced repetition system is about 8 seconds.
+<!--LEARN:oHPNC70U-->
 
 From Nielsen's experience, what is his average interval between reviews for an Anki card, long term?
 ?
 The average interval between reviews for an Anki card is currently 1.2 years, and rising.
+<!--LEARN:ZvSPTW5Y-->
 
 From Nielsen's personal experience, what is the total review time is estimated for an average card over 20 years using Anki's spaced repetition system?
 ?
 For an average card, it is estimated that 5 to 7 minutes of total review time will be needed over the entire 20 years.
+<!--LEARN:xioYhIbG-->
 
 According to Nielsen, what are the two rules of thumb for deciding to add a spaced repetition card?
 ?
 1. If memorizing a fact seems worth 10 minutes of future time, then it is done.
 2. If a fact seems striking then add it, regardless of whether it seems worth 10 minutes of future time or not.
+<!--LEARN:STigqudo-->
 
 For Nielsen, how long does it take to keep up with card review in Anki on a daily basis?
 ?
 When keeping up with card review, it takes about 15 to 20 minutes per day.
+<!--LEARN:4cGSayjA-->
 
 What is the method of syntopic reading?
 ?
 Syntopic reading is reading many materials on the same subject and comparing and contrasting the knowledge in them. It is used to build an understanding of an entire literature; what's been done, what's not yet been done.
+<!--LEARN:syzjJTam-->
 
 What is the importance of adding caveats in spaced repetition notecards?
 ?
 Adding caveats in the notecards generated is important for indicating the certainty of information and the reliability of a source.
+<!--LEARN:l9cDLci2-->
 
 What is the difference between procedural and declarative memory?
 ?
 Procedural memory is the memory of how to do things, it requires practice to internalize. Declarative memory is the memory of facts and events, it can be easily stated or described.
+<!--LEARN:z8O7CL3e-->
 
 According to Nielsen, what is the key learning assertion about memory of the basics?
 ?
 The key learning assertion about memory of the basics is that it is often the single largest barrier to understanding. If people focused more on remembering the basics, they would find the high-level issues took care of themselves.
+<!--LEARN:IXkraioN-->
 
 What is a chunk in the context of memory and learning?
 ?
 A chunk is a basic unit of working memory. It is a combination of pieces that are recognized as a unit, and are able to be reasoned about at a higher level of abstraction than the individual pieces.
-<!--SR:!2024-12-31,148,270-->
+<!--LEARN:ohQNuZpc-->
 
 # Related
 - https://gwern.net/spaced-repetition

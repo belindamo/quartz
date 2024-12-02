@@ -7,6 +7,7 @@ math function that gives probabilities of occurrence of possible outcomes of an 
 it's a math description of a random phenomenon in terms of its sample space and probabilities of events! v cool
 ### References
 1. None
+<!--LEARN:nrTpKyGU-->
 
 ### Notes
 

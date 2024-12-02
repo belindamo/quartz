@@ -15,6 +15,7 @@ Declarative knowledge
 	- "Who painted the Sistine Chapel from 1508-1512?" -> Michelangelo
 - science
 	- "What is the powerhouse of the cell?" -> "Mitochondria"
+<!--LEARN:STcR2mdY-->
 
 Order of preference for memory usage? 
 For: recognition, short answer, multiple choice, Cloze deletion, free recall
@@ -24,8 +25,10 @@ For: recognition, short answer, multiple choice, Cloze deletion, free recall
 - multiple choice
 - Cloze deletion
 - recognition
+<!--LEARN:spVcxe27-->
 
 How many cards are in the most popular anki deck for step 1, which is the first 2 years of med school? >> ~30k  [2]
+<!--LEARN:9wNCUet1-->
 
 ---
 

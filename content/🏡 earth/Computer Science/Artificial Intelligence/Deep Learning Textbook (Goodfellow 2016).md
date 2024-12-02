@@ -164,6 +164,7 @@ terms. include specific equations where you can, pulled from reference material.
 what is softmax?
 ?
 ![[Screenshot 2024-06-08 at 3.16.42 PM.png]]
+<!--LEARN:AaivFMO7-->
 
 ### ch5
 - classification

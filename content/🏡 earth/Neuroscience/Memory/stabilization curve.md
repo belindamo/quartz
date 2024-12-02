@@ -12,6 +12,7 @@ where:
 Stabilization curve is the sibling to the [[forgetting curve]]. Wozniak claims it's the single most important curve in learning [1].
 ### References
 1. https://supermemo.guru/wiki/Stabilization_curve
+<!--LEARN:K9uwPcbn-->
 
 ### Notes
 

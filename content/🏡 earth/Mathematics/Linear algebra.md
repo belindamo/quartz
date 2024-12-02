@@ -17,6 +17,7 @@ As put by [George F. Simmons](https://en.wikipedia.org/wiki/George_F._Simmons "
 ?
 2 × 4 = 8 times
 ![[Screenshot 2024-04-29 at 10.49.10 AM.png]]
+<!--LEARN:3mNwXRiz-->
 
 
 What is the [[partial derivative]] of the function f(x,y)=x+y with respect to x?
@@ -24,20 +25,20 @@ What is the [[partial derivative]] of the function f(x,y)=x+y with respect to x?
 ![[Screenshot 2024-06-11 at 10.11.29 PM.png]]
 and
 ![[Screenshot 2024-06-11 at 10.13.55 PM.png]]
-<!--SR:!2025-01-08,156,310-->
+<!--LEARN:PIfSrlfm-->
 
 
 What is the [[partial derivative]] of the function f(x,y)=xy with respect to x?
 ?
 ![[Screenshot 2024-06-11 at 10.12.21 PM.png]]
-<!--SR:!2025-04-02,192,310-->
+<!--LEARN:noffY6BQ-->
 
 What is the [[partial derivative]] of the function f(x)=3x with respect to y?
 ?
 0
-<!--SR:!2025-01-12,160,310-->
+<!--LEARN:INgxhB2D-->
 
 What is the [[partial derivative]] of the function f(x)=0 with respect to x?
 ?
 0
-<!--SR:!2024-10-17,82,290-->
+<!--LEARN:Fz2z98vL-->

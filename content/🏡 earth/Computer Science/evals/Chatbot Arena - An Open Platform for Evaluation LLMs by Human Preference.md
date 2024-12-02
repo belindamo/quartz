@@ -17,11 +17,13 @@ limitations...
 
 ## Main contributions of the paper
 
-how is data gathered from a user? >> user can ask a question and get answer from 2 anon LLMs. User casts vote for model preferred, and then identity is revealed<!--SR:!2024-09-23,3,250-->
+how is data gathered from a user? >> user can ask a question and get answer from 2 anon LLMs. User casts vote for model preferred, and then identity is revealed
+<!--LEARN:pXQyl4bH-->
 
 - question: what statistical techniques do they use to estimate the ranking over models as reliably / sample-efficiently as possible? 
 	- sampling algorithm: select model pairs to accelerate convergence of rankings
-- in the first year since Apr 2023 release, how many votes from how many users does chatbot arena  have? >> 240k votes, 90k users<!--SR:!2024-09-25,3,250-->
+- in the first year since Apr 2023 release, how many votes from how many users does chatbot arena  have? >> 240k votes, 90k users
+<!--LEARN:KJFgTM6F-->
 - how did they encourage usage? 
 	- over 50 SOTA models for free from OpenAI, Google, Anthropic, Mistral, Hugging Face, and various universities
 	- community engaged by routinely updating leaderboard, releasing datasets, tweets, publish blogs
@@ -31,8 +33,8 @@ how is data gathered from a user? >> user can ask a question and get answer from
 Fields of human preference dataset format, for Chatbot Arena
 ?
 ![[Screenshot 2024-07-01 at 10.20.26 PM.png]]
-<!--SR:!2024-09-24,2,230-->
 - Elo rating: accelerate ranking convergence and detect abnormalities
+<!--LEARN:JAF1LGQg-->
 
 other papers
 - elo

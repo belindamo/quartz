@@ -10,9 +10,9 @@ even-handed
 concept
 densely
 associative
-<!--SR:!2024-09-25,3,252-->
-every evergreen note is a unit of >> knowledge work. It helps insight, comprehension, and writing accrete over time.<!--SR:!2024-09-26,4,270-->
+every evergreen note is a unit of >> knowledge work. It helps insight, comprehension, and writing accrete over time.
 ### References
+<!--LEARN:RlGXWcwr-->
 
 [1] This criteria is different from Matuschak's because he suggests writing solely for the self. I prefer shortcutting the process so that evergreen notes are both for myself and for others given that it is written simply. 
 

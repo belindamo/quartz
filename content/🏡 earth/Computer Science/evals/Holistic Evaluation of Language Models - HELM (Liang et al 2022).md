@@ -5,19 +5,23 @@
 What are the 7 key metrics mentioned in the paper for evaluating LMs?
 ?
 Accuracy, Calibration, Robustness, Fairness, Bias, Toxicity, and Efficiency.
+<!--LEARN:Ce1EKfQD-->
 
 What are the main contributions of the paper?
 ?
 The paper's contributions include a taxonomy with broad coverage, multi-metric measurement and evaluation of many existing models, analysis of results, and an interactive results section with a codebase.
 This paper contributes to transparent, standardized, holistic evaluation of language models and goes through the evaluation suite covering 30 LMs.
+<!--LEARN:klr29Sq5-->
 
 What are the strengths of the paper?
 ?
 The paper is a "first of its kind effort" with careful consideration of benchmark design and scale, and it introduces a living benchmark that is continuously updated with new scenarios, metrics, models, and a modular toolkit for easy additions.
+<!--LEARN:lqhNnOoY-->
 
 How many core scenarios does the paper HELM implement, and what factors were considered in choosing scenarios?
 ?
 The paper implemented 16 core scenarios based on coverage (e.g., different English varieties), value (e.g., user-facing apps), and feasibility (e.g., limited English resources).
+<!--LEARN:XmpaK2li-->
 
 What are some of the overall findings from this paper?
 ?
@@ -27,11 +31,12 @@ What are some of the overall findings from this paper?
 - Toxicity/bias levels remain largely constant.
 - Code models outperform text models in synthetic reasoning scenarios.
 - There is high sensitivity based on prompt formatting
+<!--LEARN:Eovcl7KH-->
 
 In addition to the 16 core scenarios, about how many additional scenarios did the paper evaluate? What do they focus on?
 ?
 The paper evaluated 26 additional scenarios focusing on linguistic understanding, world and commonsense knowledge, reasoning capabilities, memorization and copyright, disinformation generation, biases, and toxicity generation, with 21 of 26 being entirely new or not previously used in mainstream LM evaluation.
-<!--SR:!2024-10-15,25,153-->
+<!--LEARN:51ZB23El-->
 
 # Notes
 

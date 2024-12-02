@@ -1,6 +1,7 @@
 #concept
 
 strange loop >> cyclic structure that goes through several levels in a hierarchical system. It arises when, by moving only upwards or downwards through the system, one finds oneself bach where one started. 
+<!--LEARN:Mwfr5vDP-->
 
 According to Hofstadter, strange loops take form in human consciousness as...
 ?
@@ -9,6 +10,7 @@ Hofstadter argues that the psychological self arises out of a similar kind of pa
 ### References
 1. https://en.wikipedia.org/wiki/Strange_loop
 ### Notes
+<!--LEARN:XyT8yID0-->
 
 
 

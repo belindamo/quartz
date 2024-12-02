@@ -3,19 +3,22 @@
 Roughly how many issues and pull requests are in SWE-bench?
 ?
 2,294 issues and pull requests
+<!--LEARN:oXtStXwo-->
 
 In SWE-bench, what was the original number of PRs that were then filtered down?
 ?
 90,000 PRs with corresponding issues
+<!--LEARN:ENor0lzz-->
 
 In SWE-bench, what is the difference between "assisted" and "unassisted" tasks?
 ?
 In SWE-bench, LLMs are either given the set of correct files to edit (“assisted”); or a separate system retrieves the files to edit based on similarity to the issue text (“unassisted”).
-<!--SR:!2024-10-11,81,252-->
+<!--LEARN:ZWQZpopG-->
 
 In SWE-bench, what is the model input?
 ?
 issue text description and complete codebase
+<!--LEARN:S5N8Vir2-->
 
 In SWE-bench, what does the high-level process look like to evaluate a generated patch?
 ?
@@ -29,29 +32,28 @@ More granularly, the following steps are performed per prediction on the target 
 6. If the previous step fails, we attempt to fix prediction patch ˆδ automatically and reapply it.
 7. Run the testing script, determined from test patch T, to generate test result logs logδˆ.
 Steps 1 through 4 reliably do not fail due to verification during the task instance validation process. If applying the prediction patch (Step 5) fails, we attempt to repair the prediction patch file by removing unnecessary context lines and recalculating the header values (Step 6). If the remaining patch fails again or running the test command (Step 7) fails, then the prediction is automatically given a score of 0. Assuming these steps succeed, the output log logδˆ can then be converted to a test-to-status mapping, identical in structure to the via the appropriate, repository-specific parser introduced in § A.3. (21)
-<!--SR:!2025-01-09,114,230-->
+<!--LEARN:BnNZBW2H-->
 
 In SWE-bench tasks, what's the median number of words for a problem description?::140 words
-<!--SR:!2024-06-01,3,250-->
 
 In SWE-bench repositories, what's the median number of files and lines for a repository?::1900 files and 400k lines
-<!--SR:!2024-05-30,1,230-->
 
 In SWE-bench, what is FAIL_TO_PASS and PASS_TO_PASS?
 ?
 They are both keys to indicate quality of a code edit.
 -  FAIL_TO_PASS: a test previously that was failing now passes, given the gold patch
 - PASS_TO_PASS: a test previously that was passing is still passing
+<!--LEARN:oMasnytt-->
 
 What are some weaknesses of the SWE-bench paper?
 ?
 - Generating a patch file, and generating code, are two very different tasks. Existing models are pretrained on code, not patch files, so at least some of the poor performance could simply be due to the fact that the models are operating out of distribution on this data set. (The authors mention this issue in the paper.)
 - SWE-bench is a cool benchmark with evaluations but doesn't provide a novel solution to itself. SWE-llama is not super novel.
 - Data contamination given that the dataset is public
+<!--LEARN:d3bZPqQX-->
 
 # learning notes
-### Summary
-<!--SR:!2024-10-27,97,290--> 
+### Summary 
 
 ![[Screenshot 2024-05-22 at 10.54.36 AM.png]]
 
