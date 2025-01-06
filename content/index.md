@@ -21,5 +21,7 @@ Choose your path:
 
 # projects
 
-- Ongoing series of bite-sized [[Experiments]] 
+- Ongoing series of bite-sized [[Experiments]]  (2024-)
+- [Open source real-time machine translation Chrome extension](https://www.vivatranslate.com/en) (2024)
+
 
