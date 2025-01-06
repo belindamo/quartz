@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "https://write.justanexperiment.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
