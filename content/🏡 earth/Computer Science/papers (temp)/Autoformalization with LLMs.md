@@ -6,7 +6,7 @@
 In **Autoformalization with LLMs (2022)**, the authors generate autoformalized theorems that are used to >> improve a neural theorem prover. 
 <!--LEARN:SF5g9huA-->
 
-In **Autoformalization with LLMs (2022)**, the authors find this result about LLMs and autoformalization >> LLMs can correctly translate a significant portion (25.3%) of math competition problems perfectly to formal specifications in Isabelle/HOL.
+In **Autoformalization with LLMs (2022)**, the authors find this result about LLMs and auto-formalization >> LLMs can correctly translate a significant portion (25.3%) of math competition problems perfectly to formal specifications in Isabelle/HOL.
 <!--LEARN:Hz2vdlzy-->
 
 ## Key terms

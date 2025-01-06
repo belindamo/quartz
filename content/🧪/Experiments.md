@@ -45,5 +45,5 @@ These are proposals that I've been working on
 - [[Explainable Protocols for 2x+ Retention Improvements to Human Long-Term Memory]]
 - [[What does a better knowledge graph structure for enhancing human learning alongside LLMs look like?]]
 - [[What does an configurable format for a single AI agent's profile look like?]]
-- [[🧪/Experiment Proposals/What does a configurable format look like to represent essential data for a single person?|What does a configurable format look like to represent essential data for a single person?]]
+- [[🧪 internal/1 in progress/Experiment Proposals/What does a configurable format look like to represent essential data for a single person?|What does a configurable format look like to represent essential data for a single person?]]
 

@@ -3,7 +3,7 @@
 %% TODO-rr: read moreeeee %%
 # Notes
 
-In **Graph of Thoughts - Solving Elaborate Problems with Large Language Models**, Graph of Thoughts is >> a framework that advances prompting capabilities in LLMs beyond CoT/ToT, by modeling LLM-generated info as an *arbitrary graph*, where units of information ("LLM thoughts") are vertices, and edges correspond to dependencies between these vertices. 
+In **Graph of Thoughts - Solving Elaborate Problems with Large Language Models**, Graph of Thoughts is a framework that does this >> a framework that advances prompting capabilities in LLMs beyond CoT/ToT, by modeling LLM-generated info as an *arbitrary graph*, where units of information ("LLM thoughts") are vertices, and edges correspond to dependencies between these vertices. 
 <!--LEARN:Ojmvfm4w-->
 
 ## Key terms

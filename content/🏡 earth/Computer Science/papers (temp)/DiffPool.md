@@ -2,7 +2,7 @@
 
 # Notes
 
-The problem that DiffPool addresses is >> allowing for *hierarchical* representations of graphs. In order words, subgraph classification. 
+DiffPool addresses this type of representation of graphs >> allowing for *hierarchical* representations of graphs. In order words, subgraph classification. 
 <!--LEARN:rsimFhaa-->
 
 Diffpool is a module that allows for >> differentiable graph pooling to generate hierarchical graph representations and combine with various GNNs in an e2e fashion. 

@@ -4,7 +4,7 @@ Use 2021 paper!
 
 # Review
 
-In Dreamcoder 2021, what is X? >> Set of tasks
+In Dreamcoder 2021, what is `X`? >> Set of tasks
 <!--LEARN:yAQHcMLw-->
 
 In Dreamcoder 2021, what are D and 𝜃? Imagine what an element in each looks like.

@@ -5,14 +5,13 @@
 In **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, LeanDojo is >> an open-source Lean playground consisting of toolkits, data, models, and benchmarks
 <!--LEARN:ltOHbhNF-->
 
-
-In **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, LeanDojo contains fine-grained annotations of premises in proofs, which is >> valuable data for premise selection - a key bottleneck in theorem proving. 
+In **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, LeanDojo contains fine-grained annotations of premises in proofs, which is valuable data for this type of theorem proving task >> premise selection - a key bottleneck in theorem proving. 
 <!--LEARN:Wa7abiBS-->
 
-In **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, ReProver (Retrieval-Augmented Prover) is >> an LLM-based prover augmented with retrieval for selecting premises from a vast math library. 
+In **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, ReProver (Retrieval-Augmented Prover) is an LLM-based prover augmented with retrieval to accomplish this task >> premise selection from a vast math library. 
 <!--LEARN:PROZRYnn-->
 
-In **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, ReProver's Retrieval Augmentation is achieved via a >> Dense Passage Retriever. Given a state as the query and library of candidate premises, this retriever gets a ranked list of $m$ premises.
+In **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, ReProver's Retrieval Augmentation is achieved via this type of retriever. >> Dense Passage Retriever. Given a state as the query and library of candidate premises, this retriever gets a ranked list of $m$ premises.
 <!--LEARN:GE4kQDaP-->
 ## Key terms
 

@@ -4,7 +4,7 @@
 %% TODO-rr: read more thoroughly. very promising! %%
 # Notes
 
-Graph2Tac is >> a novel GNN for theorem proving in Coq proof assistant. 
+Graph2Tac is this type of neural network for theorem proving in Coq >> a GNN for theorem proving in Coq proof assistant. 
 <!--LEARN:bpHImxIH-->
 
 

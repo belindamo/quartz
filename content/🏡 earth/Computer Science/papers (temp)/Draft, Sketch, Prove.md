@@ -2,7 +2,7 @@
 
 # Notes
 
-Draft, Sketch, and Prove (DSP) is >> a method that maps informal proofs to formal proof sketches, and uses the sketches to guide an automated prover by directing its search to easier sub-problems.
+Draft, Sketch, and Prove (DSP) is a method that does this >> a method that maps informal proofs to formal proof sketches, and uses the sketches to guide an automated prover by directing its search to easier sub-problems.
 <!--LEARN:B4mxSwSL-->
 
 

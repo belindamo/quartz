@@ -4,16 +4,16 @@
 wait ok this is such a cool paper!!!! omgggggg 😍😍😍😍😍😍 my peopleeeee
 # Notes
 
-The key contribution of **Graph Representations for Higher-Order Logic and Theorem Proving** is >> first application of GNNs to guide higher-order theorem proving, achieving SOTA on the HOList benchmark.
+The key contribution of **Graph Representations for Higher-Order Logic and Theorem Proving** >> first application of GNNs to guide higher-order theorem proving, achieving SOTA on the HOList benchmark.
 <!--LEARN:VanJiakK-->
 
 In **Graph Representations for Higher-Order Logic and Theorem Proving**, there are two embeddings used: `____` and `___ ` embeddings >> goal, premise
 <!--LEARN:X2DKm9O1-->
 
-In **Graph Representations for Higher-Order Logic and Theorem Proving**, the goal embedding by itself is used to the predict `_____` >> the next tactic to apply from a fixed set of 41 tactics.
+In **Graph Representations for Higher-Order Logic and Theorem Proving**, the goal embedding by itself is used to predict this >> the next tactic to apply from a fixed set of 41 tactics.
 <!--LEARN:1CVtSbQ6-->
 
-In **Graph Representations for Higher-Order Logic and Theorem Proving**, the goal and premise embeddings are combined together in order to get >> score for the premise. Higher scores indicate the given premise is predicted to be useful for proving a current goal.
+In **Graph Representations for Higher-Order Logic and Theorem Proving**, the goal and premise embeddings are combined together in order to get this for the premise >> score for the premise. Higher scores indicate the given premise is predicted to be useful for proving a current goal.
 <!--LEARN:vfUZB9K0-->
 
 ## Helpful practice example
