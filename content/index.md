@@ -9,11 +9,12 @@ I...
 - Research LLMs 
 - Ran a venture-backed startup for 3 years
 - [[Experiments|Tinker]] with new model capabilities w.r.t. things I want to learn or automate
+- Write about [[🔗/index#🔗 writing|things]]
 - Enjoy skating, music making, [[Why I'll continue metta-tating|meditating]] 
 - Live in San Francisco
 
 Currently, I am...
-- Conducting bite-sized [[experiments]] on LLM-based systems (on [[Experiment System Changelog|try 3]])
+- Conducting bite-sized [[Experiments|experiments]] on LLM-based systems (on [[Experiment System Changelog|try 3]])
 - Making a self-improving system so agents can do my taxes for me ([try 1](https://github.com/belindamo/bmo-cafe), on try 2)
 - Researching knowledge graph generation ([try 1](https://justanexperiment.com/graph), on try 2)
 - Figuring out how to improve spaced repetition for learning ([try 1](https://github.com/belindamo/story), on [try 2](https://x.com/belindmo/status/1840448173674057828))
@@ -29,7 +30,7 @@ Previously, I...
 - Graduated from Stanford (2020)
 - Had many, many other side quests
 
-The best way to reach me for collaboration/questions/fun conversations is [via X](https://x.com/belindmo).
+The best way to reach me for questions/collaboration/fun conversations is [via X](https://x.com/belindmo).
 
 # 🔗 writing
 *Disclaimer: All writing is a work in progress, with the main intention of helping me clarify my thoughts and secondary intention of easily sharing.
