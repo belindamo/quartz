@@ -49,4 +49,3 @@ Art design distribute
 	- High Ceiling, but High Floor (👎): your kids will struggle to even get started.
 	- [Write problems that require a simple first step but which stretch for miles.](https://blog.mrmeyer.com/2012/ten-design-principles-for-engaging-math-tasks/)
 	- low floor, high ceilings, [wide walls](https://johnumekubo.com/2017/11/09/low-floors-high-ceilings-and-wide-walls/) - wide walls are high range of horizontal growth
-

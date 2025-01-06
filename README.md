@@ -1,4 +1,4 @@
-# 🧚🏼‍♀️ JustanExperiment Writings
+# 🧚🏼‍♀️ Belinda's Writings
 
 How these writings are organized:
 - `content` folder contains writings. 

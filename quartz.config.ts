@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧚🏼‍♀️ Experimental writings",
+    pageTitle: "🧚🏼‍♀️ Belinda Mo",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google",
       tagId: "G-WC5J24H920"
     },
-    baseUrl: "https://write.justanexperiment.com",
+    baseUrl: "https://belindamo.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

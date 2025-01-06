@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 Questions that I think about a lot:
 - What are the limitations of the scientific method? 
 - How might we create a more equitable world? 
