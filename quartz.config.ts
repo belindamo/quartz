@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "google",
       tagId: "G-WC5J24H920"
     },
-    baseUrl: "https://belindamo.com",
+    baseUrl: "https://write.justanexperiment.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -48,7 +48,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git",  "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
+        priority: ["frontmatter", "git",  "filesystem"], 
       }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ 
