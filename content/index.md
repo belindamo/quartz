@@ -9,7 +9,7 @@ I...
 - Research LLMs 
 - Ran a venture-backed startup for 3 years
 - [[Experiments|Tinker]] with new model capabilities w.r.t. things I want to learn or automate
-- Write about [[🔗/index#🔗 writing|things]]
+- Write about things
 - Enjoy skating, music making, [[Why I'll continue metta-tating|meditating]] 
 - Live in San Francisco
 
