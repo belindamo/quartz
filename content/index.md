@@ -15,7 +15,7 @@ I...
 
 Currently, I am...
 - Conducting bite-sized [[Experiments|experiments]] on LLM-based systems (on [[Experiment System Changelog|try 3]])
-- Making a self-improving system so agents can do my taxes for me ([try 1](https://github.com/belindamo/bmo-cafe), on try 2)
+- Making a self-improving system so agents can do my taxes for me ([try 3](https://github.com/belindamo/bmo-cafe), on try 4)
 - Researching knowledge graph generation ([try 1](https://justanexperiment.com/graph), on try 2)
 - Figuring out how to improve spaced repetition for learning ([try 1](https://github.com/belindamo/story), on [try 2](https://x.com/belindmo/status/1840448173674057828))
 - [Writing a musical about Silicon Valley](https://svmusical.com/) 
