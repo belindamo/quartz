@@ -1,7 +1,7 @@
 #concept
 
-entropy (of a random variable in information theory) >> entropy quantifies the average level of uncertainty associated with the variable's potential states or possible outcomes
-<!--LEARN:PaH7bad1-->
+entropy (of a random variable in information theory) [[SR/memory/N8REpGOA.md|>>]] entropy quantifies the average level of uncertainty associated with the variable's potential states or possible outcomes
+
 
 
 

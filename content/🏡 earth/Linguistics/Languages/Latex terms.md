@@ -1,184 +1,184 @@
 #concept-pamphlet
 
 What is the LaTeX code for the greater than or equal to symbol?
-?
+[[SR/memory/ApZIOM8Q.md|?]]
 `\geq`
 $$
 \geq
 $$
-<!--LEARN:lNJDPfJ3-->
+
 
 What is the LaTeX code for the less than or equal to symbol?
-?
+[[SR/memory/7XYTHPUv.md|?]]
 `\leq`
 $$
 \leq
 $$
-<!--LEARN:QbQdOfSc-->
+
 
 What is the LaTeX code for the not equal to symbol?
-?
+[[SR/memory/3UPIuFGu.md|?]]
 `\neq`
 $$
 \neq
 $$
-<!--LEARN:g56dlkm7-->
+
 
 What is the LaTeX code for the approximately equal to symbol?
-?
+[[SR/memory/RGv33b9f.md|?]]
 `\approx`
 $$
 \approx
 $$
-<!--LEARN:ig99fGIi-->
+
 
 What is the LaTeX code for the tilde symbol?
-?
+[[SR/memory/mgmlmpe6.md|?]]
 `\sim`
 $$
 \sim
 $$
-<!--LEARN:2tFoiCgu-->
+
 
 What is the LaTeX code for the right arrow symbol?
-?
+[[SR/memory/CZIZQBuY.md|?]]
 `\Rightarrow`
 $$
 \Rightarrow
 $$
-<!--LEARN:EL9YKlwC-->
+
 
 What is the LaTeX code for the square root of 42?
-?
+[[SR/memory/3uVXD854.md|?]]
 `\sqrt{42}`
 $$
 \sqrt{42}
 $$
-<!--LEARN:ij2O6QeT-->
+
 
 What is the LaTeX code for the infinity symbol?
-?
+[[SR/memory/SHcjbVu3.md|?]]
 `\infty`
 $$
 \infty
 $$
-<!--LEARN:JGhezBw9-->
+
 
 What is the LaTeX code for this symbol?
 $$
 \lambda
 $$
-?
+[[SR/memory/rltLZmOJ.md|?]]
 `\lambda`
-<!--LEARN:1b4sTHyi-->
+
 
 What is the LaTeX code for  these symbols?
 $$
 \mu, \sigma
 $$
-?
+[[SR/memory/EYm0lJJJ.md|?]]
 `\mu`, `\sigma`
-<!--LEARN:Q7VdBOF3-->
+
 
 What is the LaTeX code for this symbol?
 $$
 \Phi(0)
 $$
-?
+[[SR/memory/x5uM87pv.md|?]]
 `\Phi(0)`
-<!--LEARN:3VftyaDO-->
+
 
 What is the LaTeX code for the this symbol?
 $$
 \Sigma
 $$
-?
+[[SR/memory/8dSwBwYz.md|?]]
 `\Sigma`
-<!--LEARN:2GiunYvv-->
+
 
 What is the LaTeX code for this symbol?
 $$
 \theta
 $$
-?
+[[SR/memory/Ugzw5OPA.md|?]]
 `\theta`
-<!--LEARN:fZYvOZRL-->
+
 
 What is the LaTeX code for the bar X and hat X symbols?
 $$
 \bar{X}, \hat{X}
 $$
-?
+[[SR/memory/O2vL6LLn.md|?]]
 `\bar{X}`, `\hat{X}`
-<!--LEARN:y5rbY2NI-->
+
 
 
 What is the LaTeX code for the dots here:
 $$
 1,2,\cdots,n
 $$
-?
+[[SR/memory/69KUhLIe.md|?]]
 `\cdots`
-<!--LEARN:UcQ0LZ61-->
+
 
 
 What is the LaTeX code for verbatim text 'my_function()'?
-?
+[[SR/memory/FlWUO6Iu.md|?]]
 `\verb|my_function()|`
 $$
 \verb|my_function()|$$
-<!--LEARN:D4lJwS8N-->
+
 
 What is the LaTeX code for a fraction with units in the numerator and denominator?
-?
+[[SR/memory/QchY6zuS.md|?]]
 `\frac{1}{1}`
 $$
 \frac{1}{2}$$
-<!--LEARN:GqvniE1N-->
+
 
 What is the LaTeX code for summation from i equals 0 to n?
-?
+[[SR/memory/udbYmCcq.md|?]]
 `\sum_{i=0}^{n} i`
 $$\sum_{i=0}^{n} i
 $$
-<!--LEARN:dPQVtNcE-->
+
 
 What is the LaTeX code for product from i equals 0 to n?
-?
+[[SR/memory/BOHYNn2I.md|?]]
 `\prod_{i=0}^{n} i`
 $$\prod_{i=0}^{n} i
 $$
-<!--LEARN:Vs2hABYP-->
+
 
 What is the LaTeX code for the probability of A intersect B?
-?
+[[SR/memory/O0Tr7VQA.md|?]]
 `P(A \cap B)`$$
 P(A \cap B)
 $$
-<!--LEARN:ZU2D4QYv-->
+
 
 What is the LaTeX code for the probability of A union B?
-?
+[[SR/memory/esrvx3Cj.md|?]]
 `P(A \cup B)`
 $$P(A \cup B)
 $$
-<!--LEARN:Wf2RAi68-->
+
 
 What is the LaTeX code for the binomial coefficient?
-?
+[[SR/memory/zTcrYyrP.md|?]]
 `\binom{n}{k}`
 $$\binom{n}{k}
 $$
 ^This is `n! / ( k! (n-k)! )`. Also pronounced "n choose k". Also seen as `C(n,k)`
-<!--LEARN:r2t4jNR6-->
+
 
 What is the LaTeX code for the conditional probability of A given B complement?
-?
+[[SR/memory/cQIRO9ee.md|?]]
 `P(A|B^C)`$$
 P(A|B^C)
 $$
 Complement is all probabilities not in B
-<!--LEARN:HaRlAHgT-->
+
 
 What is the LaTeX code for the probability of meow given cat??
 `P(\textrm{meow } | \textrm{ cat})`
@@ -186,7 +186,7 @@ $$
 P(\textrm{meow } | \textrm{ cat})
 $$
 What is the LaTeX code for the probability of a condition less than or equal to 5.0?
-?
+[[SR/memory/QRyIO7M5.md|?]]
 `P(\textrm{cond} \leq 5.0)`
 $$
 P(\textrm{cond} \leq 5.0)
@@ -197,38 +197,39 @@ What is the LaTeX code for A times B?
 $$
 A \times B
 $$
-<!--LEARN:Wayfcc0B-->
+<!--LEARN:vFkjP8LQ-->
+
 
 
 What is the LaTeX code for a Normal random variable X with mean 0 and variance 1?
-?
+[[SR/memory/4lsf24FV.md|?]]
 `X \sim \mathcal{N}(\mu = 0, \sigma^2 = 1)`
 $$
 X \sim \mathcal{N}(\mu = 0, \sigma^2 = 1)
 $$
-<!--LEARN:jlQkdL7L-->
+
 
 
 What is the LaTeX code for an integral from -1 to 1 of x squared dx?
-?
+[[SR/memory/MgaWmCD5.md|?]]
 `\int_{-1}^{1} x^2 dx`
 $$
 \int_{-1}^{1} x^2 - 2x + 1 dx
 $$
-<!--LEARN:nnkpPSpc-->
+
 
 
 What is the LaTeX code for the evaluation of the integral from -1 to 1 of x squared dx, with brackets?
-?
+[[SR/memory/4wwLZBzU.md|?]]
 `\left[ x^2 \right]_{-1}^1`
 $$
 \left[ x^2 \right]_{-1}^1
 $$
-<!--LEARN:0BBZOJLM-->
+
 
 
 What is the LaTeX code for a double integral?
-?
+[[SR/memory/LOzxRljX.md|?]]
 `\iint`
 `\iint_{0}^{1} {xy} dy dx`
 $$
@@ -240,13 +241,14 @@ Example:`\left. \frac{3}{4}y^2 \right|_{-1}^{x}`
 $$
 \left. \frac{2}{3}y \right|_{-1}^{x}
 $$
-<!--LEARN:gnQJWH3p-->
+<!--LEARN:6ONVHDOH-->
+
 
 What is the LaTeX code for a 2x2 matrix with elements a, b, c, and d?
 $$
 \begin{bmatrix} a & b \\ c & d \end{bmatrix}
 $$
-?
+[[SR/memory/SgK0oXXK.md|?]]
 `\begin{bmatrix} a & b \\ c & d \end{bmatrix}`
 What is the LaTeX code for the correlation coefficient?
 $$
@@ -254,11 +256,12 @@ $$
 $$
 ?
 `\rho`
-<!--LEARN:iVaANtOK-->
+<!--LEARN:1i7fWzvn-->
+
 
 
 What is the LaTeX code for a group of equations aligned?
-?
+[[SR/memory/444ulsre.md|?]]
 `\begin{align*`, `&=`, `\\`, `end{align*}`
 Example:
 ```
@@ -284,7 +287,7 @@ P(X=x|Y=1,W=P_2)
 &= \binom{5}{x}(0.1)^x(0.9)^{5-x}
 \end{align*}
 $$
-<!--LEARN:vcLyFZle-->
+
 
 
 ---

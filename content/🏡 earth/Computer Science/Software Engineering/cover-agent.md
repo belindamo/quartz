@@ -1,1 +1,1 @@
-What is Codium's Cover-Agent? >> You can automate and enhance generate of tests. It's mostly for unit tests as of Jun 2024. It can run via the terminal
+What is Codium's Cover-Agent? [[SR/memory/lULfITQ2.md|>>]] You can automate and enhance generate of tests. It's mostly for unit tests as of Jun 2024. It can run via the terminal

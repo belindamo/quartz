@@ -1,7 +1,7 @@
 #concept
 
-whisper is trained on `___` hours of audio data >> 680k### References
-<!--LEARN:IArNynRQ-->
+whisper is trained on `___` hours of audio data [[SR/memory/ia0U1N73.md|>>]] 680k### References
+
 1. https://github.com/openai/whisper/blob/main/model-card.md
 
 ### Notes

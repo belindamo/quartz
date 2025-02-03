@@ -24,8 +24,8 @@
 - stocastic shortest path problem
 - LSTM
 
-sample space of an experiment >> set of all possible outcomes or results of that experiment! wowow
-<!--LEARN:NtGSUeLt-->
+sample space of an experiment [[SR/memory/becxLagH.md|>>]] set of all possible outcomes or results of that experiment! wowow
+
 
 
 ---

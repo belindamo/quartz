@@ -15,9 +15,10 @@ I...
 
 Currently, I am...
 - Conducting bite-sized [[Experiments|experiments]] on LLM-based systems (on [[Experiment System Changelog|try 3]])
-- Making a self-improving system so agents can do my taxes for me ([try 3](https://github.com/belindamo/bmo-cafe), on try 4)
-- Researching knowledge graph generation ([try 1](https://justanexperiment.com/graph), on try 2)
+- Making a self-improving system so agents can do my taxes for me ([try 3](https://github.com/belindamo/bmo-cafe), on try 8)
+- Researching knowledge graph generation ([try 1](https://justanexperiment.com/graph), on [try 3](https://www.piwheels.org/project/kg-gen/))
 - Figuring out how to improve spaced repetition for learning ([try 1](https://github.com/belindamo/story), on [try 2](https://x.com/belindmo/status/1840448173674057828))
+- Doing a master’s degree
 - [Writing a musical about Silicon Valley](https://svmusical.com/) 
 
 Previously, I...
@@ -26,14 +27,14 @@ Previously, I...
 - Performed v0 of Silicon Valley the Musical and people [wrote](https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2024/05/06/bay-area-founders-write-silicon-valley-the-musical.html) about [it!](https://www.reddit.com/r/sanfrancisco/comments/1ci68bo/silicon_valley_the_musical_my_review/) (2024)
 - Won and organized hackathons at AGIHouse and MIT (2022-2024)
 - [Started a machine translation company](https://vivatranslate.com) that raised $4m from General Catalyst, AIX Ventures, and others (2021-2024)
-- [Worked with the Stanford Legal Design Lab to improve language access for immigrants during COVID-19](https://medium.com/legal-design-and-innovation/addressing-immigrant-needs-for-language-access-during-covid-19-589e20f23cab) (2020)
 - Graduated from Stanford (2020)
+- Worked with the Stanford Legal Design Lab to [improve language access for immigrants during COVID-19](https://medium.com/legal-design-and-innovation/addressing-immigrant-needs-for-language-access-during-covid-19-589e20f23cab) (2020)
 - Had many, many other side quests
 
 The best way to reach me for questions/collaboration/fun conversations is [via X](https://x.com/belindmo).
 
 # 🔗 writing
-*Disclaimer: All writing is a work in progress, with the main intention of helping me clarify my thoughts and secondary intention of easily sharing.
+*Disclaimer: All writing is a work in progress, with the main intention of helping me clarify my thoughts and secondary intention of easy sharing.
 
 Choose your path:
 1. [[product]]

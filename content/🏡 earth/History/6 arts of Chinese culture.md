@@ -2,12 +2,12 @@
 
 6 arts of chinese culture
 `____`, music, archery, equestrianism,`____`, mathematics
-?
+[[SR/memory/deEnzv7n.md|?]]
 rites, calligraphy
 ### References
 1. https://en.wikipedia.org/wiki/Six_Arts
 ### Notes
-<!--LEARN:aqAmpeFy-->
+
 
 Men who excelled in these six arts were thought to have reached the state of perfection, becoming a [perfect gentleman](https://en.m.wikipedia.org/wiki/Junzi "Junzi").
 

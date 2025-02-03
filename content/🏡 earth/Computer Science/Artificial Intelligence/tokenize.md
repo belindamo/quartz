@@ -1,10 +1,10 @@
 #concept
 
-tokenize >> convert a string to a sequence of integers
-<!--LEARN:aUkcLppl-->
+tokenize [[SR/memory/unjY9gCy.md|>>]] convert a string to a sequence of integers
 
-tokenization is similar to this mathematical technique presented in the 1930s: `____` >> Godel numbering
-<!--LEARN:7m63wWtm-->
+
+tokenization is similar to this mathematical technique presented in the 1930s: `____` [[SR/memory/tSpSEhRw.md|>>]] Godel numbering
+
 ### References
 1. Myself
 

@@ -1,7 +1,7 @@
 #concept
 
-according to Kurzweil's pattern recognition theory of mind, the brain's neocortex is essentially a... >> hierarchical system of pattern recognizers. He posits that it contains roughly 300 million very general pattern recognition circuits.### References
-<!--LEARN:wsNq8Oi5-->
+according to Kurzweil's pattern recognition theory of mind, the brain's neocortex is essentially a... [[SR/memory/2GlakzbP.md|>>]] hierarchical system of pattern recognizers. He posits that it contains roughly 300 million very general pattern recognition circuits.### References
+
 1. Ray Kurzweil's *How to Create a Mind*
 
 ### Notes

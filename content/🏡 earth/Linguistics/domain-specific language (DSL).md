@@ -2,12 +2,12 @@
 #todo: try making a dsl
 
 a DSL should be `___` with 100% accuracy
-?
+[[SR/memory/bi3OuX4U.md|?]]
 parseable
 [1]
 ## References
 1. self
-<!--LEARN:AUGZNOY7-->
+
 
 # Notes
 ---

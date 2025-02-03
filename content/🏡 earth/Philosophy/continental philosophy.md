@@ -1,9 +1,9 @@
 #concept
 
-continental philosophy >> knowledge, experience, and reality are bound and shaped by conditions best understood through philosophical reflection rather than exclusively empirical inquiry
-<!--LEARN:gKpROkdT-->
-continental philosophy is associated with these philosophers >> kierkegaard, nietzsche, freud, hegel, marx. lots of unhappy europeans
-<!--LEARN:LxBcHJWR-->
+continental philosophy [[SR/memory/pIN1qux0.md|>>]] knowledge, experience, and reality are bound and shaped by conditions best understood through philosophical reflection rather than exclusively empirical inquiry
+
+continental philosophy is associated with these philosophers [[SR/memory/1PDuAFvh.md|>>]] kierkegaard, nietzsche, freud, hegel, marx. lots of unhappy europeans
+
 ### References
 1. https://en.wikipedia.org/wiki/Continental_philosophy
 

@@ -7,11 +7,11 @@
 3. `____` to any screen size
 4. Provides `____` page
 5. Is installable
-?
+[[SR/memory/OYtU3KKT.md|?]]
 stays fast, responsive, custom offline
 # References
 1. https://web.dev/articles/pwa-checklist
-<!--LEARN:CCdmY141-->
+
 
 # Notes
 

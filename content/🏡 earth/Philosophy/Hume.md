@@ -1,8 +1,8 @@
 #concept-pamphlet 
 #todo: flesh, finish
 
-Ideas are all derivative of... >> ...impressions and other ideas
-<!--LEARN:jFcUN4XV-->
+Ideas are all derivative of... [[SR/memory/EYEbAhiC.md|>>]] ...impressions and other ideas
+
 # Notes
 
 

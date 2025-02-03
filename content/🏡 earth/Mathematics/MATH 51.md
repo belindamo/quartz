@@ -18,10 +18,10 @@
 ## Intro
 
 a theorem in mathematics does not become `___` later on as new ideas are discovered.
-?
+[[SR/memory/V0zBjO8Q.md|?]]
 false
 [[math51book.pdf#page=7&selection=53,0,55,81|math51book, page 7]]
-<!--LEARN:sHENvkgV-->
+
 
 
 read
@@ -29,17 +29,17 @@ $$
 R^3
 $$
 as
-?
+[[SR/memory/leLEeRlP.md|?]]
 "the set of all triples (x,y,z) of real numbers"
 [[math51book.pdf#page=8&selection=268,0,269,1|math51book, page 8]]
-<!--LEARN:JNAPJotK-->
+
 
 read
 $$
 \in
 $$
 as
-?
+[[SR/memory/ECLRO6Qj.md|?]]
 'is in', 'is an element of', 'belongs to'
 read
 $$
@@ -51,7 +51,7 @@ $$
 $$
 as
 'for which', 'such that'
-<!--LEARN:BkW6iHjq-->
+
 
 
 # Part I. Geometry of vectors and projections (1-7)
@@ -62,27 +62,29 @@ as
 $$
 R^n
 $$
-?
+[[SR/memory/tCe6dJvg.md|?]]
 Set of all *n*-vectors
 $$
 || v ||
 $$
 ?
 length or magnitude of an n-vector **v**
-<!--LEARN:eDudg6k9-->
+<!--LEARN:8XqvHcMv-->
+
 
 ---
 
 
 scalar
-?
+[[SR/memory/lDByHzgN.md|?]]
 a real number
 visualize 2 *n*-vectors being added, notation-wise
 ?
 $$
 \mathbf{a} + \mathbf{b} = \begin{bmatrix} a_1 + b_1 \\ a_2 + b_2 \\ \vdots \\ a_n + b_n \end{bmatrix}
 $$
-<!--LEARN:9m1L7wVZ-->
+<!--LEARN:tIXfJrc1-->
+
 
 visualize the shapes of a linear combination ?
 for given *n*-vectors $$v_1, ... , v_k$$
@@ -90,9 +92,9 @@ for given *n*-vectors $$v_1, ... , v_k$$
 result is *n*-vector of form $$c_1v_1 + ... + c_kv_k$$
 Imagine these vectors being added together in geometric space 💛
 ![[Screenshot 2024-09-19 at 12.18.59 PM.png]]
-?
+[[SR/memory/Et7AydxX.md|?]]
 ![[Screenshot 2024-09-19 at 12.19.28 PM.png]]
-<!--LEARN:posQycZZ-->
+
 
 convex combination
 
@@ -104,7 +106,7 @@ unit vector
 ch2 
 
 correlation coefficient *r* 
-?
+[[SR/memory/iFWvDsRI.md|?]]
 cosine of angle between X and Y
 ...
 remember the acronym for sine, cosine, tan? >> SOHCAHTOA
@@ -114,7 +116,8 @@ $$
 cos\ \theta = \frac{adjacent}{hypotenuse}
 $$
 length via dot product
-<!--LEARN:F3mCdjnX-->
+<!--LEARN:I4RiFClz-->
+
 
 properties of dot products
 
@@ -131,18 +134,19 @@ dims
 
 ch5
 A collection of vectors $v_1,...,v_k$ in $R^n$ is called *orthogonal* if 
-?
+[[SR/memory/jCYlEIjM.md|?]]
 $$ v_i \cdot v_j = 0 \ whenever \ i \neq j $$
-<!--LEARN:fmBfZV1J-->
+
 
 visualize geometrically, 2 orthogonal vectors in $R^3$
-?
+[[SR/memory/Kt0xEvBJ.md|?]]
 when you look at the plane that the 2 vectors are both on, there's a 90 degree angle
 (but like...why????? why does this happennnn with dot product)
 A collection of vectors $v_1,...,v_k$ in $R^n$ is called *orthonormal* if
 ?
 they are orthogonal to each other *and* are all unit vectors. That is, $v_i \cdot v_i = 1$ for all $i$
-<!--LEARN:ywOL3lTw-->
+<!--LEARN:eRIgZEBU-->
+
 
 ---
 vectors

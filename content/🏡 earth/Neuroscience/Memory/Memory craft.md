@@ -2,14 +2,14 @@
 
 
 #memory-journey Memory craft, 1050 Fulton
-?
+[[SR/memory/zcxxRZmm.md|?]]
 #todo, remember this and fill out card 
 1. Lynne kelly: tech, writing, memory
 2. aboriginal, Native American
 3. 2 main: pegs, journeys(?)
 4. Discrete: Country journey
 5. Continuous: Pre-history journey, History journey 
-<!--LEARN:w24uEGBA-->
+
 
 - Memory, writing, and technology can all enhance each other
 - Native Americans used song lines. Long treks. Each stopping point had a song, physical ritual, etc. it was an encyclopedia. And access more info w the physical ritual 

@@ -9,7 +9,7 @@ ya vas a ver
 yas vas a ver
 `_______`
 `_______`
-?
+[[SR/memory/KkIu00u3.md|?]]
 **Filling in:**
 ya vas a ver
 como va sanando poco a poco tus heridas
@@ -22,24 +22,24 @@ how your wounds will slowly heal little by little
 you'll see
 how life itself will
 settle the excess salt in the sea
-<!--LEARN:Oxe0LYiJ-->
+
 
 From Shakira's *Dia de Enero*:
 ya vas a ver...
-?
+[[SR/memory/vOgJ2be6.md|?]]
 You'll see...
-<!--LEARN:EWjZrevU-->
+
 
 From Shakira's *Dia de Enero*:
 ya vas a ver como va sanando poco a poco tus heridas
 Soon you'll see how...
-?
+[[SR/memory/sDYzJxLI.md|?]]
 your wounds will slowly heal little by little
-<!--LEARN:VmXAES4L-->
+
 
 From Shakira's *Dia de Enero*:
 ya vas a ver como va la misma vida a decantar la sal que sobre en el mar
 You'll see how...
-?
+[[SR/memory/L4vkVWJB.md|?]]
  life itself will settle the excess salt in the sea
-<!--LEARN:DaTbVQZ3-->
+

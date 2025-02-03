@@ -8,65 +8,65 @@ morse code a-z, 0-9
 
 
 'THE' in morse code
-?
+[[SR/memory/bSQQuaB3.md|?]]
 ![[Screenshot 2024-06-04 at 12.01.07 PM.png]]
-<!--LEARN:vL7G1vAH-->
+
 
 'QUICK' in morse code
-?
+[[SR/memory/iord1lvf.md|?]]
 ![[Screenshot 2024-06-04 at 12.10.15 PM.png]]
-<!--LEARN:ELVKQ9eE-->
+
 
 'BROWN' in morse code
-?
+[[SR/memory/XGLTuCS6.md|?]]
 ![[Screenshot 2024-06-04 at 12.04.38 PM.png]]
-<!--LEARN:QbpSbstz-->
+
 
 'FOX' in morse code
-?
+[[SR/memory/241QHGZt.md|?]]
 ![[Screenshot 2024-06-04 at 12.04.43 PM.png]]
-<!--LEARN:TZ2ldZ4g-->
+
 
 'JUMPS' in morse code
-?
+[[SR/memory/cRyWmULi.md|?]]
 ![[Screenshot 2024-06-04 at 12.03.01 PM.png]]
-<!--LEARN:QBSAulgB-->
+
 
 
 'OVER' in morse code
-?
+[[SR/memory/jiWY5onr.md|?]]
 ![[Screenshot 2024-06-04 at 12.03.10 PM.png]]
-<!--LEARN:nWDzN7Hl-->
+
 
 'THE' in morse code
-?
+[[SR/memory/Z64LyCr5.md|?]]
 ![[Screenshot 2024-06-04 at 12.03.16 PM.png]]
-<!--LEARN:sT8WXxt5-->
+
 
 'LAZY' in morse code
-?
+[[SR/memory/cExAeBvH.md|?]]
 ![[Screenshot 2024-06-04 at 12.03.22 PM.png]]
-<!--LEARN:CIXEnUKr-->
+
 
 'DOG' in morse code
-?
+[[SR/memory/qXz8AlhV.md|?]]
 ![[Screenshot 2024-06-04 at 12.16.01 PM.png]]
-<!--LEARN:H6bQJdzL-->
+
 
 '012' in morse code
-?
+[[SR/memory/bP28QqnM.md|?]]
 ![[Screenshot 2024-06-04 at 12.03.35 PM.png]]
-<!--LEARN:iG7MrTuG-->
+
 
 '345' in morse code
-?
+[[SR/memory/qHF8zHaG.md|?]]
 ![[Screenshot 2024-06-04 at 12.03.43 PM.png]]
-<!--LEARN:YTcl3wLF-->
+
 
 '6789' in morse code
-?
+[[SR/memory/VmEfWXRL.md|?]]
 ![[Screenshot 2024-06-04 at 12.03.48 PM.png]]
-<!--LEARN:YpvfbleR-->
+
 
 ![[Screenshot 2024-06-04 at 12.00.49 PM.png]]
 

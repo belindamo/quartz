@@ -6,13 +6,14 @@ atomic
 `___` linked
 even-handed
 `___`
-?
+[[SR/memory/mB09LJMx.md|?]]
 concept
 densely
 associative
 every evergreen note is a unit of >> knowledge work. It helps insight, comprehension, and writing accrete over time.
+<!--LEARN:kO3jpgWo-->
 ### References
-<!--LEARN:RlGXWcwr-->
+
 
 [1] This criteria is different from Matuschak's because he suggests writing solely for the self. I prefer shortcutting the process so that evergreen notes are both for myself and for others given that it is written simply. 
 

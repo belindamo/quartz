@@ -1,7 +1,7 @@
 #concept
 
-map of content (MOC) >> a note that maps the contents of some of your notes.
-<!--LEARN:nDnAG2Pv-->
+map of content (MOC) [[SR/memory/VRvzL0uu.md|>>]] a note that maps the contents of some of your notes.
+
 
 In my opinion, MOC is a bit of a useless term since every note maps the contents of your notes. It is hard to quantify and differentiate between an MOC note and a normal note. My implementation (as of Sep 1, 2024) is to have #concept and #concept-pamphlet  instead, to differentiate between atomic notes and more complex notes. 
 

@@ -1,10 +1,10 @@
 #concept
 
-forgetting curve >> how much you remember after learning
-<!--LEARN:XjQhzJcQ-->
+forgetting curve [[SR/memory/9f972C7x.md|>>]] how much you remember after learning
+
 
 forgetting curve equation
-?
+[[SR/memory/yeydzjJz.md|?]]
 `R=exp(-t/S)`
 where:
 - R = probability of recall, aka retrievability of memory
@@ -13,7 +13,7 @@ where:
 ### References
 1. https://supermemo.guru/wiki/Forgetting_curve
 ### Notes
-<!--LEARN:zFnOQCpI-->
+
 
 
 

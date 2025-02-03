@@ -1,14 +1,15 @@
 #concept
 
 Chinese Room argument
-?
+[[SR/memory/ZSkldwyv.md|?]]
 Imagine a native English speaker who knows no Chinese locked in a room full of boxes of Chinese symbols (a data base) together with a book of instructions for manipulating the symbols (the program). Imagine that people outside the room send in other Chinese symbols which, unknown to the person in the room, are questions in Chinese (the input). And imagine that by following the instructions in the program the man in the room is able to pass out Chinese symbols which are correct answers to the questions (the output). The program enables the person in the room to pass the Turing Test for understanding Chinese but he does not understand a word of Chinese.
 My own primary refutation of Chinese Room argument
 ?
 You can't compare the function of a heart to that of an entire human.
 ### References
 1. https://plato.stanford.edu/entries/chinese-room/#Over:~:text=Imagine%20a%20native,word%20of%20Chinese.
-<!--LEARN:W4h8Vvj3-->
+<!--LEARN:mGH9VZzo-->
+
 
 ### Notes
 

@@ -1,17 +1,17 @@
 #concept
 
 spaced repetition
-?
+[[SR/memory/lNpZu065.md|?]]
 psychological technique for efficient memorization [1]
-<!--LEARN:wjD3oEJh-->
+
 
 Common mistakes with spaced repetition
-?
+[[SR/memory/iS6cVeWu.md|?]]
 1. formulating poor questions and answers
 2. assuming it'll help you learn, as opposed to maintain and preserve what one already learned (although i'd contest this point)
 ### References
 1. https://gwern.net/spaced-repetition
-<!--LEARN:8VCLWdvI-->
+
 
 ### Notes
 

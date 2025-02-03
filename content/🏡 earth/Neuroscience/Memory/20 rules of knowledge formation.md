@@ -7,7 +7,7 @@ Rules of knowledge formation part 1
 - [keep questions](https://supermemo.guru/wiki/Simple_questions_in_spaced_repetition "Simple questions in spaced repetition") `___`
 -  `___` and other media assist memory
 - learn  `___`, e.g. peg lists
-?
+[[SR/memory/cj5wfIbY.md|?]]
 `you do not understand`
 `learn`
 `basics`, `complexities`
@@ -35,21 +35,22 @@ mnemonic, e.g. peg lists
 avoid `____`. they can be tackled with cloze deletion.
 ?
 lists, sets, enumerations
-<!--LEARN:jXq8RjIe-->
+<!--LEARN:5UX7CBSX-->
+
 
 Rules of knowledge formation part 2
 - personalize and provide `__`
 - `___` is fast and has a great [mnemonic power](https://supermemo.guru/wiki/Mnemonic_anchor "Mnemonic anchor")
 - use `___` (similar [items](https://supermemo.guru/wiki/Item "Item") asking similar questions from different angles)
 - use `___`
-?
+[[SR/memory/0fIuP9qi.md|?]]
 `examples`
 `cloze deletion`
 `redundancy`
 `references`
 ### References
 1. https://supermemo.guru/wiki/20_rules_of_knowledge_formulation
-<!--LEARN:pFRBegGd-->
+
 
 ### Notes
 

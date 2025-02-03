@@ -1,12 +1,12 @@
 #concept #paper
 
 What does CAPTCHA stand for?
-?
+[[SR/memory/gOvCQQjW.md|?]]
 Completely Automated Public Turing test to tell Computers and Humans Apart
 ### References
 1. [CAPTCHA paper](https://www.cs.cmu.edu/~mblum/research/pdf/captcha.pdf) 
 2. [reCAPTCHA paper](http://users.df.uba.ar/marcos/reCAPTCHA.pdf)
-<!--LEARN:DcuPYnDv-->
+
 
 ### Notes
 

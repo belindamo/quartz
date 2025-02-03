@@ -1,7 +1,7 @@
 #concept
 
-Conscientiousness >> the way in which we control, regulate, and direct our impulses. [1] It is one of 5 academically supported personality traits.
-<!--LEARN:9lPReFsW-->
+Conscientiousness [[SR/memory/3MXT4YLJ.md|>>]] the way in which we control, regulate, and direct our impulses. [1] It is one of 5 academically supported personality traits.
+
 Conscientiousness is linked with: [2]
 
 -   Better academic performance

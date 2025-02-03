@@ -1,12 +1,12 @@
 #concept
 
 What is **gradient descent**? 
-?
+[[SR/memory/AhJ8A7RX.md|?]]
 The process of a forward pass, backward pass, then update, in order to minimize loss.
 It is a method to minimize the loss in neural networks by iteratively adjusting the weights and biases. It updates each parameter in the direction that most decreases the loss.
 ### References
 1. [[Build micrograd, a scalar-based neural network with Karpathy]]
-<!--LEARN:NLu3LmBS-->
+
 
 ### Notes
 

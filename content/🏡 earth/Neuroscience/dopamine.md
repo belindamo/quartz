@@ -1,7 +1,7 @@
 #concept
 
-**Dopamine** >> creates desire and motivation to change and act. ### References
-<!--LEARN:35UiR46e-->
+**Dopamine** [[SR/memory/oQA7592L.md|>>]] creates desire and motivation to change and act. ### References
+
 1. Myself
 
 ### Notes

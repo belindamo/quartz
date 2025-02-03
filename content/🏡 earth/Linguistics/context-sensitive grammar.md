@@ -3,12 +3,12 @@
 
 
 A **context-sensitive grammar** (**CSG**) is a `____` in which the left-hand sides and right-hand sides of any `___` may be surrounded by a context of [terminal](https://en.wikipedia.org/wiki/Terminal_symbol "Terminal symbol") and [nonterminal symbols](https://en.wikipedia.org/wiki/Nonterminal_symbol "Nonterminal symbol").
-?
+[[SR/memory/HAURTrxp.md|?]]
 formal grammar, production rules
 #todo: i don't understand this term well enough
 ### References
 1. https://en.wikipedia.org/wiki/Context-sensitive_grammar
-<!--LEARN:iTvNDZqA-->
+
 
 ### Notes
 

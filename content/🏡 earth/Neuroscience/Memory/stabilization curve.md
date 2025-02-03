@@ -1,8 +1,9 @@
 #concept
 
 stabilization curve >> this curve tells you how much you gain in memory stability when you actively retrieve memories, e.g. in spaced repetition
+<!--LEARN:8IvWd8ku-->
 formula for stabilization curve
-?
+[[SR/memory/pKX7W4LQ.md|?]]
 `SInc = SInc^MAx * e^(-Gain * R)`
 where:
 - SInc = stability increase. the ratio of memory  stability after and before the repetition
@@ -12,7 +13,7 @@ where:
 Stabilization curve is the sibling to the [[forgetting curve]]. Wozniak claims it's the single most important curve in learning [1].
 ### References
 1. https://supermemo.guru/wiki/Stabilization_curve
-<!--LEARN:K9uwPcbn-->
+
 
 ### Notes
 

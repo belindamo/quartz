@@ -1,5 +1,5 @@
-principal component analysis >> reduces dimensionality from M dimensions to some N dimensions where N < M
-<!--LEARN:780jFmMQ-->
+principal component analysis [[SR/memory/sS8WY3TL.md|>>]] reduces dimensionality from M dimensions to some N dimensions where N < M
+
 
 it's good for -
 - compressing data

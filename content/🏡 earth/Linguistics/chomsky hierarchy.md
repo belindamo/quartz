@@ -1,22 +1,22 @@
 #concept 
 
 The Chomsky hierarchy contains `___` classes of `___` to describe increasingly complex languages
-?
+[[SR/memory/xAE0UnHA.md|?]]
 4, formal grammars
-<!--LEARN:8PXFw8l5-->
+
 
 The 4 classes of the Chomsky hierarchy, from most complex to simplest.
 - `___` enumerable (turing machine)
 - context-sensitive (turing machine but with finite tape)
 - `____` (finite state, finite memory)
 - regular (finite state)
-?
+[[SR/memory/FuYyb6bZ.md|?]]
 ![[Pasted image 20230801100034.png]]
 In the Chomsky hierarchy, the simplest grammars are regular, and can be accommodated by finite state automata.  The next most complicated are context-free grammars, which can be processed by pushdown automata (a device that is a finite state automaton with a finite internal memory).  Next are the context-sensitive grammars, which are the domain of linear bounded automata (i.e., a device like a Turing machine, but with a ticker tape of bounded length).  The most complex grammars are the phrase structure grammars, which can only be dealt with by Turing machines. [2]
 ### References
 1. https://en.wikipedia.org/wiki/Chomsky_hierarchy
 2. http://www.bcp.psych.ualberta.ca/~mike/Pearl_Street/Dictionary/contents/C/Chomhier.html#:~:text=The%20most%20complex%20grammars%20are,theoretical%20proposals%20within%20cognitive%20science.
-<!--LEARN:zgpxtGiA-->
+
 
 ### Notes
 

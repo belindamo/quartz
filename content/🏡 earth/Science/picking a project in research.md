@@ -6,7 +6,7 @@ What are some good strategies for picking a project?
 3. When you see a `______`
 4. Pulling a thread on a weird result
 5. Playing a hunch "Would it be possible to...."
-?
+[[SR/memory/jesU13uc.md|?]]
 Rage
 new
 new north star
@@ -15,7 +15,8 @@ What seems uniquely important in picking a project in research?
 People > Projects
 ### References
 1. [[CS197 Winter Lec08 - Picking a Project.pdf]]
-<!--LEARN:wae94Tfu-->
+<!--LEARN:hCQp2e6i-->
+
 
 ### Notes
 

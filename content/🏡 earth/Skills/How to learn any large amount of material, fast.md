@@ -2,7 +2,7 @@
 
 
 How to learn any large amount of material, fast? Acronym
-?
+[[SR/memory/ZDa2Y43a.md|?]]
 DR. SWFIT IRA
 - D - Decide what to learn and why 
 - R - Relax and surrender to new neural circuits 

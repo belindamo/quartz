@@ -1,7 +1,7 @@
 #concept
 
-backpropagation >> the process of doing forward and backward passes repeatedly on a model in order to minimize the error, until you reach the stopping criteria.
-<!--LEARN:luzBo333-->
+backpropagation [[SR/memory/mouU7XgU.md|>>]] the process of doing forward and backward passes repeatedly on a model in order to minimize the error, until you reach the stopping criteria.
+
 
 ### References
 1. [[Build micrograd, a scalar-based neural network with Karpathy]]

@@ -1,6 +1,6 @@
 
 Name 0-9 categories for the 1's place
-?
+[[SR/memory/5gEpMrNm.md|?]]
 - 0 - Animal
 - 1 - Primary Character
 - 2 - Secondary Character
@@ -11,10 +11,10 @@ Name 0-9 categories for the 1's place
 - 7 - Goofy Character
 - 8 - Secondary Villain
 - 9 - Lover
-<!--LEARN:8E1lcqlR-->
+
 
 Name 00, 0-9 categories for the 0's place
-?
+[[SR/memory/lmtnAucR.md|?]]
 - 00 - Naruto
 - 0 - Alanna
 - 1 - ATLA
@@ -26,5 +26,5 @@ Name 00, 0-9 categories for the 0's place
 - 7 - Wicked
 - 8 - Hamilton
 - 9 - OHSHC
-<!--LEARN:jkp2oB3X-->
+
 

@@ -9,7 +9,7 @@
 
 
 why fascination? automatic correction of human translations https://arxiv.org/pdf/2206.08593
-?
+[[SR/memory/tupefitx.md|?]]
 This is an instance of machine-generated edits to human-generated translations :o this could probably help with eval submission...
 What is TEC? 
 ?
@@ -25,7 +25,8 @@ What did expert translators find that TEC was most useful for?
 ---
 ## Lilt's patents
 - Apparatus and method for accurate translation reveiws and consistency across multiple translators https://patentimages.storage.googleapis.com/86/1b/28/42d5af997aba2e/US11625546.pdf
-<!--LEARN:PpHYgyjS-->
+<!--LEARN:woEPMw0c-->
+
 
 
 

@@ -162,9 +162,9 @@ terms. include specific equations where you can, pulled from reference material.
 
 
 what is softmax?
-?
+[[SR/memory/nOo2tmao.md|?]]
 ![[Screenshot 2024-06-08 at 3.16.42 PM.png]]
-<!--LEARN:AaivFMO7-->
+
 
 ### ch5
 - classification

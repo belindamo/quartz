@@ -1,7 +1,7 @@
 #concept
 
-Gödel numbering is >> a function that assigns to each symbol or well-formed formula of some language a unique natural number, a Gödel number. 
-<!--LEARN:UTlchXic-->
+Gödel numbering is [[SR/memory/nsFlPKnJ.md|>>]] a function that assigns to each symbol or well-formed formula of some language a unique natural number, a Gödel number. 
+
 
 
 ### References

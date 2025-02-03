@@ -40,7 +40,7 @@ Structure is currently pulled from [[CS 229 Lecture Notes - Spring 2023.pdf]] [1
 - [[CS229 Lecture Notes Questions]]
 - [[CS229 Psets on linear algebra]]
 - [[Deep Learning Textbook (Goodfellow 2016)]]
-- [[Reinforcement learning]]
+- [[🏡 earth/Computer Science/Artificial Intelligence/Reinforcement learning]]
 - [[cs224w]]
 - [[CS224n]]
 - [[CS238 - Decision making under uncertainty]]

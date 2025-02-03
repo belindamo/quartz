@@ -1,17 +1,17 @@
 #concept
 #todo : don't fully grasp this intuitively yet....
 
-`QKV` stands for >> query, key, value
-<!--LEARN:7l8MWjeE-->
+`QKV` stands for [[SR/memory/zms7JIl1.md|>>]] query, key, value
 
-`Query` in QKV >> vectors that represent input elements
-<!--LEARN:fV3aIJ10-->
 
-`Key` in QKV >> vectors that represent input elements, but for the future prediction
-<!--LEARN:GkijMhC4-->
+`Query` in QKV [[SR/memory/pC9vWy9q.md|>>]] vectors that represent input elements
 
-`Value` in QKV >> actual content from input that is aggregated into the output
-<!--LEARN:gYpRF6jP-->
+
+`Key` in QKV [[SR/memory/S9LOE67m.md|>>]] vectors that represent input elements, but for the future prediction
+
+
+`Value` in QKV [[SR/memory/eEOS4i5b.md|>>]] actual content from input that is aggregated into the output
+
 
 ### References
 1. Karpathy GPT vid? 

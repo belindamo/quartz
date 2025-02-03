@@ -58,10 +58,10 @@ He also says the Four Noble Truths make clear that Craving drives the whole proc
 
 ### Craving
 According to Path to Nibbana, craving is at the root of `____` 
-?
+[[SR/memory/KCyXXZTk.md|?]]
 `suffering`
 Craving is at the root of suffering. Craving manifests as desire to control what happens. When it can't be accomplished, suffering arises, and we don't like it. This leads to frustration and an even further desire to control.
-<!--LEARN:RoKSGI8o-->
+
 
 ---
 
@@ -89,22 +89,22 @@ tranquil wisdom insight meditation is a feeling exercise to uplift the mind and 
 ### 4 Noble Truths
 
 4 noble truths in buddhism
-?
+[[SR/memory/hbWeeIKS.md|?]]
 1. There is suffering
 2. Suffering is caused by craving
 3. There is the cessation of suffering
 4. There is a path to the cessation of suffering, called the Eightfold path.
 ### 4 Brahmaviharas
-<!--LEARN:zKcxGdwB-->
+
 
 4 divine qualities of mind that are particularly wholesome, in buddhism
-?
+[[SR/memory/M1OrGAol.md|?]]
 1. Loving-kindness (Metta)
 2. Compassion (Karuna)
 3. Joy (Mudita)
 4. Equanimity (Upekkha)
 ### Breaking down the barriers
-<!--LEARN:EsfzqLYv-->
+
 
 ### Radiate to all 6 directions
 
@@ -150,7 +150,7 @@ Nibbana is the cessation of craving. This is a state of no feeling, no perceptio
 ### Body vs. mind processes
 
 mind is to `___` and `___` as body is to `___` and `___`, according to the book Path to Nibbana
-?
+[[SR/memory/ub2QtlnN.md|?]]
 1. Mind 
 	1. Thoughts
 	2. Images
@@ -158,22 +158,22 @@ mind is to `___` and `___` as body is to `___` and `___`, according to the book 
 	1. Tension
 	2. TightnessBut they are so intertwined. Mind is physically part of the body afterall.
 I think maybe, mind processes are 1+ levels above body processes described above.
-<!--LEARN:kls3TeD2-->
+
 
 ### jhanas 5-8
 - Bhante's opinion is that when buddha refers to compassion, the state he is talking about is j5
 - He further explains that buddha did j5 every morning, with compassion as his object of meditation. From this state, the buddha would then survey the world for people who needed his compassion and were ready to understand his teachings. He saw "people who had little dust in their eyes and were ready to attain awakening"
-### cessation and nibbanacessation >> stopping of mental stream
-<!--LEARN:pHwZUz4R-->
-According to Johnson, nibnana is >> cessation (stopping of mental stream) and seeing dependent origination. Supposedly, it is an unconditioned state.
-<!--LEARN:TC8QsQgC-->
+### cessation and nibbanacessation [[SR/memory/kUiOpgBZ.md|>>]] stopping of mental stream
+
+According to Johnson, nibnana is [[SR/memory/ail9TeGL.md|>>]] cessation (stopping of mental stream) and seeing dependent origination. Supposedly, it is an unconditioned state.
+
 - cessation is like a stopping of mental stream. physical ones continue
 - nibbana is like cessation + seeing dependent origination. "an unconditioned state"
 
 ### 10 fetters
 
 10 fetters
-?
+[[SR/memory/bFWB9Xel.md|?]]
 1. "personality belief" in "I"
 2. skeptical doubt that Right Effort is the way to awakening
 3. knowing rites/rituals by themselves don't lead to awakening
@@ -183,7 +183,7 @@ According to Johnson, nibnana is >> cessation (stopping of mental stream) and se
 8. sloth and torpor
 9. restlessness and worry
 10. not knowing the 4 noble truths and dependent origination
-<!--LEARN:XWp92npx-->
+
 
 ---
 ### these all sound pretty neat! 
