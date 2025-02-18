@@ -2,7 +2,7 @@
 
 # 🧪 Experiment write-ups
 
-- [[25-39. Quantified learning Part I]]
+- [[generative learning sequence]]
 - [[21-24. Test effects of qi gong on people and objects]]
 - [[20. AI interface to generate flashcards about Wikipedia's vital articles (version 1)]]
 - [[19. Recreate SWE-bench to collect real-world programming evaluation data]]
