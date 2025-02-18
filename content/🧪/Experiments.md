@@ -39,7 +39,7 @@ These write-ups were created by running my written notes through ChatGPT.
 These are proposals that I've been working on
 
 - [[Back-translation for Alignment of LLM Generation of Code, Tests, and more]]
-- [[Proposal - Crowdsourcing a universal browser automation task graph with continuously running tests]]
+- [[Proposal - Crowdsourcing a universal browser automation task graph with continuously running tests 🧪]]
 - [[AI Theorem Proving for International Math Olympiad Problems]]
 - [["LLM Operating System"]]
 - [[Explainable Protocols for 2x+ Retention Improvements to Human Long-Term Memory]]

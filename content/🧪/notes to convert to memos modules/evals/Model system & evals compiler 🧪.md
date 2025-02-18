@@ -14,7 +14,6 @@ instantiate solution: A system that takes natural language objectives and docker
     
 - Model system components
     
-
 - System prompts
     
 - One/Few shot Messages

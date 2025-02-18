@@ -1,5 +1,3 @@
-
-
 ## Experiment: Back-translation for Language Model Outputs
 
 Problem
@@ -253,7 +251,7 @@ Misc. related
 
 ## 2024-03-20
 
-Justin todos:
+ todos:
 
 -  Run evals on ‘./datasets/GSM8K/test_100.jsonl’. See run_all() function in run_gs8mk_evals.py
 	- CoT-SC, gpt-3.5-turbo-0125
@@ -261,14 +259,9 @@ Justin todos:
 	- CoT-SC, claude-3-opus-20240229
 	- CoT-SC, claude-3-sonnet-20240229
 - Proposal + Wireframes for chat.lmsys.org 2.0
-  
-Belinda todos:
-
 - Implement Back-translation experiment
 - Erik meeting
     
-
-  
 
 ## 2024-03-18
 
